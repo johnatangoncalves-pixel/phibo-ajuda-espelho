@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: clientes
+    primary: true
+  - relatorios
+---
+
 # Painel de Clientes
 
 ## Entenda no vídeo a seguir como analisar a tela do Painel de Clientes
@@ -27,3 +34,7 @@ Nesta tela você também consegue visualizar os clientes que mais compraram ness
 Logo abaixo você também consegue validar as formas de cadastro que mais atraíram os clientes nesse período, além dos Fornecedores que tiveram mais produtos vendidos.
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FgfcG9Eu9EBorCSlf9iRr%2Fimage.png?alt=media&amp;token=6f987f3a-7037-4734-a894-9b7f98438da6" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: cliente, cadastro de cliente, relatório, painel, análise.*

@@ -1,5 +1,9 @@
 ---
 description: "Ative o cashback e use o saldo nas vendas."
+tags:
+  - tag: fidelizacao
+    primary: true
+  - clientes
 ---
 
 # Cashback

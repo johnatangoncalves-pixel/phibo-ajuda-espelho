@@ -1,5 +1,10 @@
 ---
 description: "Muitas vezes precisamos corrigir algum recebimento de crediário feito. Neste artigo você verá como realizar isso no sistema Phibo."
+tags:
+  - tag: crediario
+    primary: true
+  - vendas
+  - erros
 ---
 
 # Como desfazer um recebimento no crediário
@@ -19,3 +24,7 @@ description: "Muitas vezes precisamos corrigir algum recebimento de crediário f
 ## Pronto! Feito isso, a parcela ficará sem nenhum registro de recebimento:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2F94mYua4vbacodTMXjFdg%2Fimage.png?alt=media&amp;token=9951d0b7-58a9-4207-98b2-31ca251a8fb7" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: crediário, carnê, parcela, fiado, venda, vender, PDV, frente de caixa, erro, problema, não funciona.*

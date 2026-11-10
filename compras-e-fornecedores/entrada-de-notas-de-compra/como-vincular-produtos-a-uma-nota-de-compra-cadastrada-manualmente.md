@@ -1,5 +1,11 @@
 ---
 description: "Assista o vídeo abaixo e veja o passo a passo completo para entender como realizar o procedimento:"
+tags:
+  - tag: compras
+    primary: true
+  - nota-fiscal
+  - estoque
+  - produtos
 ---
 
 # Como vincular produtos a uma nota de compra cadastrada manualmente
@@ -25,3 +31,7 @@ Em seguida, clique na aba DUPLICATAS e clique em INCLUIR DUPLICATA e insira cada
 Por fim, clique em SALVAR
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FmCjCQ6L0ssSx96wLcZF8%2Fimage.png?alt=media&amp;token=8fb67d15-b763-4252-9605-57800e39b7c8" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: compra, fornecedor, nota de entrada, mercadoria, nota fiscal, NF, NFC-e, NF-e, cupom fiscal, estoque, inventário, contagem, saldo de peças, produto, peça, cadastro de produto.*

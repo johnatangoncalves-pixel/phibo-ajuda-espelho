@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: conta
+    primary: true
+---
+
 # Como liberar as permissões do AnyDesk no Mac
 
 #### Para possibilitar que nossos especialistas acessem via Anydesk o seu MacBook, será necessários realizar algumas configurações. Assista detalhadamente no vídeo abaixo:
@@ -78,3 +84,7 @@
 **✔️ Sessão encerrada imediatamente.**
 
 
+
+---
+
+*🔎 Também procurado como: conta, acesso, usuário, senha.*

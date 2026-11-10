@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: compras
+    primary: true
+  - nota-fiscal
+---
+
 # Como baixar o pagamento de uma nota de fornecedor
 
 {% hint style="info" %}
@@ -9,3 +16,7 @@
 Assista o vídeo abaixo para ver o processo passo a passo:
 
 {% embed url="<https://www.loom.com/share/b4be19846b6e448690e832a0f73f3e7b?sid=bc639e9d-b6c5-49be-ab09-5780f35293b1>" %}
+
+---
+
+*🔎 Também procurado como: compra, fornecedor, nota de entrada, mercadoria, nota fiscal, NF, NFC-e, NF-e, cupom fiscal.*

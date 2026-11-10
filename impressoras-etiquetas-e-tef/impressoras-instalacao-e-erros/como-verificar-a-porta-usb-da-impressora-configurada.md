@@ -1,3 +1,11 @@
+---
+tags:
+  - tag: impressora
+    primary: true
+  - nota-fiscal
+  - erros
+---
+
 # Como verificar a porta USB da impressora configurada
 
 E possível alternar entre as portas configuradas no Windows para uma impressora.
@@ -39,3 +47,7 @@ Selecione o separador Portas para verificar qual a porta de impressão que está
 As portas de impressão selecionadas na coluna de portas estão disponíveis. Pode verificar o tipo de porta em Descrição.
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2F0lTbCMEMhhsJeTqeZQ1n%2Fimage.png?alt=media&amp;token=a1af70df-a9fd-417a-8627-6b6bed5d2480" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: impressora, imprimir, impressão, nota fiscal, NF, NFC-e, NF-e, cupom fiscal, erro, problema, não funciona.*

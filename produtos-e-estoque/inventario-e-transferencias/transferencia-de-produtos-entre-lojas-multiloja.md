@@ -1,5 +1,9 @@
 ---
 description: "Veja o passo a passo abaixo para entender no detalhe como funciona a transferência de produtos entre lojas dentro do Phibo!"
+tags:
+  - tag: estoque
+    primary: true
+  - produtos
 ---
 
 # Transferência de produtos entre lojas (Multiloja)
@@ -21,3 +25,7 @@ description: "Veja o passo a passo abaixo para entender no detalhe como funciona
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FCmi2m1VOOv5ObZHOOTV7%2Fimage.png?alt=media&amp;token=c9e08d07-6141-46ca-8d6b-43f40858ed15" alt=""><figcaption></figcaption></figure>
 
 ### PASSO 5 (Caso haja erros, recomendamos entrar em contato com o suporte e corrigir todos, antes de fazer a transferência, pois caso contrário poderão faltar produtos)
+
+---
+
+*🔎 Também procurado como: estoque, inventário, contagem, saldo de peças, produto, peça, cadastro de produto, grade, tamanho.*

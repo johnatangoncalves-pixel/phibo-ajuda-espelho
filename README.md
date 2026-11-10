@@ -22,11 +22,11 @@ Como podemos ajudar? Use a **busca** no topo (ou **Ctrl + K**) e escreva o que v
 
 * [Como fazer uma venda](vendas-no-pdv/fazer-uma-venda/como-fazer-uma-venda.md)
 * [Como fechar o caixa](caixa-e-financeiro/caixa-diario/como-fechar-o-caixa.md)
-* [Como emitir NFC-e (modelo 65)](notas-fiscais/emitir-nota-de-venda-nfc-e-nf-e/como-emitir-nfc-e-modelo-65.md)
+* [Como emitir a nota fiscal da venda na loja (NFC-e)](notas-fiscais/emitir-nota-de-venda-nfc-e-nf-e/como-emitir-nfc-e-modelo-65.md)
 * [🔄 Qual troca ou devolução usar](ajuda-rapida/qual-troca-ou-devolucao-usar.md)
 * [Como imprimir etiquetas](impressoras-etiquetas-e-tef/etiquetas/como-imprimir-etiquetas.md)
 * [Como receber uma parcela do crediário (e excluir um recebimento)](crediario/crediario/como-receber-uma-parcela-do-crediario-e-excluir-um-recebimento.md)
-* [Como cadastrar produtos pelo XML da nota de compra](compras-e-fornecedores/entrada-de-notas-de-compra/como-cadastrar-produtos-pelo-xml-da-nota-de-compra.md)
+* [Como cadastrar produtos pelo arquivo da nota de compra (XML)](compras-e-fornecedores/entrada-de-notas-de-compra/como-cadastrar-produtos-pelo-xml-da-nota-de-compra.md)
 * [Como excluir uma venda](vendas-no-pdv/fazer-uma-venda/como-excluir-uma-venda.md)
 
 ## 📚 Todos os temas
@@ -36,7 +36,7 @@ Como podemos ajudar? Use a **busca** no topo (ou **Ctrl + K**) e escreva o que v
 <tr><td><strong>👗 Produtos e estoque</strong></td><td>Cadastro de produtos, grades, variações e análise de estoque</td><td><a href="produtos-e-estoque/README.md">produtos-e-estoque/README.md</a></td></tr>
 <tr><td><strong>🛒 Compras e fornecedores</strong></td><td>Notas de compra, XML, fornecedores e planejamento de compras</td><td><a href="compras-e-fornecedores/README.md">compras-e-fornecedores/README.md</a></td></tr>
 <tr><td><strong>👥 Clientes</strong></td><td>Cadastro, filtros e painel de clientes</td><td><a href="clientes/README.md">clientes/README.md</a></td></tr>
-<tr><td><strong>💸 Vendas no PDV</strong></td><td>PDV, formas de pagamento, descontos, metas e relatórios</td><td><a href="vendas-no-pdv/README.md">vendas-no-pdv/README.md</a></td></tr>
+<tr><td><strong>💸 Vendas no caixa</strong></td><td>PDV, formas de pagamento, descontos, metas e relatórios</td><td><a href="vendas-no-pdv/README.md">vendas-no-pdv/README.md</a></td></tr>
 <tr><td><strong>🔄 Trocas e devoluções</strong></td><td>Trocas e devoluções com ou sem nota fiscal</td><td><a href="trocas-e-devolucoes/README.md">trocas-e-devolucoes/README.md</a></td></tr>
 <tr><td><strong>🎫 Crediário</strong></td><td>Vendas no crediário, recebimentos, juros e cobrança</td><td><a href="crediario/README.md">crediario/README.md</a></td></tr>
 <tr><td><strong>👜 Bags Delivery</strong></td><td>Montar, editar e finalizar bags</td><td><a href="bags-delivery/README.md">bags-delivery/README.md</a></td></tr>
@@ -44,7 +44,7 @@ Como podemos ajudar? Use a **busca** no topo (ou **Ctrl + K**) e escreva o que v
 <tr><td><strong>🧾 Notas fiscais</strong></td><td>Certificado, NFC-e, NF-e, correções e XML para o contador</td><td><a href="notas-fiscais/README.md">notas-fiscais/README.md</a></td></tr>
 <tr><td><strong>💬 Fidelização e marketing</strong></td><td>Cartão fidelidade, cashback, WhatsApp e PhiboZap</td><td><a href="fidelizacao-e-marketing/README.md">fidelizacao-e-marketing/README.md</a></td></tr>
 <tr><td><strong>🔌 Loja online e entregas</strong></td><td>Nuvemshop, Bagy, Tray, TikTok Shop e logística</td><td><a href="loja-online-e-entregas/README.md">loja-online-e-entregas/README.md</a></td></tr>
-<tr><td><strong>🖨️ Impressoras, etiquetas e TEF</strong></td><td>Impressoras de etiqueta e cupom, etiquetas e TEF</td><td><a href="impressoras-etiquetas-e-tef/README.md">impressoras-etiquetas-e-tef/README.md</a></td></tr>
+<tr><td><strong>🖨️ Impressoras, etiquetas e maquininha</strong></td><td>Impressoras de etiqueta e cupom, etiquetas e TEF</td><td><a href="impressoras-etiquetas-e-tef/README.md">impressoras-etiquetas-e-tef/README.md</a></td></tr>
 <tr><td><strong>⚙️ Minha conta e suporte</strong></td><td>Mensalidade, usuários, configurações e suporte remoto</td><td><a href="minha-conta-e-suporte/README.md">minha-conta-e-suporte/README.md</a></td></tr>
 </tbody></table>
 

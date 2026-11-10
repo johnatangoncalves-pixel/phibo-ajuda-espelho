@@ -36,7 +36,7 @@ description: "Cartão fidelidade, cashback, WhatsApp e PhiboZap"
 * [Como criar mensagens no PhiboZap](phibozap/como-criar-mensagens-no-phibozap.md)
 * [Como criar listas no PhiboZap](phibozap/como-criar-listas-no-phibozap.md)
 * [Como criar campanhas no PhiboZap](phibozap/como-criar-campanhas-no-phibozap.md)
-* [Envio automático da Nota Fiscal e Cupom de Venda após a conclusão da venda](phibozap/envio-automatico-da-nota-fiscal-e-cupom-de-venda-apos-a-conclusao-da-venda.md)
+* [Envio automático da nota fiscal e Cupom de Venda após a conclusão da venda](phibozap/envio-automatico-da-nota-fiscal-e-cupom-de-venda-apos-a-conclusao-da-venda.md)
 * [Envio do cartão fidelidade automaticamente pelo PhiboZap](phibozap/envio-do-cartao-fidelidade-automaticamente-pelo-phibozap.md)
 * [Envio recorrente para clientes do cartão fidelidade que não compram há X dias](phibozap/envio-recorrente-para-clientes-do-cartao-fidelidade-que-nao-compram-ha-x-dias.md)
 * [Como criar campanha de cobrança automática no PhiboZap](phibozap/como-criar-campanha-de-cobranca-automatica-no-phibozap.md)

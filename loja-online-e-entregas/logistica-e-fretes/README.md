@@ -1,8 +1,11 @@
 ---
 description: "Gere etiquetas de envio com Melhor Envio, Mandaê e Correios."
+tags:
+  - tag: entregas
+    primary: true
 ---
 
-# Logística e fretes
+# Envios e fretes
 
 Gere etiquetas de envio com Melhor Envio, Mandaê e Correios.
 

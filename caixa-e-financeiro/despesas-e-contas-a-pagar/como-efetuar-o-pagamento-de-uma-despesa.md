@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: financeiro
+    primary: true
+---
+
 # Como efetuar o pagamento de uma despesa
 
 #### Segue o vídeo PASSO A PASSO de como efetuar o pagamento de uma despesa no sistema Phibo:
@@ -23,3 +29,7 @@
 #### E prontinho, sua despesa já foi baixada!
 
 
+
+---
+
+*🔎 Também procurado como: financeiro, contas, despesas, lucro.*

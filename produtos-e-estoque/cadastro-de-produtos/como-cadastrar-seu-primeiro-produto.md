@@ -1,5 +1,9 @@
 ---
 description: "Aprenda a cadastrar o seu primeiro produto DO ZERO no Phibo!"
+tags:
+  - tag: produtos
+    primary: true
+  - primeiros-passos
 ---
 
 # Como cadastrar seu primeiro produto
@@ -7,7 +11,7 @@ description: "Aprenda a cadastrar o seu primeiro produto DO ZERO no Phibo!"
 {% embed url="<https://www.loom.com/share/c05c8283ddba4b3db2f367faf8201948>" %}
 
 {% content-ref url="../../compras-e-fornecedores/entrada-de-notas-de-compra/como-cadastrar-produtos-pelo-xml-da-nota-de-compra.md" %}
-[Como cadastrar produtos pelo XML da nota de compra](../../compras-e-fornecedores/entrada-de-notas-de-compra/como-cadastrar-produtos-pelo-xml-da-nota-de-compra.md)
+[Como cadastrar produtos pelo arquivo da nota de compra (XML)](../../compras-e-fornecedores/entrada-de-notas-de-compra/como-cadastrar-produtos-pelo-xml-da-nota-de-compra.md)
 {% endcontent-ref %}
 
 Primeiramente vá até a aba de COMPRAS > GESTÃO DE ESTOQUE > CADASTRAR PRODUTO:
@@ -100,3 +104,7 @@ E então clique em CADASTRAR OUTRO PRODUTO:
 E pronto!! Você aprendeu a cadastrar as mercadorias no sistema Phibo! 🎉💙
 
 Agora mãos à obra pro cadastro completo do estoque! 😁
+
+---
+
+*🔎 Também procurado como: produto, peça, cadastro de produto, grade, tamanho, começar, implantação, treinamento.*

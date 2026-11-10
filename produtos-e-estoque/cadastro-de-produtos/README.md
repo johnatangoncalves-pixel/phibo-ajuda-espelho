@@ -1,5 +1,8 @@
 ---
 description: "Como cadastrar produtos manualmente, com fotos ou com código de barras próprio."
+tags:
+  - tag: produtos
+    primary: true
 ---
 
 # Cadastro de produtos

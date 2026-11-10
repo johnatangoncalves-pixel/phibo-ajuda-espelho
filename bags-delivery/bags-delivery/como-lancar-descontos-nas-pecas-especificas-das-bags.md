@@ -1,3 +1,11 @@
+---
+tags:
+  - tag: bags
+    primary: true
+  - vendas
+  - descontos
+---
+
 # Como lançar descontos nas peças específicas das bags
 
 ## Para dar o desconto em uma peça específica da bag, vá em VENDAS > BAG > EFETIVAR VENDA BAG.
@@ -23,3 +31,7 @@
 ### Por fim , confirme o valor dos produtos e clique em EFETUAR RECEBIMENTO para ser direcionado para o PDV de vendas e finalize a venda.
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FbBZYRYp5dh3no4Rt01ey%2Fimage.png?alt=media&amp;token=3805a599-1d4a-472e-965d-e950c5f1a448" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: bag, condicional, malinha, sacola, venda, vender, PDV, frente de caixa, desconto, promoção, cupom de desconto, liquidação.*

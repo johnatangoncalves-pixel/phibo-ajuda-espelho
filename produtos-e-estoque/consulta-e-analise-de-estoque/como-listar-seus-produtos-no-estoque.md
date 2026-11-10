@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: estoque
+    primary: true
+  - produtos
+---
+
 # Como listar seus produtos no estoque
 
 {% embed url="<https://www.loom.com/share/14b25c60a39a475186f6d59eb3e1698c>" %}
@@ -22,3 +29,7 @@ Caso queira, também pode incluir outros tipos de filtros para fazer a análise,
 E em **Mais filtros de variações** ainda há outras opções de filtros para utilizar. Com os filtros devidamente selecionados, basta clicar em APLICAR FILTRO.
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FcAMwjKaEAnsMVQiz7V6O%2Fimage.png?alt=media&amp;token=2cda5653-47dd-4f11-9908-1e007abc1c3d" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: estoque, inventário, contagem, saldo de peças, produto, peça, cadastro de produto, grade, tamanho.*

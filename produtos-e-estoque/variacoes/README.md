@@ -1,5 +1,8 @@
 ---
 description: "Tamanhos, cores e outras variações de um mesmo produto: cadastrar, agrupar e desvincular."
+tags:
+  - tag: produtos
+    primary: true
 ---
 
 # Variações

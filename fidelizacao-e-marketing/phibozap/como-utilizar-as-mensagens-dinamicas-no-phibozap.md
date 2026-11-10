@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: phibozap
+    primary: true
+  - whatsapp
+---
+
 # Como utilizar as mensagens dinâmicas no PhiboZap
 
 {% embed url="<https://youtu.be/UdHP5hwrXMA>" %}
@@ -41,3 +48,7 @@ Exemplo prático de mensagem dinâmica de aniversário 🎂
 { Abraços da equipe ❤️ | Conte sempre conosco | Aproveite muito seu aniversário }
 
 Com as Mensagens Dinâmicas do PhiboZap, suas automações ficam muito mais inteligentes, profissionais e naturais 🚀
+
+---
+
+*🔎 Também procurado como: PhiboZap, mensagem automática, disparo em massa, WhatsApp, Zap, mensagem.*

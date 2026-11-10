@@ -11,9 +11,9 @@ description: "Caixa, despesas, contas a receber e relatórios financeiros"
 ### [Caixa diário](caixa-diario/README.md)
 
 * [Como fechar o caixa](caixa-diario/como-fechar-o-caixa.md)
-* [Como fazer abertura, suprimento e sangria de caixa](caixa-diario/como-fazer-abertura-suprimento-e-sangria-de-caixa.md)
-* [Como analisar o Caixa Mensal](caixa-diario/como-analisar-o-caixa-mensal.md)
-* [Como usar múltiplos caixas](caixa-diario/como-usar-multiplos-caixas.md)
+* [Como abrir o caixa, colocar troco e retirar dinheiro (sangria)](caixa-diario/como-fazer-abertura-suprimento-e-sangria-de-caixa.md)
+* [Como analisar o caixa do mês](caixa-diario/como-analisar-o-caixa-mensal.md)
+* [Como usar mais de um caixa na loja](caixa-diario/como-usar-multiplos-caixas.md)
 * [Atualização do fechamento de caixa para as telas novas do sistema](caixa-diario/atualizacao-do-fechamento-de-caixa-para-as-telas-novas-do-sistema.md)
 
 ### [Despesas e contas a pagar](despesas-e-contas-a-pagar/README.md)
@@ -33,13 +33,13 @@ description: "Caixa, despesas, contas a receber e relatórios financeiros"
 * [Como editar as taxas dos cartões](contas-a-receber-e-cartoes/como-editar-as-taxas-dos-cartoes.md)
 * [Como antecipar manualmente parcelas no cartão de crédito](contas-a-receber-e-cartoes/como-antecipar-manualmente-parcelas-no-cartao-de-credito.md)
 
-### [Visão geral e relatórios](visao-geral-e-relatorios/README.md)
+### [Relatórios financeiros](visao-geral-e-relatorios/README.md)
 
 * [Aprendendo o que é um bom controle financeiro](visao-geral-e-relatorios/aprendendo-o-que-e-um-bom-controle-financeiro.md)
-* [Detalhamento do módulo financeiro](visao-geral-e-relatorios/detalhamento-do-modulo-financeiro.md)
-* [Como analisar o Painel Geral Financeiro](visao-geral-e-relatorios/como-analisar-o-painel-geral-financeiro.md)
-* [Como analisar a movimentação de cada Conta Bancária](visao-geral-e-relatorios/como-analisar-a-movimentacao-de-cada-conta-bancaria.md)
-* [Como fazer a análise de Listar Fluxo de Caixa](visao-geral-e-relatorios/como-fazer-a-analise-de-listar-fluxo-de-caixa.md)
-* [Como analisar o DRE](visao-geral-e-relatorios/como-analisar-o-dre.md)
+* [Como funciona o Financeiro do Phibo](visao-geral-e-relatorios/detalhamento-do-modulo-financeiro.md)
+* [Como analisar o painel financeiro](visao-geral-e-relatorios/como-analisar-o-painel-geral-financeiro.md)
+* [Como ver a movimentação de cada conta bancária](visao-geral-e-relatorios/como-analisar-a-movimentacao-de-cada-conta-bancaria.md)
+* [Como acompanhar as entradas e saídas de dinheiro (fluxo de caixa)](visao-geral-e-relatorios/como-fazer-a-analise-de-listar-fluxo-de-caixa.md)
+* [Como ver se a loja teve lucro (DRE)](visao-geral-e-relatorios/como-analisar-o-dre.md)
 * [Apresentação da tela do Financeiro](visao-geral-e-relatorios/apresentacao-da-tela-do-financeiro.md)
 

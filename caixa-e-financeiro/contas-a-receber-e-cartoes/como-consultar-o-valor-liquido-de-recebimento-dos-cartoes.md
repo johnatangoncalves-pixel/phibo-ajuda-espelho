@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: maquininha
+    primary: true
+  - financeiro
+---
+
 # Como consultar o valor líquido de recebimento dos cartões
 
 **Assista abaixo o vídeo com a explicação detalhada de como fazer essa consulta e análise:**
@@ -11,3 +18,7 @@
 #### 2 - Por fim, basta selecionar o período e a maquininha que deseja visualizar
 
 {% embed url="<https://prnt.sc/fdqelll4yhVs>" %}
+
+---
+
+*🔎 Também procurado como: máquina de cartão, maquininha, cartão de crédito, cartão de débito, TEF, financeiro, contas, despesas, lucro.*

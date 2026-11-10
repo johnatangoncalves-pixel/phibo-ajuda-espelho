@@ -2,7 +2,7 @@
 description: "Impressoras de etiqueta e cupom, etiquetas e TEF"
 ---
 
-# Visão geral: Impressoras, etiquetas e TEF
+# Visão geral: Impressoras, etiquetas e maquininha
 
 🖨️ Impressoras de etiqueta e cupom, etiquetas e TEF.
 
@@ -35,8 +35,8 @@ Não sabe por onde começar? [🛟 Problemas frequentes](../ajuda-rapida/problem
 * [Como corrigir erros na impressora de cupom](impressoras-instalacao-e-erros/como-corrigir-erros-na-impressora-de-cupom.md)
 * [Como instalar o driver da impressora de cupom Bematech](impressoras-instalacao-e-erros/como-instalar-o-driver-da-impressora-de-cupom-bematech.md)
 
-### [TEF](tef/README.md)
+### [Maquininha integrada (TEF)](tef/README.md)
 
-* [Como usar o TEF](tef/como-usar-o-tef.md)
-* [Como fazer o estorno de uma venda no TEF](tef/como-fazer-o-estorno-de-uma-venda-no-tef.md)
+* [Como usar a maquininha integrada (TEF)](tef/como-usar-o-tef.md)
+* [Como cancelar uma venda paga na maquininha integrada (TEF)](tef/como-fazer-o-estorno-de-uma-venda-no-tef.md)
 

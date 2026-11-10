@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: vendedores
+    primary: true
+---
+
 # Como cadastrar um vendedor
 
 Assista abaixo, o passo a passo completo para cadastrar um vendedor:
@@ -44,3 +50,7 @@ No exemplo da imagem, o vendedor ganha 150,00 se bater 100% da meta.
 \* Apontar usuário para vendedor: Nessa função você vincula o usuário que aquele vendedor faz login para que ao acessar, ele veja apenas as vendas dele.
 
 4° - Por fim, clique em SALVAR
+
+---
+
+*🔎 Também procurado como: vendedor, vendedora, comissão, meta.*

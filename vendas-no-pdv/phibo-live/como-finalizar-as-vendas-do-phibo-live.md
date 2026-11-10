@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: vendas
+    primary: true
+  - loja-online
+---
+
 # Como finalizar as vendas do Phibo Live
 
 {% hint style="info" %}
@@ -5,3 +12,7 @@
 {% endhint %}
 
 {% embed url="<https://www.loom.com/share/e4fd1cd3443d4e96addc532d324b5a16?sid=3de7c719-9fcc-4b4d-bd36-cef32645b2e8>" %}
+
+---
+
+*🔎 Também procurado como: venda, vender, PDV, frente de caixa, loja virtual, site, e-commerce, marketplace.*

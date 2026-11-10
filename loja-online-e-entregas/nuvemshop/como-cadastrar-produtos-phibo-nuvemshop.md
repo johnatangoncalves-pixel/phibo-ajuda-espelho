@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: loja-online
+    primary: true
+  - produtos
+---
+
 # Como cadastrar produtos Phibo/Nuvemshop
 
 {% hint style="info" %}
@@ -5,3 +12,7 @@
 {% endhint %}
 
 {% embed url="<https://youtu.be/g4ScsKNoqvQ>" %}
+
+---
+
+*🔎 Também procurado como: loja virtual, site, e-commerce, marketplace, produto, peça, cadastro de produto, grade, tamanho.*

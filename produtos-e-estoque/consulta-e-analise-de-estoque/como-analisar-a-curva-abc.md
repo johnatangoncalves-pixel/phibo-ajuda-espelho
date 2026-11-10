@@ -1,4 +1,12 @@
-# Como analisar a Curva ABC
+---
+tags:
+  - tag: estoque
+    primary: true
+  - produtos
+  - relatorios
+---
+
+# Como ver os produtos que mais faturam (Curva ABC)
 
 Para consultar o relatório de curva ABC do seu estoque, vá na seguinte tela COMPRAS > GESTÃO ESTOQUE > CURVA ABC:
 
@@ -23,3 +31,7 @@ Clique no botão destacado na imagem para abrir a visão detalhada de cada categ
 {% endhint %}
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FNVzxG030bdXN9hphvw0C%2Fimage.png?alt=media&amp;token=99665d23-54b3-429d-909a-0d0e644eb2ca" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: estoque, inventário, contagem, saldo de peças, produto, peça, cadastro de produto, grade, tamanho, relatório, painel, análise.*

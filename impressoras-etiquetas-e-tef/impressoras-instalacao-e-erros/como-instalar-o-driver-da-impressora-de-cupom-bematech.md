@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: impressora
+    primary: true
+  - erros
+---
+
 # Como instalar o driver da impressora de cupom Bematech
 
 ## 1 - Verifique se a impressora aparece na tela abaixo: "Painel de Controle\Hardware e Sons\Dispositivos e Impressoras"
@@ -23,3 +30,7 @@
 ![](https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FYEukXxqLHIxJ4Tq3cybU%2Fb5.png?alt=media\&token=79d55f3d-eb33-4bce-8d55-a5a0fda6c9be)
 
 ## 6 - Pronto, a impressora estará instalada no computador e disponível para uso.
+
+---
+
+*🔎 Também procurado como: impressora, imprimir, impressão, erro, problema, não funciona.*

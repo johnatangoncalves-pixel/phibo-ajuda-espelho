@@ -1,3 +1,11 @@
+---
+tags:
+  - tag: maquininha
+    primary: true
+  - vendas
+  - descontos
+---
+
 # Como utilizar o Vale Presente
 
 {% hint style="info" %}
@@ -7,3 +15,7 @@
 ### Para cadastrar vender e aplicar o desconto do vale presente nas suas vendas siga a orientação do vídeo abaixo:
 
 {% embed url="<https://www.loom.com/share/ff3336e60dc84a47beff4b3fde64292b?sid=a9dd86af-8c7c-412e-a71f-648d381ff413>" %}
+
+---
+
+*🔎 Também procurado como: máquina de cartão, maquininha, cartão de crédito, cartão de débito, TEF, venda, vender, PDV, frente de caixa, desconto, promoção, cupom de desconto, liquidação.*

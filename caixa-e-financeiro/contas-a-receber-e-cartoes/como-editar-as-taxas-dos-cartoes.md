@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: maquininha
+    primary: true
+  - financeiro
+---
+
 # Como editar as taxas dos cartões
 
 #### Assista ao vídeo abaixo que demonstra detalhadamente como editar a taxa de maquininhas:
@@ -17,3 +24,7 @@ Confira também o passo a passo detalhado:
 #### 3- Edite o percentual da taxa em questão e salve!
 
 {% embed url="<https://prnt.sc/uLGWKS4SMl3q>" %}
+
+---
+
+*🔎 Também procurado como: máquina de cartão, maquininha, cartão de crédito, cartão de débito, TEF, financeiro, contas, despesas, lucro.*

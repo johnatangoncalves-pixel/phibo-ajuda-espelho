@@ -1,5 +1,8 @@
 ---
 description: "Quando o seu cliente não quiser fazer cadastro ou você precisar fazer um teste no sistema, utilize um Cliente Padrão. Saiba como cadastra-lo."
+tags:
+  - tag: clientes
+    primary: true
 ---
 
 # Como cadastrar um cliente padrão
@@ -23,3 +26,7 @@ Preencha o campo de "Celular" com "(00) 00000-0000" e os demais campos conforme 
 Você poderá buscar facilmente esse Cliente Padrão nas telas onde o cliente é requisitado como filtro, sempre informando o número "(00) 00000-0000" no campo "**Número Celular**" e teclando "TAB":
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2Ffnw51Dgw6spUGOPKsLt6%2Fimage.png?alt=media&amp;token=f318e34e-0e52-4c34-ade4-7069d1098d42" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: cliente, cadastro de cliente.*

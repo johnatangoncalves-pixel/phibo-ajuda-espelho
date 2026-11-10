@@ -1,5 +1,8 @@
 ---
 description: "Assista o vídeo passo a passo abaixo:"
+tags:
+  - tag: descontos
+    primary: true
 ---
 
 # Como criar uma promoção
@@ -35,3 +38,7 @@ Para escolher produtos aleatórios, selecione a opção "PRODUTOS ESPECÍFICOS" 
 ## 5 - Prontinho! Até o fim da promoção, sempre que algum produto escolhido no evento promocional for selecionado, seu desconto será aplicado de forma automática:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FIAE3li7JziIlEijFY9YI%2Fimage.png?alt=media&amp;token=d185607b-2823-4943-b1e0-c2413ddd47c5" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: desconto, promoção, cupom de desconto, liquidação.*

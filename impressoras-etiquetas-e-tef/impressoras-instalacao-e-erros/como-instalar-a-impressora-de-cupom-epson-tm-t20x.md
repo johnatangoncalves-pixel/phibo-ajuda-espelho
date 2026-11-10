@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: impressora
+    primary: true
+  - erros
+---
+
 # Como instalar a impressora de cupom Epson TM-T20X
 
 ## 1 - Verifique se a impressora aparece disponível para instalação.
@@ -33,3 +40,7 @@ Caso não esteja aparecendo tente conectar em outro porta usb disponível em seu
 ## 5 – Para realizar uma impressão de teste basta clicar em TEST PRINT e depois que sua impressão sair basta clicar em CLOSE.
 
 ![](https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FNI9gSgT4XUYbQlLRQiy1%2Fimage.png?alt=media\&token=2b49e226-8be8-4872-9e7b-9ade80960855)
+
+---
+
+*🔎 Também procurado como: impressora, imprimir, impressão, erro, problema, não funciona.*

@@ -1,5 +1,9 @@
 ---
 description: "Trocas e devoluções de vendas feitas com nota fiscal (NFC-e ou NF-e)."
+tags:
+  - tag: troca-devolucao
+    primary: true
+  - nota-fiscal
 ---
 
 # Trocas e devoluções com nota fiscal

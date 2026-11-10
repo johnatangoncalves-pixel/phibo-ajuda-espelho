@@ -1,3 +1,11 @@
+---
+tags:
+  - tag: primeiros-passos
+    primary: true
+  - clientes
+  - vendas
+---
+
 # Treinamento 2 – Clientes e vendas
 
 {% content-ref url="../../clientes/cadastro-de-clientes/como-cadastrar-um-cliente.md" %}
@@ -19,3 +27,7 @@
 {% content-ref url="../../vendas-no-pdv/fazer-uma-venda/como-fazer-uma-venda.md" %}
 [Como fazer uma Venda?](../../vendas-no-pdv/fazer-uma-venda/como-fazer-uma-venda.md)
 {% endcontent-ref %}
+
+---
+
+*🔎 Também procurado como: começar, implantação, treinamento, cliente, cadastro de cliente, venda, vender, PDV, frente de caixa.*

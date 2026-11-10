@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: conta
+    primary: true
+  - maquininha
+---
+
 # Como ativar a conta e cadastrar o cartão da mensalidade
 
 #### Siga os passos abaixo para garantir que sua conta esteja configurada corretamente.
@@ -73,3 +80,7 @@ Após adicionar um novo cartão e ele se tornar o principal, você terá a opç�
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FjWeQOpnLMVu0shHa7gbz%2Fimage.png?alt=media&amp;token=1ca5b39c-150c-4e0c-997f-91bbe37457c0" alt=""><figcaption></figcaption></figure>
 
 #### Ao concluir este processo, o cartão principal será o único ativo na plataforma.
+
+---
+
+*🔎 Também procurado como: conta, acesso, usuário, senha, máquina de cartão, maquininha, cartão de crédito, cartão de débito, TEF.*

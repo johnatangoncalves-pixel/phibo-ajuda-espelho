@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: whatsapp
+    primary: true
+  - erros
+---
+
 # Erro ao enviar mensagem no WhatsApp: o que fazer
 
 ### Assista o vídeo abaixo para solucionar problemas de envio de mensagem na integração com WhatsApp:
@@ -18,4 +25,4 @@
 
 ---
 
-*🔎 Também procurado como: WhatsApp não envia, mensagem não chegou.*
+*🔎 Também procurado como: WhatsApp não envia, mensagem não chegou, WhatsApp, Zap, mensagem, erro, problema, não funciona.*

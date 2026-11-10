@@ -1,5 +1,11 @@
 ---
 description: "Emissão de NF-e modelo 55 com finalidade de transferir produtos da Mtariz para Filial ou vice-versa"
+tags:
+  - tag: nota-fiscal
+    primary: true
+  - troca-devolucao
+  - produtos
+  - compras
 ---
 
 # Como emitir nota de transferência (matriz e filial)
@@ -53,3 +59,7 @@ IMPORTANTE: Se essa opção não estiver aparecendo para você, significa que o 
 {% hint style="info" %}
 Caso a nota fiscal fique pendente, uma seta cinza aparecerá no lugar onde deveria estar o ícone para salvar em PDF (mapa do Brasil com um "e"). Mas não se preocupe, basta chamar o suporte que te ajudaremos a reprocessá-la.
 {% endhint %}
+
+---
+
+*🔎 Também procurado como: nota fiscal, NF, NFC-e, NF-e, cupom fiscal, troca, devolução, trocar peça, devolver, produto, peça, cadastro de produto, grade, tamanho, compra, fornecedor.*

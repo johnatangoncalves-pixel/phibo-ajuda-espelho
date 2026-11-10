@@ -1,5 +1,9 @@
 ---
 description: "Modelos de etiqueta, fila de impressão e impressão em A4 ou impressora térmica."
+tags:
+  - tag: etiquetas
+    primary: true
+  - produtos
 ---
 
 # Etiquetas

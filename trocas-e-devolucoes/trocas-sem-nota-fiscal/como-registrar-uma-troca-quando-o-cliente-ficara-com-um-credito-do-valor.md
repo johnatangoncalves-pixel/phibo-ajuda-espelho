@@ -1,3 +1,12 @@
+---
+tags:
+  - tag: troca-devolucao
+    primary: true
+  - vendas
+  - nota-fiscal
+  - clientes
+---
+
 # Como registrar uma troca quando o cliente ficará com um crédito do valor
 
 Em alguns casos, pode acontecer do seu cliente inicialmente levar um produto e depois querer troca-lo por uma peça mais barata. Sendo assim, com essa diferença o cliente ficaria com um "crédito" com a sua loja. Continue a leitura e aprenda como essa situação pode ser feita aqui no sistema Phibo:
@@ -23,3 +32,7 @@ Para trocas de vendas com cupom ou nota fiscal atrelados , clique no artigo abai
 {% content-ref url="../trocas-e-devolucoes-com-nota-fiscal/como-registrar-uma-troca-ou-devolucao-de-venda-utilizando-o-credito-do-cliente.md" %}
 [Ver artigo](../trocas-e-devolucoes-com-nota-fiscal/como-registrar-uma-troca-ou-devolucao-de-venda-utilizando-o-credito-do-cliente.md)
 {% endcontent-ref %}
+
+---
+
+*🔎 Também procurado como: troca, devolução, trocar peça, devolver, venda, vender, PDV, frente de caixa, nota fiscal, NF, NFC-e, NF-e, cupom fiscal, cliente, cadastro de cliente.*

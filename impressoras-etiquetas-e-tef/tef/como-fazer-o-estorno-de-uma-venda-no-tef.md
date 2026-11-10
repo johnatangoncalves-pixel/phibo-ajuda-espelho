@@ -1,4 +1,11 @@
-# Como fazer o estorno de uma venda no TEF
+---
+tags:
+  - tag: maquininha
+    primary: true
+  - vendas
+---
+
+# Como cancelar uma venda paga na maquininha integrada (TEF)
 
 **Esse estorno será possível para os clientes que usam a funcionalidade de venda com a tecnologia  TEF (integração entre o sistema e a maquininha).**
 
@@ -48,4 +55,4 @@
 
 ---
 
-*🔎 Também procurado como: cancelar venda no cartão, devolver dinheiro no cartão, estornar pagamento.*
+*🔎 Também procurado como: cancelar venda no cartão, devolver dinheiro no cartão, estornar pagamento, máquina de cartão, maquininha, cartão de crédito, cartão de débito, TEF, venda, vender, PDV, frente de caixa.*

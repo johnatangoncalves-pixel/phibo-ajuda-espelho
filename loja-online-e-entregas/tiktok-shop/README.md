@@ -1,5 +1,8 @@
 ---
 description: "Integração nativa do Phibo com a TikTok Shop."
+tags:
+  - tag: loja-online
+    primary: true
 ---
 
 # TikTok Shop
@@ -11,7 +14,7 @@ Integração nativa do Phibo com a TikTok Shop.
 {% endcontent-ref %}
 
 {% content-ref url="integracao-nativa-tiktok-shop-com-phibo.md" %}
-[Integração nativa TikTok Shop com Phibo](integracao-nativa-tiktok-shop-com-phibo.md)
+[Como integrar o Phibo com a TikTok Shop](integracao-nativa-tiktok-shop-com-phibo.md)
 {% endcontent-ref %}
 
 {% content-ref url="como-vincular-produtos-phibo-tiktok-shop.md" %}

@@ -1,3 +1,12 @@
+---
+tags:
+  - tag: troca-devolucao
+    primary: true
+  - nota-fiscal
+  - produtos
+  - vendas
+---
+
 # Devolução de produto de uma venda com nota fiscal
 
 Caso o seu cliente devolva um produto adquirido e haja uma NFE ou Cupom Fiscal emitido para ele, existem 3 tratativas que podem ser  realizadas  para registrar a devolução dessa mercadoria. Veja a seguir:
@@ -90,3 +99,7 @@ Feito isso, basta emitir uma nota de devolução para informar fiscalmente o ret
 {% hint style="danger" %}
 ATENÇÃO ! A emisão da NFE de devolução também retorna o produto para o seu estoque  (o que fará com que ele tenha retornado 2x) portanto, ao finalizar o procedimento acesse COMPRAS > GESTAO DE ESTOQUE > CADASTRAR PRODUTO NOVO, confira e ajuste a quantidade do produto devolvido.
 {% endhint %}
+
+---
+
+*🔎 Também procurado como: troca, devolução, trocar peça, devolver, nota fiscal, NF, NFC-e, NF-e, cupom fiscal, produto, peça, cadastro de produto, grade, tamanho, venda, vender.*

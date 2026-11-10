@@ -1,3 +1,13 @@
+---
+tags:
+  - tag: primeiros-passos
+    primary: true
+  - nota-fiscal
+  - caixa
+  - financeiro
+  - compras
+---
+
 # Treinamento 3 – Caixa, despesas e notas de compra
 
 {% content-ref url="../../caixa-e-financeiro/caixa-diario/como-fechar-o-caixa.md" %}
@@ -23,3 +33,7 @@
 {% content-ref url="../../compras-e-fornecedores/entrada-de-notas-de-compra/como-cadastrar-uma-nota-de-compra-manualmente.md" %}
 [Como cadastrar uma nota de compra manualmente](../../compras-e-fornecedores/entrada-de-notas-de-compra/como-cadastrar-uma-nota-de-compra-manualmente.md)
 {% endcontent-ref %}
+
+---
+
+*🔎 Também procurado como: começar, implantação, treinamento, nota fiscal, NF, NFC-e, NF-e, cupom fiscal, caixa, fechamento, sangria, troco, financeiro, contas, despesas, lucro.*

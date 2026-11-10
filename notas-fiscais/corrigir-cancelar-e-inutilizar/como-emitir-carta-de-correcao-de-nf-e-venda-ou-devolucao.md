@@ -1,8 +1,12 @@
 ---
 description: "Emissão de carta de correção com a finalidade de corrigir algum erro da NF-e"
+tags:
+  - tag: nota-fiscal
+    primary: true
+  - erros
 ---
 
-# Como emitir carta de correção de NF-e (venda ou devolução)
+# Como corrigir dados de uma nota já emitida (carta de correção)
 
 {% hint style="success" %}
 **Artigo unificado:** substitui “Como emitir carta de correção para NF-e de Devolução” (https://ajuda.phibo.site/sobre-o-sitema/fiscal/como-fazer-uma-nota-de-devolucao-no-phibo-2).
@@ -30,4 +34,4 @@ Assista ao vídeo abaixo para ver o passo a passo da emissão da carta de corre�
 
 ---
 
-*🔎 Também procurado como: corrigir nota, nota com erro, CC-e.*
+*🔎 Também procurado como: corrigir nota, nota com erro, CC-e, nota fiscal, NF, NFC-e, NF-e, cupom fiscal, erro, problema, não funciona.*

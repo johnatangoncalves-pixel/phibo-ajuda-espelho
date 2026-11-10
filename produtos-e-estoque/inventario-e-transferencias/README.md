@@ -1,5 +1,8 @@
 ---
 description: "Conferência de estoque, transferência entre lojas e retiradas sem venda."
+tags:
+  - tag: estoque
+    primary: true
 ---
 
 # Inventário e transferências
@@ -7,7 +10,7 @@ description: "Conferência de estoque, transferência entre lojas e retiradas se
 Conferência de estoque, transferência entre lojas e retiradas sem venda.
 
 {% content-ref url="conferencia-de-estoque-inventario.md" %}
-[Conferência de estoque (Inventário)](conferencia-de-estoque-inventario.md)
+[Como fazer a contagem do estoque (inventário)](conferencia-de-estoque-inventario.md)
 {% endcontent-ref %}
 
 {% content-ref url="conferencia-de-estoque-sem-leitor-de-codigo-de-barras.md" %}

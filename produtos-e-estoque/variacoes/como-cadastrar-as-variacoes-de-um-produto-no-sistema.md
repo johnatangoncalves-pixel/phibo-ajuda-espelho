@@ -1,5 +1,8 @@
 ---
 description: "Assista o vídeo abaixo para entender como funciona o cadastro de novas variações:"
+tags:
+  - tag: produtos
+    primary: true
 ---
 
 # Como cadastrar as variações de um produto no sistema
@@ -31,3 +34,7 @@ description: "Assista o vídeo abaixo para entender como funciona o cadastro de 
 6 – Com a variação já adicionada, basta clicar em SALVAR PRODUTO:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2Fk6EKKYF2fQvyHQUqm2lK%2Fimage.png?alt=media&amp;token=486e0768-1e71-47e1-a252-57da96ea5e7b" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: produto, peça, cadastro de produto, grade, tamanho.*

@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: clientes
+    primary: true
+---
+
 # Como cadastrar um cliente
 
 {% hint style="success" %}
@@ -65,3 +71,7 @@ Se você quiser colocar outras informações, como documentos e endereço do cli
 {% endhint %}
 
 Por fim, depois de preencher todos os dados, basta clicar no botão SALVAR e pronto, seu cliente está devidamente cadastrado no Phibo! **😄🎉💙**
+
+---
+
+*🔎 Também procurado como: cliente, cadastro de cliente.*

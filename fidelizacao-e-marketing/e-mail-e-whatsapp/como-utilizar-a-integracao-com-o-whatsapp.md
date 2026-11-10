@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: whatsapp
+    primary: true
+---
+
 # Como utilizar a integração com o WhatsApp
 
 {% hint style="info" %}
@@ -15,3 +21,7 @@ ATENÇÃO: **Evite o uso de emojis** nas mensagens e **respeite o número de car
 {% endhint %}
 
 {% embed url="<https://youtu.be/xXcZDbZ_Bdc>" %}
+
+---
+
+*🔎 Também procurado como: WhatsApp, Zap, mensagem.*

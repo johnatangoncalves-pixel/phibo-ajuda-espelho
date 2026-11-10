@@ -1,5 +1,8 @@
 ---
 description: "Tudo sobre o PDV: fazer, enviar o comprovante e excluir uma venda."
+tags:
+  - tag: vendas
+    primary: true
 ---
 
 # Fazer uma venda
@@ -11,7 +14,7 @@ Tudo sobre o PDV: fazer, enviar o comprovante e excluir uma venda.
 {% endcontent-ref %}
 
 {% content-ref url="tela-do-pdv-de-vendas.md" %}
-[Tela do PDV de vendas](tela-do-pdv-de-vendas.md)
+[Tela de vendas (PDV)](tela-do-pdv-de-vendas.md)
 {% endcontent-ref %}
 
 {% content-ref url="como-excluir-uma-venda.md" %}

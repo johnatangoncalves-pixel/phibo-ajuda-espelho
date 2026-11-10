@@ -1,3 +1,12 @@
+---
+tags:
+  - tag: etiquetas
+    primary: true
+  - produtos
+  - caixa
+  - compras
+---
+
 # Como comprar suprimentos na Phibo Store
 
 **Este tutorial irá guiá-lo através do processo de compra de suprimentos, como etiquetas e ribbons, na PhiboStore. Siga os passos para realizar suas compras de forma eficiente.**
@@ -53,3 +62,7 @@
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FH0NPGGpOnbVT8265ym21%2Fimage.png?alt=media&amp;token=d50e6dd0-2083-4b4f-ac71-747edda9d412" alt=""><figcaption></figcaption></figure>
 
 #### O próximo passo será o preenchimento das informações de entrega e, posteriormente, a seleção da forma de pagamento para concluir seu pedido.
+
+---
+
+*🔎 Também procurado como: etiqueta, etiqueta de preço, código de barras, produto, peça, cadastro de produto, grade, tamanho, caixa, fechamento, sangria, troco, compra, fornecedor, nota de entrada, mercadoria.*

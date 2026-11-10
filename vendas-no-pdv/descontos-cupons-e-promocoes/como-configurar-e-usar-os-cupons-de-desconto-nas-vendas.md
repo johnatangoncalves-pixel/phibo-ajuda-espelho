@@ -1,3 +1,11 @@
+---
+tags:
+  - tag: descontos
+    primary: true
+  - nota-fiscal
+  - vendas
+---
+
 # Como configurar e usar os Cupons de Desconto nas vendas
 
 {% hint style="warning" %}
@@ -40,3 +48,7 @@ Exemplo de cupom configurado:
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FD6hSUPYWF1VCOL7g6d2m%2Fcupom%204.jpg?alt=media&amp;token=07bc13b5-05b9-40d2-95e0-28c68318b9c7" alt=""><figcaption><p><br></p></figcaption></figure>
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FnZuNs3GtMZ53IX15tVob%2FCUPOM5.jpg?alt=media&amp;token=ef56a23c-1902-4bf2-8ed2-04ea19531e25" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: desconto, promoção, cupom de desconto, liquidação, nota fiscal, NF, NFC-e, NF-e, cupom fiscal, venda, vender, PDV, frente de caixa.*

@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: produtos
+    primary: true
+---
+
 # Como reativar um produto excluído
 
 ## Caso seu Produto tenha sido excluído e você não esteja conseguindo utiliza-lo, será necessário reativá-lo.
@@ -19,3 +25,7 @@ Se na coluna "Ação" aparece somente o ícone da edição (e não aparece a lix
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2F6WJQWEzXIR3qqpDV6ObB%2Fimage.png?alt=media&amp;token=7792d162-2c14-4ba8-8b9a-32b3f2219ff9" alt=""><figcaption></figcaption></figure>
 
 ## Por fim, confirme a reativação e pronto! Não é necessário clicar no botão salvar.
+
+---
+
+*🔎 Também procurado como: produto, peça, cadastro de produto, grade, tamanho.*

@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: clientes
+    primary: true
+---
+
 # Como editar ou excluir um cliente
 
 ## Edição
@@ -23,3 +29,7 @@ Por fim, após concluir a edição, basta clicar no botão "Salvar", no canto in
 Caso queira excluir o cadastro do cliente é só seguir o mesmo caminho apresentado acima e depois de abrir o cadastro do cliente, clicar em "EXCLUIR":
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2F1dcF8sK5EUUwUzddW5Up%2Fimage.png?alt=media&amp;token=065bac84-7f1c-4dcf-b636-d930d40c5373" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: cliente, cadastro de cliente.*

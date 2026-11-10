@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: loja-online
+    primary: true
+---
+
 # Como integrar o Phibo com a Nuvemshop
 
 {% hint style="info" %}
@@ -5,3 +11,7 @@
 {% endhint %}
 
 {% embed url="<https://youtu.be/hX_dFVA4wP4>" %}
+
+---
+
+*🔎 Também procurado como: loja virtual, site, e-commerce, marketplace.*

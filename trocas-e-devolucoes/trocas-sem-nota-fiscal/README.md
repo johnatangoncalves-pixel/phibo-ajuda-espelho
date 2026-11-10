@@ -1,5 +1,9 @@
 ---
 description: "Trocas e devoluções de vendas feitas sem nota fiscal."
+tags:
+  - tag: troca-devolucao
+    primary: true
+  - vendas
 ---
 
 # Trocas (sem nota fiscal)

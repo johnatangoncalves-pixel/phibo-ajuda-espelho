@@ -1,5 +1,10 @@
 ---
 description: "Descritivo sobre como antecipar o recebimento do valor de vendas feitas pela máquina de cartão de crédito."
+tags:
+  - tag: maquininha
+    primary: true
+  - financeiro
+  - vendas
 ---
 
 # Como antecipar manualmente parcelas no cartão de crédito
@@ -9,3 +14,7 @@ description: "Descritivo sobre como antecipar o recebimento do valor de vendas f
 {% endhint %}
 
 {% embed url="<https://www.loom.com/share/3660d16c59e44476af35b1b37beb76a2>" %}
+
+---
+
+*🔎 Também procurado como: máquina de cartão, maquininha, cartão de crédito, cartão de débito, TEF, financeiro, contas, despesas, lucro, venda, vender, PDV, frente de caixa.*

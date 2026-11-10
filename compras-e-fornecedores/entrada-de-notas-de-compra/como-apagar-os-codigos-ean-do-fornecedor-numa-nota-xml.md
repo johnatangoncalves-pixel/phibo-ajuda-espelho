@@ -1,8 +1,13 @@
 ---
 description: "Vá na aba de COMPRAS > NOTA FISCAL > LER ARQUIVO XML"
+tags:
+  - tag: compras
+    primary: true
+  - nota-fiscal
+  - estoque
 ---
 
-# Como apagar os códigos EAN do fornecedor numa nota XML
+# Como apagar os códigos de barras do fornecedor na nota de compra
 
 Veja o vídeo com a orientação e passo a passo completo:
 
@@ -23,3 +28,7 @@ Veja o vídeo com a orientação e passo a passo completo:
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FwbUiTOpqEOocBuaKQDEa%2Fimage.png?alt=media&amp;token=5a6aad1e-c45e-4bb1-b105-8c08cfb163cd" alt=""><figcaption></figcaption></figure>
 
 4- Por fim, clique no botão SALVAR
+
+---
+
+*🔎 Também procurado como: compra, fornecedor, nota de entrada, mercadoria, nota fiscal, NF, NFC-e, NF-e, cupom fiscal, estoque, inventário, contagem, saldo de peças.*

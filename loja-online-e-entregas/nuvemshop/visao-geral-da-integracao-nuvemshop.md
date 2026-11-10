@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: loja-online
+    primary: true
+---
+
 # Visão geral da integração Nuvemshop
 
 {% content-ref url="como-integrar-o-phibo-com-a-nuvemshop.md" %}
@@ -11,3 +17,7 @@
 {% content-ref url="como-vincular-produtos-que-ja-estao-na-nuvemshop-e.md" %}
 [Ver artigo](como-vincular-produtos-que-ja-estao-na-nuvemshop-e.md)
 {% endcontent-ref %}
+
+---
+
+*🔎 Também procurado como: loja virtual, site, e-commerce, marketplace.*

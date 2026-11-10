@@ -1,8 +1,11 @@
 ---
 description: "Como o estoque e as vendas funcionam quando a loja vende no site e na loja física."
+tags:
+  - tag: loja-online
+    primary: true
 ---
 
-# E-commerce (geral)
+# Vender no site e na loja física
 
 Como o estoque e as vendas funcionam quando a loja vende no site e na loja física.
 

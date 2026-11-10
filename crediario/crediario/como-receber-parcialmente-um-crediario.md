@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: crediario
+    primary: true
+  - vendas
+---
+
 # Como receber parcialmente um crediário
 
 ## 1 - Para receber parcialmente o valor de um crediário, vá na seguinte tela VENDAS > CREDIÁRIO > EFETUAR RECEBIMENTO:
@@ -25,3 +32,7 @@ No exemplo acima, o valor total devido pelo cliente é 12.408,20 reais, as será
 ## 4 - E prontinho! Parcela recebida! Para imprimir o comprovante de recebimento basta clicar no ícone do cuponzinho, conforme imagem abaixo:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FrJ0dsTBFn0Iig4KCuct5%2Fimage.png?alt=media&amp;token=0cdab9b9-08fc-4b59-b9b9-d2acb0c59f4c" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: crediário, carnê, parcela, fiado, venda, vender, PDV, frente de caixa.*

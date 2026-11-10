@@ -1,3 +1,11 @@
+---
+tags:
+  - tag: compras
+    primary: true
+  - nota-fiscal
+  - estoque
+---
+
 # Como excluir uma nota de compra
 
 ### Para excluir uma Nota de Compra com o Fornecedor seja cadastrada manualmente ou via xml, você irá em **COMPRAS > NOTA FISCAL > LISTAR NOTA FISCAL:**
@@ -14,3 +22,7 @@
 {% endhint %}
 
 [Como reativar um Produto  excluído](../../produtos-e-estoque/edicao-e-exclusao-de-produtos/como-reativar-um-produto-excluido.md)
+
+---
+
+*🔎 Também procurado como: compra, fornecedor, nota de entrada, mercadoria, nota fiscal, NF, NFC-e, NF-e, cupom fiscal, estoque, inventário, contagem, saldo de peças.*

@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: financeiro
+    primary: true
+---
+
 # Como editar ou excluir uma despesa
 
 #### Assista o vídeo abaixo para ver o passo a passo completo de como editar ou excluir uma despesa:
@@ -23,3 +29,7 @@
 {% hint style="warning" %}
 **Importante: Ao tentar excluir uma despesa do ciclo mensal, certifique-se de que a despesa não esteja baixada, caso isso ocorra, o sistema não permitirá a exclusão.**
 {% endhint %}
+
+---
+
+*🔎 Também procurado como: financeiro, contas, despesas, lucro.*

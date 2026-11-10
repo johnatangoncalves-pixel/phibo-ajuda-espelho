@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: phibozap
+    primary: true
+  - whatsapp
+---
+
 # Como criar uma Campanha em Massa no PhiboZap
 
 <mark style="background-color:yellow;">As campanhas em massa têm o objetivo de definir uma lista de clientes que vão receber, de forma automatizada</mark>, uma determinada mensagem para divulgar uma nova coleção, uma live, uma promoção, um novo catálogo etc.
@@ -38,3 +45,7 @@ Visualize abaixo o tutorial completo de como criar mensagens no PhiboZap :
 **8-** Feito isso, basta escrever ***ativar campanha*** no campo indicado conforme a foto abaixo, salvar e pronto! O PhiboZap já iniciará os disparos!
 
 {% embed url="<https://prnt.sc/NH5wTc6-KWlC>" %}
+
+---
+
+*🔎 Também procurado como: PhiboZap, mensagem automática, disparo em massa, WhatsApp, Zap, mensagem.*

@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: nota-fiscal
+    primary: true
+---
+
 # Como listar todas as notas fiscais emitidas por mês
 
 ## 1 - Para listar todas as notas fiscais emitidas pela loja em determinado mês, basta acessar VENDAS > CONSULTA VENDAS > GESTÃO DE NOTAS FISCAIS:
@@ -20,3 +26,7 @@
 Se houver uma nota cancelada ou inutilizada, a última coluna, denominada AÇÃO vai conter o xml dessa nota. Basta clicar sobre o símbolo cinza e salvar o xml. \
 Caso a nota esteja com uma seta cinza, sua NF está pendente, então contate o suporte para resolver a situação da NF.
 {% endhint %}
+
+---
+
+*🔎 Também procurado como: nota fiscal, NF, NFC-e, NF-e, cupom fiscal.*

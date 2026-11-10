@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: vendedores
+    primary: true
+  - vendas
+---
+
 # Como listar as vendas de cada vendedor por período
 
 Para consultar os detalhes das vendas feitas por um vendedor, você poderá ir em VENDAS > VENDEDORES > LISTAR VENDAS:
@@ -13,3 +20,7 @@ Utilize o ícone à esquerda, destacado na imagem, para abrir o detalhamento de 
 {% endhint %}
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2Fv41KGVteaCseeUTr0Y3f%2Fimage.png?alt=media&amp;token=200d4df1-fa37-4ca5-b865-cd851791c035" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: vendedor, vendedora, comissão, meta, venda, vender, PDV, frente de caixa.*

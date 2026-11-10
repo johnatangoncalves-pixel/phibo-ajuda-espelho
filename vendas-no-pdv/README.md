@@ -2,7 +2,7 @@
 description: "PDV, formas de pagamento, descontos, metas e relatórios"
 ---
 
-# Visão geral: Vendas no PDV
+# Visão geral: Vendas no caixa
 
 💸 PDV, formas de pagamento, descontos, metas e relatórios.
 
@@ -11,7 +11,7 @@ description: "PDV, formas de pagamento, descontos, metas e relatórios"
 ### [Fazer uma venda](fazer-uma-venda/README.md)
 
 * [Como fazer uma venda](fazer-uma-venda/como-fazer-uma-venda.md)
-* [Tela do PDV de vendas](fazer-uma-venda/tela-do-pdv-de-vendas.md)
+* [Tela de vendas (PDV)](fazer-uma-venda/tela-do-pdv-de-vendas.md)
 * [Como excluir uma venda](fazer-uma-venda/como-excluir-uma-venda.md)
 * [Como fazer uma venda para um cliente sem cadastro](fazer-uma-venda/como-fazer-uma-venda-para-um-cliente-sem-cadastro.md)
 * [Como enviar o comprovante de venda para o cliente](fazer-uma-venda/como-enviar-o-comprovante-de-venda-para-o-cliente.md)
@@ -42,7 +42,7 @@ description: "PDV, formas de pagamento, descontos, metas e relatórios"
 
 ### [Relatórios de vendas](relatorios-de-vendas/README.md)
 
-* [Painel de Vendas](relatorios-de-vendas/painel-de-vendas.md)
+* [Painel de vendas](relatorios-de-vendas/painel-de-vendas.md)
 * [Como utilizar as funcionalidades relação de vendas e painel de vendas](relatorios-de-vendas/como-utilizar-as-funcionalidades-relacao-de-vendas-e-painel-de-vendas.md)
 
 ### [Phibo Live](phibo-live/README.md)

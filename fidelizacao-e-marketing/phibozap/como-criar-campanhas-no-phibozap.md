@@ -1,5 +1,9 @@
 ---
 description: "Assista o vídeo abaixo para aprender a criar mensagens no Phibozap:"
+tags:
+  - tag: phibozap
+    primary: true
+  - whatsapp
 ---
 
 # Como criar campanhas no PhiboZap
@@ -13,3 +17,7 @@ description: "Assista o vídeo abaixo para aprender a criar mensagens no Phiboza
 ## Aulão de estratégias de mensagens através do PhiboZap:
 
 {% embed url="<https://youtu.be/kazRl6HCabc>" %}
+
+---
+
+*🔎 Também procurado como: PhiboZap, mensagem automática, disparo em massa, WhatsApp, Zap, mensagem.*

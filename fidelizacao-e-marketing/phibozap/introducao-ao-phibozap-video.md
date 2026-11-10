@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: phibozap
+    primary: true
+  - whatsapp
+---
+
 # Introdução ao PhiboZap (vídeo)
 
 {% hint style="info" %}
@@ -5,3 +12,7 @@
 {% endhint %}
 
 {% embed url="<https://www.loom.com/share/c72fa5383005410eb3cc1969e99bab3c>" %}
+
+---
+
+*🔎 Também procurado como: PhiboZap, mensagem automática, disparo em massa, WhatsApp, Zap, mensagem.*

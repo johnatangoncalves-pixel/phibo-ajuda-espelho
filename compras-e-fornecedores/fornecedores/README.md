@@ -1,5 +1,8 @@
 ---
 description: "Cadastre os fornecedores das peças que você compra."
+tags:
+  - tag: compras
+    primary: true
 ---
 
 # Fornecedores

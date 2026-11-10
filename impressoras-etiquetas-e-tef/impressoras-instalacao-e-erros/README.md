@@ -1,5 +1,9 @@
 ---
 description: "Instale drivers, teste a impressora e corrija erros de impressão."
+tags:
+  - tag: impressora
+    primary: true
+  - erros
 ---
 
 # Impressoras (instalação e erros)

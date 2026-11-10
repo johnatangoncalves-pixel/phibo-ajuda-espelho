@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: impressora
+    primary: true
+  - erros
+---
+
 # Como corrigir erros na impressora de cupom
 
 Este guia foi desenvolvido para ajudá-lo a resolver problemas de impressão em sua impressora térmica de cupons. Se você concluiu uma venda e o comprovante não foi emitido, ou se recebeu a mensagem de que a <mark style="background-color:$warning;">**"central de impressão está desativada"**</mark>, siga rigorosamente as etapas abaixo.
@@ -114,4 +121,4 @@ A impressora deverá emitir o barulho característico e o cupom sairá imediatam
 
 ---
 
-*🔎 Também procurado como: impressora não imprime, cupom não sai, impressora térmica.*
+*🔎 Também procurado como: impressora não imprime, cupom não sai, impressora térmica, impressora, imprimir, impressão, erro, problema, não funciona.*

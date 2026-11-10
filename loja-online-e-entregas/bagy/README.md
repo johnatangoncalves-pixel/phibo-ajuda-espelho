@@ -1,5 +1,8 @@
 ---
 description: "Integre a Bagy, migre e vincule produtos."
+tags:
+  - tag: loja-online
+    primary: true
 ---
 
 # Bagy

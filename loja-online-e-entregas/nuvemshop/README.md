@@ -1,5 +1,8 @@
 ---
 description: "Integre a Nuvemshop, migre e vincule produtos e receba os pedidos no Phibo."
+tags:
+  - tag: loja-online
+    primary: true
 ---
 
 # Nuvemshop

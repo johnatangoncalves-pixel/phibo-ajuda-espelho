@@ -1,5 +1,9 @@
 ---
 description: "Nesse vídeo, mostramos passo a passo todas as mudanças da nova tela de gestão de Bags do Phibo!"
+tags:
+  - tag: bags
+    primary: true
+  - vendas
 ---
 
 # Tela de gestão de Bags Delivery
@@ -9,3 +13,7 @@ description: "Nesse vídeo, mostramos passo a passo todas as mudanças da nova t
 {% endhint %}
 
 {% embed url="<https://youtu.be/bJbz2sLgGf4>" %}
+
+---
+
+*🔎 Também procurado como: bag, condicional, malinha, sacola, venda, vender, PDV, frente de caixa.*

@@ -1,5 +1,11 @@
 ---
 description: "Para imprimir etiquetas você precisará de uma impressora compatível, uma etiqueta adequada e uma conta Phibo com o módulo de impressão configurado pela equipe do suporte."
+tags:
+  - tag: etiquetas
+    primary: true
+  - produtos
+  - nota-fiscal
+  - impressora
 ---
 
 # Modelos de etiquetas disponíveis
@@ -82,3 +88,7 @@ IMPORTANTE:  A impressão de etiquetas é uma funcionalidade que está disponív
 {% endhint %}
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FkefHA6kTgjAbR6nrRYXf%2Fimage.png?alt=media&amp;token=cf3e0073-bd7a-4242-996a-d2aacde6f73a" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: etiqueta, etiqueta de preço, código de barras, produto, peça, cadastro de produto, grade, tamanho, nota fiscal, NF, NFC-e, NF-e, cupom fiscal, impressora, imprimir, impressão.*

@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: caixa
+    primary: true
+  - financeiro
+---
+
 # Atualização do fechamento de caixa para as telas novas do sistema
 
 {% hint style="info" %}
@@ -15,3 +22,7 @@
 {% content-ref url="como-fechar-o-caixa.md" %}
 [Como fechar o caixa](como-fechar-o-caixa.md)
 {% endcontent-ref %}
+
+---
+
+*🔎 Também procurado como: caixa, fechamento, sangria, troco, financeiro, contas, despesas, lucro.*

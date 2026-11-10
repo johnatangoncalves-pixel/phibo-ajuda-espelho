@@ -1,3 +1,11 @@
+---
+tags:
+  - tag: crediario
+    primary: true
+  - vendas
+  - descontos
+---
+
 # Como aplicar descontos no recebimento de crediário
 
 {% hint style="info" %}
@@ -15,3 +23,7 @@
 ## Depois basta colocar o desconto no campo lateral, preencher os demais dados referentes ao recebimento e salvar:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FxAiWgjnOmbkzlVnCvPBx%2Fcredi%C3%A1rio%203.jpg?alt=media&amp;token=956eaa53-c32e-4c76-a369-e24ac449c586" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: crediário, carnê, parcela, fiado, venda, vender, PDV, frente de caixa, desconto, promoção, cupom de desconto, liquidação.*

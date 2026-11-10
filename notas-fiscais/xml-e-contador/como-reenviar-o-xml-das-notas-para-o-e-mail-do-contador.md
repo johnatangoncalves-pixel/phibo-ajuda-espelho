@@ -1,4 +1,10 @@
-# Como reenviar o XML das notas para o e-mail do contador
+---
+tags:
+  - tag: nota-fiscal
+    primary: true
+---
+
+# Como enviar os arquivos das notas (XML) para o contador
 
 Assista o vídeo abaixo para ver detalhadamente como realizar a solicitação do reenvio de xmls de qualqier período para seu contador :
 
@@ -25,3 +31,7 @@ Obs: para consultar o modelo, série e o primeiro e último número do período 
 {% hint style="danger" %}
 O XML (documento fiscal eletrônico) das notas fiscais informadas só serão reenviados mediante a solicitação no suporte! Para isso, basta entrar em contato informando que realizou o pedido reenvio e precisa que o suporte autorize.
 {% endhint %}
+
+---
+
+*🔎 Também procurado como: nota fiscal, NF, NFC-e, NF-e, cupom fiscal.*

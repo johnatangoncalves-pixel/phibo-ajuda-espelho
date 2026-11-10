@@ -1,3 +1,11 @@
+---
+tags:
+  - tag: maquininha
+    primary: true
+  - nota-fiscal
+  - financeiro
+---
+
 # Como configurar a antecipação de cartões
 
 O Primeiro passo é entendermos se sua antecipação é **automática** ou **esporádica**.
@@ -21,3 +29,7 @@ Portanto, para que seu Contas a Receber fique correto no Phibo, é imprescindív
 {% content-ref url="como-antecipar-manualmente-parcelas-no-cartao-de-credito.md" %}
 [Como antecipar manualmente parcelas no cartão de crédito](como-antecipar-manualmente-parcelas-no-cartao-de-credito.md)
 {% endcontent-ref %}
+
+---
+
+*🔎 Também procurado como: máquina de cartão, maquininha, cartão de crédito, cartão de débito, TEF, nota fiscal, NF, NFC-e, NF-e, cupom fiscal, financeiro, contas, despesas, lucro.*

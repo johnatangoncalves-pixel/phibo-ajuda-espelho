@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: estoque
+    primary: true
+---
+
 # Visão geral e visão detalhada de estoque
 
 Assista o vídeo abaixo para ver o passo a passo completo:
@@ -143,3 +149,7 @@ Como utilizar
 * Planeje reposições de acordo com a demanda da loja.
 * Avalie quais fornecedores possuem maior valor financeiro investido.
 * Analise possíveis excessos de estoque para planejar promoções ou reduzir futuras compras.
+
+---
+
+*🔎 Também procurado como: estoque, inventário, contagem, saldo de peças.*

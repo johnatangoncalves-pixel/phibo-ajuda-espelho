@@ -1,4 +1,10 @@
-# Como baixar o XML de uma nota inutilizada ou cancelada
+---
+tags:
+  - tag: nota-fiscal
+    primary: true
+---
+
+# Como baixar o arquivo de uma nota cancelada ou inutilizada (XML)
 
 ## Para salvar o xml  das notas de venda inutilizadas ou canceladas acesse VENDAS > CONSULTA VENDAS > GESTAO DE NOTA FISCAL:
 
@@ -11,3 +17,7 @@
 ## Feito isso, basta clicar no ícone cinza na coluna AÇÃO que o arquivo será baixado no seu computador:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FHTz5t1XGtnhlvhZ50gZk%2Fimage.png?alt=media&amp;token=4b2cd141-be92-4844-9dc7-63fddd3d9436" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: nota fiscal, NF, NFC-e, NF-e, cupom fiscal.*

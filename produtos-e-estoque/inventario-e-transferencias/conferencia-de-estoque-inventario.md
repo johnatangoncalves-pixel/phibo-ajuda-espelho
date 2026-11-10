@@ -1,4 +1,10 @@
-# Conferência de estoque (Inventário)
+---
+tags:
+  - tag: estoque
+    primary: true
+---
+
+# Como fazer a contagem do estoque (inventário)
 
 ## Para realizar uma conferência do seu estoque, o primeiro passo é identificar qual método vai se encaixar melhor na rotina da sua loja:
 
@@ -17,4 +23,4 @@
 
 ---
 
-*🔎 Também procurado como: inventário, contagem de estoque, balanço.*
+*🔎 Também procurado como: inventário, contagem de estoque, balanço, estoque, contagem, saldo de peças.*

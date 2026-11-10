@@ -1,5 +1,8 @@
 ---
 description: "Cadastrar, editar e excluir clientes, incluindo o cliente padrão para vendas sem cadastro."
+tags:
+  - tag: clientes
+    primary: true
 ---
 
 # Cadastro de clientes

@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: estoque
+    primary: true
+  - nota-fiscal
+---
+
 # Conferência de estoque sem leitor de código de barras
 
 {% hint style="info" %}
@@ -11,3 +18,7 @@ Para realizar esse processo é necessário abrir duas abas do sistema no mesmo n
 {% endhint %}
 
 {% embed url="<https://www.loom.com/share/fd6de101a3c4444c8dba56124bb80031?sid=026b6215-5dd4-4923-adf3-9e7588c1ed1e>" %}
+
+---
+
+*🔎 Também procurado como: estoque, inventário, contagem, saldo de peças, nota fiscal, NF, NFC-e, NF-e, cupom fiscal.*

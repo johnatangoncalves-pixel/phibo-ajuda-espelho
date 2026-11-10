@@ -1,8 +1,13 @@
 ---
 description: "Para emitir NFC-e modelo 65, ou o comumente chamado cupom fiscal, o primeiro passo é habilitar a emissão de notas fiscais no seu sistema. Se você já habilitou, siga as orientações abaixo:"
+tags:
+  - tag: nota-fiscal
+    primary: true
+  - vendas
+  - primeiros-passos
 ---
 
-# Como emitir NFC-e (modelo 65)
+# Como emitir a nota fiscal da venda na loja (NFC-e)
 
 #### Assista o vídeo abaixo para visualizar detalhadamento como emitir um CUPOM FISCAL (NFC-e modelo 65):
 
@@ -42,4 +47,4 @@ ATENÇÃO! Se esse ícone não aparecer nas telas indicadas, significa que sua N
 
 ---
 
-*🔎 Também procurado como: cupom fiscal, nota da loja, emitir nota de venda.*
+*🔎 Também procurado como: cupom fiscal, nota da loja, emitir nota de venda, nota fiscal, NF, NFC-e, NF-e, venda, vender, PDV, frente de caixa, começar, implantação, treinamento.*

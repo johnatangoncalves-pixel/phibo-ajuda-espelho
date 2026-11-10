@@ -1,8 +1,12 @@
 ---
 description: "A nota foi rejeitada? Veja o que significa cada mensagem e como resolver."
+tags:
+  - tag: nota-fiscal
+    primary: true
+  - erros
 ---
 
-# Erros e rejeições da Sefaz
+# Nota recusada: erros e soluções
 
 A nota foi rejeitada? Veja o que significa cada mensagem e como resolver.
 

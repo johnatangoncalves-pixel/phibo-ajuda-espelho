@@ -1,3 +1,12 @@
+---
+tags:
+  - tag: troca-devolucao
+    primary: true
+  - vendas
+  - nota-fiscal
+  - descontos
+---
+
 # Como fazer uma troca com desconto
 
 ## Segue o vídeo com o PASSO A PASSO para fazer uma troca onde houve DESCONTO:
@@ -13,3 +22,7 @@ Vamos deixar aqui o link do tutorial de como criar e utilizar o cupom de troca.
 
 <https://ajuda.phibo.site/sobre-o-sitema/vendas/como-fazer-a-troca-usando-o-cupom-de-troca-no-phibo>
 {% endhint %}
+
+---
+
+*🔎 Também procurado como: troca, devolução, trocar peça, devolver, venda, vender, PDV, frente de caixa, nota fiscal, NF, NFC-e, NF-e, cupom fiscal, desconto, promoção, cupom de desconto.*

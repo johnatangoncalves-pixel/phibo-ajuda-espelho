@@ -1,3 +1,11 @@
+---
+tags:
+  - tag: migracao
+    primary: true
+  - primeiros-passos
+  - clientes
+---
+
 # Importação de clientes entre contas Phibo
 
 {% hint style="info" %}
@@ -15,3 +23,7 @@ Caso queira importar a listagem de clientes vinda de OUTRO SISTEMA, clique no í
 {% content-ref url="importacao-de-clientes-outro-sistema.md" %}
 [Importação de clientes (outro sistema)](importacao-de-clientes-outro-sistema.md)
 {% endcontent-ref %}
+
+---
+
+*🔎 Também procurado como: migração, importar dados, planilha, outro sistema, começar, implantação, treinamento, cliente, cadastro de cliente.*

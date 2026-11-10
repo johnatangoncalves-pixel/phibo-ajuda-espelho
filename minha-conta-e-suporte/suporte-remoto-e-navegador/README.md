@@ -1,5 +1,8 @@
 ---
 description: "AnyDesk, limpeza de cache e como falar com o suporte."
+tags:
+  - tag: conta
+    primary: true
 ---
 
 # Suporte remoto e navegador

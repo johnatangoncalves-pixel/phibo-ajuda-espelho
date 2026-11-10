@@ -1,5 +1,8 @@
 ---
 description: "As Despesas são as contas gerais da loja: salários, aluguel, internet, luz, equipamentos… Veja como lançar e pagar."
+tags:
+  - tag: financeiro
+    primary: true
 ---
 
 # Despesas e contas a pagar

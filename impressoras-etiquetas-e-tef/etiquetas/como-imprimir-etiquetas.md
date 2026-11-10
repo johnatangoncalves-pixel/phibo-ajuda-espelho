@@ -1,5 +1,10 @@
 ---
 description: "Veja o vídeo abaixo e siga o passo a passo:"
+tags:
+  - tag: etiquetas
+    primary: true
+  - produtos
+  - impressora
 ---
 
 # Como imprimir etiquetas
@@ -12,4 +17,4 @@ description: "Veja o vídeo abaixo e siga o passo a passo:"
 
 ---
 
-*🔎 Também procurado como: imprimir etiqueta de preço, código de barras, etiqueta de roupa.*
+*🔎 Também procurado como: imprimir etiqueta de preço, código de barras, etiqueta de roupa, etiqueta, etiqueta de preço, produto, peça, cadastro de produto, grade, tamanho, impressora, imprimir, impressão.*

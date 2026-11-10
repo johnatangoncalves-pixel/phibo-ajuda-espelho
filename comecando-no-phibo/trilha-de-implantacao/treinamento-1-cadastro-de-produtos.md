@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: primeiros-passos
+    primary: true
+  - produtos
+---
+
 # Treinamento 1 – Cadastro de produtos
 
 {% content-ref url="../../produtos-e-estoque/cadastros-auxiliares-grades-cores-categorias/como-configurar-grades-cores-e-parametros-de-estoque.md" %}
@@ -19,3 +26,7 @@
 {% content-ref url="../../produtos-e-estoque/consulta-e-analise-de-estoque/visao-geral-de-estoque.md" %}
 [Visão Geral de Estoque](../../produtos-e-estoque/consulta-e-analise-de-estoque/visao-geral-de-estoque.md)
 {% endcontent-ref %}
+
+---
+
+*🔎 Também procurado como: começar, implantação, treinamento, produto, peça, cadastro de produto, grade, tamanho.*

@@ -1,8 +1,14 @@
 ---
 description: "Veja nos tutoriais a seguir como pode ser feito o cadastro por XML no sistema Phibo com a nova atualização da plataforma:"
+tags:
+  - tag: compras
+    primary: true
+  - nota-fiscal
+  - estoque
+  - produtos
 ---
 
-# Como cadastrar produtos pelo XML da nota de compra
+# Como cadastrar produtos pelo arquivo da nota de compra (XML)
 
 {% hint style="success" %}
 **Artigo unificado:** substitui “Cadastrando seu primeiro produto por Nota Fiscal XML” (https://ajuda.phibo.site/primeiros-passos/untitled/cadastrando-seu-primeiro-produto-por-nota-fiscal-xml); “Como cadastrar os produtos por Nota Fiscal XML” (https://ajuda.phibo.site/sobre-o-sitema/cadastros-2/produtos/como-cadastrar-os-produtos-por-nota-fiscal-xml).
@@ -122,4 +128,4 @@ Nessa tela, a última coluna, **STATUS,** demonstra a situação atual do produt
 
 ---
 
-*🔎 Também procurado como: entrada de mercadoria, importar nota do fornecedor, XML de compra.*
+*🔎 Também procurado como: entrada de mercadoria, importar nota do fornecedor, XML de compra, compra, fornecedor, nota de entrada, mercadoria, nota fiscal, NF, NFC-e, NF-e, cupom fiscal, estoque, inventário, contagem, saldo de peças.*

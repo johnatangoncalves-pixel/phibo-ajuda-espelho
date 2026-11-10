@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: caixa
+    primary: true
+  - financeiro
+---
+
 # Como fechar o caixa
 
 {% hint style="info" %}
@@ -10,4 +17,4 @@
 
 ---
 
-*🔎 Também procurado como: fechamento de caixa, encerrar o dia, conferir caixa.*
+*🔎 Também procurado como: fechamento de caixa, encerrar o dia, conferir caixa, caixa, fechamento, sangria, troco, financeiro, contas, despesas, lucro.*

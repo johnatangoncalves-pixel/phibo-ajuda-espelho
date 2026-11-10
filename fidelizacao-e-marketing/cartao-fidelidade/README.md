@@ -1,5 +1,9 @@
 ---
 description: "Configure o cartão fidelidade e acompanhe os pontos das suas clientes."
+tags:
+  - tag: fidelizacao
+    primary: true
+  - clientes
 ---
 
 # Cartão fidelidade

@@ -1,5 +1,9 @@
 ---
 description: "Aprenda no vídeo abaixo como fazer uma venda por Bag Delivery no sistema Phibo:"
+tags:
+  - tag: bags
+    primary: true
+  - vendas
 ---
 
 # Como fazer uma venda por Bag Delivery
@@ -25,3 +29,7 @@ description: "Aprenda no vídeo abaixo como fazer uma venda por Bag Delivery no 
 {% content-ref url="como-lancar-descontos-nas-pecas-especificas-das-bags.md" %}
 [Como lançar descontos nas peças específicas das bags](como-lancar-descontos-nas-pecas-especificas-das-bags.md)
 {% endcontent-ref %}
+
+---
+
+*🔎 Também procurado como: bag, condicional, malinha, sacola, venda, vender, PDV, frente de caixa.*

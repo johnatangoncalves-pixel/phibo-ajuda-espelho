@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: vendedores
+    primary: true
+---
+
 # Como editar ou excluir um vendedor
 
 Para editar ou excluir um vendedor da sua tabela de vendedores, vá em Vendas > Vendedores > Cadastrar Vendedor:
@@ -27,3 +33,7 @@ Se você quiser desativar o cadastro desse vendedor, basta clicar no ícone verd
 Para ver os vendedores desativados, ou reativar algum cadastro, é só alterar o status:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FrYyDf5ibV0enx2vR1Yu5%2Fimage.png?alt=media&amp;token=f26adce4-7d27-4242-bdd7-e2d8dbca18f4" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: vendedor, vendedora, comissão, meta.*

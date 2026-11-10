@@ -1,5 +1,8 @@
 ---
 description: "Encontre clientes e descubra quem comprou cada marca, grade, cor ou categoria."
+tags:
+  - tag: clientes
+    primary: true
 ---
 
 # Listagem e filtros

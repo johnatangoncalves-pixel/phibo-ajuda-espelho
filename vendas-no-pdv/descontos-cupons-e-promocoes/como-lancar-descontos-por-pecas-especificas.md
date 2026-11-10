@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: descontos
+    primary: true
+---
+
 # Como lançar descontos por peças específicas
 
 Neste artigo veremos como aplicar o desconto (seja por porcentagem ou pelo valor já calculado) para somente as peças específcas que tiveram esse desconto na venda, **sem afetar o valor das demais mercadorias!!**
@@ -19,3 +25,7 @@ IMPORTANTE: Se quiser que o desconto seja aplicado na venda como um todo, sem se
 {% endhint %}
 
 ![](https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FSuBzpUwpevqUTv5nIwCk%2Fdesconto%204.jpg?alt=media\&token=cde83e87-db57-412f-8c01-6b1f35a00efa)
+
+---
+
+*🔎 Também procurado como: desconto, promoção, cupom de desconto, liquidação.*

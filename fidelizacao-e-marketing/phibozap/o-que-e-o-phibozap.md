@@ -1,5 +1,12 @@
 ---
 description: "O Phibozap é o nosso mais novo produto de automação de mensagens no WhatsApp. Com ele você é capaz de usar toda sua base de clientes no Phibo para fazer envios 100% automáticos."
+tags:
+  - tag: phibozap
+    primary: true
+  - whatsapp
+  - produtos
+  - clientes
+  - entregas
 ---
 
 # O que é o PhiboZap
@@ -21,7 +28,7 @@ O PhiboZap é o nosso mais novo produto de automação de mensagens no WhatsApp.
 {% endcontent-ref %}
 
 {% content-ref url="envio-automatico-da-nota-fiscal-e-cupom-de-venda-apos-a-conclusao-da-venda.md" %}
-[Envio automático da Nota Fiscal e Cupom de Venda após a conclusão da venda](envio-automatico-da-nota-fiscal-e-cupom-de-venda-apos-a-conclusao-da-venda.md)
+[Envio automático da nota fiscal e Cupom de Venda após a conclusão da venda](envio-automatico-da-nota-fiscal-e-cupom-de-venda-apos-a-conclusao-da-venda.md)
 {% endcontent-ref %}
 
 {% content-ref url="envio-do-cartao-fidelidade-automaticamente-pelo-phibozap.md" %}
@@ -31,3 +38,7 @@ O PhiboZap é o nosso mais novo produto de automação de mensagens no WhatsApp.
 {% content-ref url="envio-recorrente-para-clientes-do-cartao-fidelidade-que-nao-compram-ha-x-dias.md" %}
 [Envio recorrente para clientes do cartão fidelidade que não compram há X dias](envio-recorrente-para-clientes-do-cartao-fidelidade-que-nao-compram-ha-x-dias.md)
 {% endcontent-ref %}
+
+---
+
+*🔎 Também procurado como: PhiboZap, mensagem automática, disparo em massa, WhatsApp, Zap, mensagem, produto, peça, cadastro de produto, grade, tamanho, cliente, cadastro de cliente, frete, envio, entrega.*

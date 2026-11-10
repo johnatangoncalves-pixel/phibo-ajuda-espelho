@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: financeiro
+    primary: true
+---
+
 # Como cadastrar uma despesa
 
 {% hint style="info" %}
@@ -25,3 +31,7 @@
 
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2Fww5seXtTb3w7qKae9P1u%2Fimage.png?alt=media&amp;token=415ad567-bae9-4312-aa36-d207da7ec614" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: financeiro, contas, despesas, lucro.*

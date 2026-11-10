@@ -1,3 +1,11 @@
+---
+tags:
+  - tag: fidelizacao
+    primary: true
+  - clientes
+  - vendas
+---
+
 # Como registrar uma venda usando o saldo de cashback
 
 Para usar essa ferramenta é imprescindível que o seu programa de fidelização “**cashback**” esteja habilitado. Você pode conferir na tela **INICIO > CONFIGURAR MÓDULOS > PROGRAMA FIDELIZAÇÃO.**
@@ -39,3 +47,7 @@ Para usar essa ferramenta é imprescindível que o seu programa de fidelização
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FxtQhagv7C8UGxGECAJ4y%2Funknown.png?alt=media&amp;token=11a64cb3-fff6-48b6-ba98-44fd82e79065" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FxOecpyvog8U2zJ3gOUFY%2Fimage.png?alt=media&amp;token=5f323c17-cdcf-49dd-b653-2f16a116e22f" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: fidelidade, pontos, cashback, recompensa, cliente, cadastro de cliente, venda, vender, PDV, frente de caixa.*

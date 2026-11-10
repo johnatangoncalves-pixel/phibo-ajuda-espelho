@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: primeiros-passos
+    primary: true
+  - fidelizacao
+---
+
 # Passo 1
 
 {% content-ref url="../../produtos-e-estoque/cadastros-auxiliares-grades-cores-categorias/como-configurar-grades-cores-e-parametros-de-estoque.md" %}
@@ -19,3 +26,7 @@
 {% content-ref url="../../compras-e-fornecedores/fornecedores/como-cadastrar-fornecedores.md" %}
 [Cadastro de Fornecedores](../../compras-e-fornecedores/fornecedores/como-cadastrar-fornecedores.md)
 {% endcontent-ref %}
+
+---
+
+*🔎 Também procurado como: começar, implantação, treinamento, fidelidade, pontos, cashback, recompensa.*

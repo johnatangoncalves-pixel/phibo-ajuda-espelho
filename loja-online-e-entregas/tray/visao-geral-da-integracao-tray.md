@@ -1,5 +1,8 @@
 ---
 description: "Veja abaixo cada tutorial passo a passo de cada etapa da integração com a Tray!"
+tags:
+  - tag: loja-online
+    primary: true
 ---
 
 # Visão geral da integração Tray
@@ -23,3 +26,7 @@ description: "Veja abaixo cada tutorial passo a passo de cada etapa da integraç
 {% content-ref url="como-fazer-vendas-que-vem-do-e-commerce-tray.md" %}
 [Como fazer vendas que vem do e-commerce Tray](como-fazer-vendas-que-vem-do-e-commerce-tray.md)
 {% endcontent-ref %}
+
+---
+
+*🔎 Também procurado como: loja virtual, site, e-commerce, marketplace.*

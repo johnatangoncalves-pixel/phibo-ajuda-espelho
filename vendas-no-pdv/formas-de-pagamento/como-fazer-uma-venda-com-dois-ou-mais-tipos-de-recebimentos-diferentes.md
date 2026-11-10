@@ -1,5 +1,9 @@
 ---
 description: "Assista o vídeo abaixo:"
+tags:
+  - tag: maquininha
+    primary: true
+  - vendas
 ---
 
 # Como fazer uma venda com dois ou mais tipos de recebimentos diferentes
@@ -59,3 +63,7 @@ Com os produtos devidamente selecionados na venda, vá no botão verde "EFETUAR 
 ## Pronto! Venda finalizada!! 😁💙🎉
 
 ##
+
+---
+
+*🔎 Também procurado como: máquina de cartão, maquininha, cartão de crédito, cartão de débito, TEF, venda, vender, PDV, frente de caixa.*

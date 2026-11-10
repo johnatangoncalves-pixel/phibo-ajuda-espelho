@@ -1,5 +1,10 @@
 ---
 description: "Para importar os contatos dos clientes do seu sistema anterior para o sistema Phibo assista atentamente o passo a passo abaixo:"
+tags:
+  - tag: migracao
+    primary: true
+  - primeiros-passos
+  - clientes
 ---
 
 # Importação de clientes (outro sistema)
@@ -15,3 +20,7 @@ Clique no ícone abaixo para fazer o dowload da planilha modelo de importação 
 {% endhint %}
 
 {% file src="/files/UCQoqYQOsL31qP8M9fnJ" %}
+
+---
+
+*🔎 Também procurado como: migração, importar dados, planilha, outro sistema, começar, implantação, treinamento, cliente, cadastro de cliente.*

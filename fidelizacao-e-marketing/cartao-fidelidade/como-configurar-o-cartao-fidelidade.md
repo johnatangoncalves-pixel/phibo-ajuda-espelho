@@ -1,3 +1,12 @@
+---
+tags:
+  - tag: fidelizacao
+    primary: true
+  - clientes
+  - nota-fiscal
+  - maquininha
+---
+
 # Como configurar o cartão fidelidade
 
 ## Assista abaixo o vídeo sobre a configuração e utilização do Cartão Fidelidade no sistema Phibo:
@@ -46,3 +55,7 @@ Se o seu Cliente Padrão não foi cadastrado ainda, pode faze-lo conforme o segu
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FOirjMZp3zPCYcKMqC3c5%2Fimage.png?alt=media&amp;token=f8128c98-1615-4ffa-9d63-ab831c5cc845" alt=""><figcaption></figcaption></figure>
 
 
+
+---
+
+*🔎 Também procurado como: fidelidade, pontos, cashback, recompensa, cliente, cadastro de cliente, nota fiscal, NF, NFC-e, NF-e, cupom fiscal, máquina de cartão, maquininha, cartão de crédito, cartão de débito, TEF.*

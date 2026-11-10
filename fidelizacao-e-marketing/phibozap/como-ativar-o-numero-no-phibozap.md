@@ -1,5 +1,9 @@
 ---
 description: "Veja o vídeo abaixo para aprender o passo a passo da ativação:"
+tags:
+  - tag: phibozap
+    primary: true
+  - whatsapp
 ---
 
 # Como ativar o número no PhiboZap
@@ -19,3 +23,7 @@ description: "Veja o vídeo abaixo para aprender o passo a passo da ativação:"
 #### PASSO 3:  E após ler o QR Code basta clicar em CONFIRMAR CONEXÃO e tcharan! Estará tudo conectado! Pronto para começar os envios automáticos:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FCvM6Ose70C4eGr5RKI8T%2Fdba45d72-64f3-4976-af69-ab942c7a9e61%20(1).jpg?alt=media&amp;token=046b35b8-6347-467f-8543-06d19dc9337b" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: PhiboZap, mensagem automática, disparo em massa, WhatsApp, Zap, mensagem.*

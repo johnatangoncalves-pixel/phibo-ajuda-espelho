@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: crediario
+    primary: true
+  - vendas
+---
+
 # Como colocar multas e juros no crediário
 
 ## 1 - Para definir a porcentagem de Multas e Juros no seu crediário, basta ir na seguinte tela VENDAS > CREDIÁRIO > PARÂMETROS:
@@ -15,3 +22,7 @@ Conforme diz o Código de Defesa do Consumidor, alguns limites devem ser respeit
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FAvdLNvc56PFSrkzva3sA%2FParametros_crediario.jpeg?alt=media&amp;token=7898848c-b07a-486c-beaa-a51e40ed8fe3" alt=""><figcaption></figcaption></figure>
 
 ## 4 - Por fim, basta clicar no botão SALVAR.
+
+---
+
+*🔎 Também procurado como: crediário, carnê, parcela, fiado, venda, vender, PDV, frente de caixa.*

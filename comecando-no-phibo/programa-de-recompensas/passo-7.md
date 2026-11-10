@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: primeiros-passos
+    primary: true
+  - fidelizacao
+---
+
 # Passo 7
 
 {% content-ref url="../../caixa-e-financeiro/despesas-e-contas-a-pagar/como-cadastrar-uma-despesa-2.md" %}
@@ -17,3 +24,7 @@
 {% content-ref url="../../compras-e-fornecedores/entrada-de-notas-de-compra/como-editar-uma-nota-de-compra.md" %}
 [Como editar uma Nota de Compra](../../compras-e-fornecedores/entrada-de-notas-de-compra/como-editar-uma-nota-de-compra.md)
 {% endcontent-ref %}
+
+---
+
+*🔎 Também procurado como: começar, implantação, treinamento, fidelidade, pontos, cashback, recompensa.*

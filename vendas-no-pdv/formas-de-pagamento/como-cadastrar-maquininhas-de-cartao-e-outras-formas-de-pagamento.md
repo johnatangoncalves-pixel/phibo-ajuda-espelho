@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: maquininha
+    primary: true
+  - vendas
+---
+
 # Como cadastrar maquininhas de cartão e outras formas de pagamento
 
 {% hint style="success" %}
@@ -73,4 +80,4 @@ Com tudo devidamente cadastrado, é só clicar em salvar.
 
 ---
 
-*🔎 Também procurado como: taxa do cartão, cadastrar Stone, Cielo, PagSeguro, Getnet, forma de pagamento.*
+*🔎 Também procurado como: taxa do cartão, cadastrar Stone, Cielo, PagSeguro, Getnet, forma de pagamento, máquina de cartão, maquininha, cartão de crédito, cartão de débito, TEF, venda, vender, PDV, frente de caixa.*

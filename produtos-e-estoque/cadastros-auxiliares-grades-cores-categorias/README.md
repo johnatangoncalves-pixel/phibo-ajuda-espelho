@@ -1,8 +1,11 @@
 ---
 description: "⚠️ Antes de cadastrar seu primeiro produto, cadastre suas grades, cores, coleções, categorias e fornecedores. Tudo isso fica aqui."
+tags:
+  - tag: produtos
+    primary: true
 ---
 
-# Cadastros auxiliares (grades, cores, categorias)
+# Antes de cadastrar: grades, cores e categorias
 
 ⚠️ **Antes de cadastrar seu primeiro produto, cadastre suas grades, cores, coleções, categorias e fornecedores.** Tudo isso fica aqui.
 

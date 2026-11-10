@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: financeiro
+    primary: true
+---
+
 # Como cadastrar uma despesa
 
 {% hint style="info" %}
@@ -38,3 +44,7 @@ O campo **Ciclo de Pagamento** é referente à recorrência dessa despesa.
 #### 4- Depois que os dados estiverem devidamente preenchidos, clique em "Salvar" e a despesa será cadastrada.
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FNQMpXuhh6BpEVc3piX4y%2Fimage.png?alt=media&amp;token=3881660b-2646-41e7-acc8-fca92eb33de1" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: financeiro, contas, despesas, lucro.*

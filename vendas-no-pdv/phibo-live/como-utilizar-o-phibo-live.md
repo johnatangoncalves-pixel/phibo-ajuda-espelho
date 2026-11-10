@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: vendas
+    primary: true
+  - loja-online
+---
+
 # Como utilizar o Phibo Live
 
 {% hint style="info" %}
@@ -7,3 +14,7 @@
 ## Aprenda no vídeo abaixo como utilizar o Phibo Live:
 
 {% embed url="<https://www.loom.com/share/3cd6899778544921a080dfa71a63c6d9>" %}
+
+---
+
+*🔎 Também procurado como: venda, vender, PDV, frente de caixa, loja virtual, site, e-commerce, marketplace.*

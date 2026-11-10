@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: produtos
+    primary: true
+---
+
 # Como cadastrar variações em massa
 
 {% embed url="<https://www.loom.com/share/2b12e69ae4c5482499a9f0fa0507d71c>" %}
@@ -23,3 +29,7 @@
 <img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FAaOchD49KjfzFknAEWkv%2Funknown.png?alt=media&amp;token=779555a8-8147-4116-bcf4-b25ced72b3a5" alt="" height="341" width="602">
 
 7. Por fim salve o cadastro.
+
+---
+
+*🔎 Também procurado como: produto, peça, cadastro de produto, grade, tamanho.*

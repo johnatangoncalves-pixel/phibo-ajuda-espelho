@@ -1,8 +1,14 @@
 ---
 description: "Para emitir a NF-e modelo 55 o primeiro passo é conferir se o seu sistema está habilitado para emiti-la:"
+tags:
+  - tag: nota-fiscal
+    primary: true
+  - loja-online
+  - vendas
+  - primeiros-passos
 ---
 
-# Como emitir NF-e (modelo 55) para e-commerce
+# Como emitir a nota fiscal de vendas online (NF-e)
 
 #### Assista o vídeo abaixo para visualizar o passo a passo completo:
 
@@ -39,3 +45,7 @@ description: "Para emitir a NF-e modelo 55 o primeiro passo é conferir se o seu
 {% hint style="danger" %}
 **ATENÇÃO! Se o ícone da NFe não aparecer nessa tela, significa que sua nota ficou PENDENTE e não foi emitida. Para solucionar o problema, entre em contato com o suporte.**
 {% endhint %}
+
+---
+
+*🔎 Também procurado como: nota fiscal, NF, NFC-e, NF-e, cupom fiscal, loja virtual, site, e-commerce, marketplace, venda, vender, PDV, frente de caixa, começar, implantação, treinamento.*

@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: loja-online
+    primary: true
+  - estoque
+---
+
 # Como reservar parte do estoque para o site e para loja física
 
 #### Assista o vídeo para visualizar detalhadamente o passo a passo:
@@ -21,3 +28,7 @@ Ou, veja abaixo a orientação de como realizar a separação do estoque:
 {% hint style="info" %}
 Uma vez que ativada essa funcionalidade, todos os produtos precisarão desse ajuste na quantidade, ou seja, se já houverem produtos vinculados, será preciso editar cada um deles determinando o estoque do site e da loja física.
 {% endhint %}
+
+---
+
+*🔎 Também procurado como: loja virtual, site, e-commerce, marketplace, estoque, inventário, contagem, saldo de peças.*

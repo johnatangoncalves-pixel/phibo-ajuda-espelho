@@ -1,8 +1,12 @@
 ---
 description: "Se você é do estado do Paraná e precisa emitir notas fiscais, primeiro é necessário realizar o credenciamento de seu sistema emissor caso adquirido fora do estado."
+tags:
+  - tag: nota-fiscal
+    primary: true
+  - primeiros-passos
 ---
 
-# Como fazer o credenciamento na Sefaz do Paraná
+# Lojas do Paraná: como liberar a emissão de notas na Sefaz
 
 ## Primeiro, acesse o site da [Receita](https://receita.pr.gov.br/login) e faça o login.
 
@@ -36,3 +40,7 @@ E clique em **"Continuar"**.
 {% hint style="warning" %}
 Se não conseguir fazer o processo, pode acionar o pessoal da sua contabilidade e solicitar que o façam.
 {% endhint %}
+
+---
+
+*🔎 Também procurado como: nota fiscal, NF, NFC-e, NF-e, cupom fiscal, começar, implantação, treinamento.*

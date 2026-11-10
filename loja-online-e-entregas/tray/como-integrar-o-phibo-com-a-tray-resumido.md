@@ -1,5 +1,8 @@
 ---
 description: "No vídeo a seguir vamos demonstrar de forma resumida como é realizada a integração do Phibo com a Tray e como é a utilização:"
+tags:
+  - tag: loja-online
+    primary: true
 ---
 
 # Como integrar o Phibo com a Tray (resumido)
@@ -13,3 +16,7 @@ description: "No vídeo a seguir vamos demonstrar de forma resumida como é real
 {% endhint %}
 
 {% embed url="<https://www.youtube.com/watch?v=7WiiD1ZbKJM>" %}
+
+---
+
+*🔎 Também procurado como: loja virtual, site, e-commerce, marketplace.*

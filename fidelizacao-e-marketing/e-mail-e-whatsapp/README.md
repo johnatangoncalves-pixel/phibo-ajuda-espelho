@@ -1,5 +1,8 @@
 ---
 description: "Mensagens automáticas por WhatsApp e e-mail marketing."
+tags:
+  - tag: whatsapp
+    primary: true
 ---
 
 # E-mail e WhatsApp

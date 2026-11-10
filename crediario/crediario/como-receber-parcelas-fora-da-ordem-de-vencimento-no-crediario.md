@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: crediario
+    primary: true
+  - vendas
+---
+
 # Como receber parcelas fora da ordem de vencimento no crediário
 
 ## 1 - Você poderá configurar seu sistema para receber parcelas fora da ordem de vencimento no crediário, pela seguinte tela VENDAS > CREDIÁRIO > PARÂMETROS:
@@ -15,3 +22,7 @@ Caso os demais campos estejam vazios (somente se não houver informação para c
 ## 3 - Feito isso, você poderá selecionar as parcelas na tela VENDAS > CREDIARIO> EFETUAR RECEBIMENTO:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FGjnseMNnjPoKD54n2OtE%2Fefetuar_recebimento.jpg?alt=media&amp;token=b0a649a8-8205-4cc2-a74a-3341ba341906" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: crediário, carnê, parcela, fiado, venda, vender, PDV, frente de caixa.*

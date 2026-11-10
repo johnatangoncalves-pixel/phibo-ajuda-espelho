@@ -1,3 +1,12 @@
+---
+tags:
+  - tag: troca-devolucao
+    primary: true
+  - nota-fiscal
+  - clientes
+  - vendas
+---
+
 # Como registrar uma troca ou devolução de venda utilizando o crédito do cliente
 
 {% hint style="info" %}
@@ -11,3 +20,7 @@ Atenção: Para realizar esse procedimento você deve possuir o módulo fiscal a
 {% endhint %}
 
 {% embed url="<https://www.loom.com/share/8c9d739a09834715a02cd02977ad28b8?sid=2a70113e-2928-430f-ab2a-c9235d00b16b>" %}
+
+---
+
+*🔎 Também procurado como: troca, devolução, trocar peça, devolver, nota fiscal, NF, NFC-e, NF-e, cupom fiscal, cliente, cadastro de cliente, venda, vender, PDV, frente de caixa.*

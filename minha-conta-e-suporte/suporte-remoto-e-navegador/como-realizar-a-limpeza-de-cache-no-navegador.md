@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: conta
+    primary: true
+---
+
 # Como realizar a limpeza de cache no navegador
 
 {% hint style="info" %}
@@ -10,4 +16,4 @@
 
 ---
 
-*🔎 Também procurado como: sistema travando, tela não atualiza, sistema lento.*
+*🔎 Também procurado como: sistema travando, tela não atualiza, sistema lento, conta, acesso, usuário, senha.*

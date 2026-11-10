@@ -1,5 +1,9 @@
 ---
 description: "A função agenda do sistema Phibo é uma importante aliada para a organização do seu dia a dia, contribuindo para o controle de eventos marcados."
+tags:
+  - tag: conta
+    primary: true
+  - nota-fiscal
 ---
 
 # Como utilizar a agenda do sistema Phibo
@@ -28,3 +32,7 @@ Observações:
 
 * Cada cliente pode possuir apenas um evento por dia; caso existam várias atividades, elas devem ser registradas na descrição do mesmo evento.
 * O painel inicial sempre exibe os compromissos do dia atual.
+
+---
+
+*🔎 Também procurado como: conta, acesso, usuário, senha, nota fiscal, NF, NFC-e, NF-e, cupom fiscal.*

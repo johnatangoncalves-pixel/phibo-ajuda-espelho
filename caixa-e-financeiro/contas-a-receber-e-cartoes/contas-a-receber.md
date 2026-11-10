@@ -1,5 +1,9 @@
 ---
 description: "Aprenda a lançar CONTAS A RECEBER no Phibo através do vídeo abaixo:"
+tags:
+  - tag: maquininha
+    primary: true
+  - financeiro
 ---
 
 # Contas a receber
@@ -19,3 +23,7 @@ description: "Aprenda a lançar CONTAS A RECEBER no Phibo através do vídeo aba
 {% content-ref url="../../crediario/crediario/como-registrar-uma-venda-no-crediario.md" %}
 [Como registrar uma venda no crediário](../../crediario/crediario/como-registrar-uma-venda-no-crediario.md)
 {% endcontent-ref %}
+
+---
+
+*🔎 Também procurado como: máquina de cartão, maquininha, cartão de crédito, cartão de débito, TEF, financeiro, contas, despesas, lucro.*

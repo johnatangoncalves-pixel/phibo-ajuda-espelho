@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: primeiros-passos
+    primary: true
+  - fidelizacao
+---
+
 # Passo 4
 
 {% content-ref url="../../vendas-no-pdv/formas-de-pagamento/como-cadastrar-maquininhas-de-cartao-e-outras-formas-de-pagamento.md" %}
@@ -15,3 +22,7 @@
 {% content-ref url="../../crediario/crediario/como-receber-uma-parcela-do-crediario-e-excluir-um-recebimento.md" %}
 [Como efetuar recebimento de crediário, e como excluir um pagamento já efetuado.](../../crediario/crediario/como-receber-uma-parcela-do-crediario-e-excluir-um-recebimento.md)
 {% endcontent-ref %}
+
+---
+
+*🔎 Também procurado como: começar, implantação, treinamento, fidelidade, pontos, cashback, recompensa.*

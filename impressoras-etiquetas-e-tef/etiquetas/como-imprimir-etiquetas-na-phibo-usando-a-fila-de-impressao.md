@@ -1,3 +1,11 @@
+---
+tags:
+  - tag: etiquetas
+    primary: true
+  - produtos
+  - impressora
+---
+
 # Como imprimir etiquetas na Phibo (Usando a fila de impressão)
 
 {% hint style="info" %}
@@ -13,3 +21,7 @@
 {% embed url="<https://www.loom.com/share/2fb7a9ff08094421b71ff7f8ad21aa64?sid=f39395f7-c07e-45c8-be28-bbfe2d8aeb6d>" %}
 
 ##
+
+---
+
+*🔎 Também procurado como: etiqueta, etiqueta de preço, código de barras, produto, peça, cadastro de produto, grade, tamanho, impressora, imprimir, impressão.*

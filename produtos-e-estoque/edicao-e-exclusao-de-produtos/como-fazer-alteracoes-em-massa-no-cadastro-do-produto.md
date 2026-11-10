@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: produtos
+    primary: true
+---
+
 # Como fazer alterações em massa no cadastro do produto
 
 **Assista abaixo a orientação completa para fazer alterações em massa no cadastro de produtos:**
@@ -35,3 +41,7 @@ MODIFICAR CARACTERÍSTICAS GERAIS DO PRODUTO
 3- Por fim, selecione a nova opção a ser aplicada ao produto e salve
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FKccZtnyPuRLIcje7k8Qr%2Fimage.png?alt=media&amp;token=3acc0155-2af2-4464-a960-86bd10b5840f" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: produto, peça, cadastro de produto, grade, tamanho.*

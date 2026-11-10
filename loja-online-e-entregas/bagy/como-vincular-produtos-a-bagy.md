@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: loja-online
+    primary: true
+  - produtos
+---
+
 # Como vincular produtos à Bagy
 
 {% hint style="info" %}
@@ -5,3 +12,7 @@
 {% endhint %}
 
 {% embed url="<https://www.loom.com/share/72c66883a88d43dfb9777cd79be22598?sid=313a0164-f758-4e82-8f1d-cf18887d1e47>" %}
+
+---
+
+*🔎 Também procurado como: loja virtual, site, e-commerce, marketplace, produto, peça, cadastro de produto, grade, tamanho.*

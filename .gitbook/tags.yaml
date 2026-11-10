@@ -1,0 +1,52 @@
+- tag: vendas
+  label: Vendas
+- tag: caixa
+  label: Caixa
+- tag: nota-fiscal
+  label: Nota fiscal
+- tag: troca-devolucao
+  label: Troca e devolução
+- tag: estoque
+  label: Estoque
+- tag: produtos
+  label: Produtos
+- tag: etiquetas
+  label: Etiquetas
+- tag: impressora
+  label: Impressora
+- tag: maquininha
+  label: Maquininha e cartão
+- tag: crediario
+  label: Crediário
+- tag: bags
+  label: Bags
+- tag: clientes
+  label: Clientes
+- tag: financeiro
+  label: Financeiro
+- tag: compras
+  label: Compras e fornecedores
+- tag: whatsapp
+  label: WhatsApp
+- tag: phibozap
+  label: PhiboZap
+- tag: fidelizacao
+  label: Fidelidade e cashback
+- tag: loja-online
+  label: Loja online
+- tag: entregas
+  label: Entregas e fretes
+- tag: conta
+  label: Minha conta
+- tag: primeiros-passos
+  label: Primeiros passos
+- tag: erros
+  label: Erros e soluções
+- tag: vendedores
+  label: Vendedores
+- tag: descontos
+  label: Descontos e promoções
+- tag: migracao
+  label: Migração de dados
+- tag: relatorios
+  label: Relatórios

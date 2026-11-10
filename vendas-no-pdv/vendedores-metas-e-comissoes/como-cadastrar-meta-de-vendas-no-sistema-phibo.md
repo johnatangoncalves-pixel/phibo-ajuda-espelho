@@ -1,5 +1,9 @@
 ---
 description: "Assista o vídeo passo a passo abaixo:"
+tags:
+  - tag: vendedores
+    primary: true
+  - vendas
 ---
 
 # Como cadastrar meta de vendas no Sistema Phibo
@@ -13,3 +17,7 @@ description: "Assista o vídeo passo a passo abaixo:"
 {% endhint %}
 
 {% embed url="<https://www.loom.com/share/b5b4e90e065049ed8f068ff0cc8864b8>" %}
+
+---
+
+*🔎 Também procurado como: vendedor, vendedora, comissão, meta, venda, vender, PDV, frente de caixa.*

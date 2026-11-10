@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: primeiros-passos
+    primary: true
+  - fidelizacao
+---
+
 # Passo 6
 
 {% content-ref url="../../vendas-no-pdv/fazer-uma-venda/como-fazer-uma-venda.md" %}
@@ -15,3 +22,7 @@
 {% content-ref url="../../fidelizacao-e-marketing/cartao-fidelidade/como-configurar-o-cartao-fidelidade.md" %}
 [Como configurar o cartão fidelidade](../../fidelizacao-e-marketing/cartao-fidelidade/como-configurar-o-cartao-fidelidade.md)
 {% endcontent-ref %}
+
+---
+
+*🔎 Também procurado como: começar, implantação, treinamento, fidelidade, pontos, cashback, recompensa.*

@@ -1,5 +1,8 @@
 ---
 description: "Editar um produto, alterar vários de uma vez, excluir e reativar."
+tags:
+  - tag: produtos
+    primary: true
 ---
 
 # Edição e exclusão de produtos

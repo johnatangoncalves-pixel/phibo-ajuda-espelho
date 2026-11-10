@@ -1,8 +1,11 @@
 ---
 description: "Encontre produtos no estoque e descubra o que vende mais (e menos) na sua loja."
+tags:
+  - tag: estoque
+    primary: true
 ---
 
-# Consulta e análise de estoque
+# Consultar e analisar o estoque
 
 Encontre produtos no estoque e descubra o que vende mais (e menos) na sua loja.
 
@@ -23,15 +26,15 @@ Encontre produtos no estoque e descubra o que vende mais (e menos) na sua loja.
 {% endcontent-ref %}
 
 {% content-ref url="como-analisar-giro-de-estoque.md" %}
-[Como analisar giro de estoque](como-analisar-giro-de-estoque.md)
+[Como ver os produtos mais e menos vendidos (giro de estoque)](como-analisar-giro-de-estoque.md)
 {% endcontent-ref %}
 
 {% content-ref url="como-analisar-a-curva-abc.md" %}
-[Como analisar a Curva ABC](como-analisar-a-curva-abc.md)
+[Como ver os produtos que mais faturam (Curva ABC)](como-analisar-a-curva-abc.md)
 {% endcontent-ref %}
 
 {% content-ref url="produtos-mais-e-menos-vendidos-giro-de-estoque.md" %}
-[Produtos mais e menos vendidos (giro de estoque)](produtos-mais-e-menos-vendidos-giro-de-estoque.md)
+[Produtos mais e menos vendidos (vídeo)](produtos-mais-e-menos-vendidos-giro-de-estoque.md)
 {% endcontent-ref %}
 
 {% content-ref url="como-visualizar-os-produtos-ja-cadastrados-em-seu-estoque.md" %}

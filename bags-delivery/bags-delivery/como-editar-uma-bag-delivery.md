@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: bags
+    primary: true
+  - vendas
+---
+
 # Como editar uma Bag Delivery
 
 {% hint style="info" %}
@@ -35,3 +42,7 @@
 {% hint style="danger" %}
 Quando um produto é excluído de uma bag, automaticamente o registro dele na bag é removido, junto com a informação de que aquele produto fez parte da bag no histórico dele
 {% endhint %}
+
+---
+
+*🔎 Também procurado como: bag, condicional, malinha, sacola, venda, vender, PDV, frente de caixa.*

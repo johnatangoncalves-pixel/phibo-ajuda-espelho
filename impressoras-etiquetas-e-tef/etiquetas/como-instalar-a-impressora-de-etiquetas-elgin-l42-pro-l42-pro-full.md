@@ -1,3 +1,11 @@
+---
+tags:
+  - tag: etiquetas
+    primary: true
+  - produtos
+  - impressora
+---
+
 # Como instalar a impressora de etiquetas Elgin L42 Pro / L42 Pro Full
 
 ## Assista o vídeo completo de como realizar a instalação do driver:
@@ -49,3 +57,7 @@ Essa informação poderá ser alterada posteriormente.
 Prontinho, sua instalação foi finalizada. Agora você poderá imprimir uma [*impressão de teste* ](../impressoras-instalacao-e-erros/como-testar-as-impressoes-imprimindo-uma-pagina-de-teste-em-seu-equipamento.md)para verificar se o seu equipamento foi instalado e configurado corretamente.
 
 **Feito isso, a impressora estará devidamente configurada e funcional**
+
+---
+
+*🔎 Também procurado como: etiqueta, etiqueta de preço, código de barras, produto, peça, cadastro de produto, grade, tamanho, impressora, imprimir, impressão.*

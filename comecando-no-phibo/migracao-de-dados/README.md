@@ -1,5 +1,9 @@
 ---
 description: "Vai trazer clientes e estoque de outro sistema (ou de outra conta Phibo)? Comece por aqui."
+tags:
+  - tag: migracao
+    primary: true
+  - primeiros-passos
 ---
 
 # Migração de dados

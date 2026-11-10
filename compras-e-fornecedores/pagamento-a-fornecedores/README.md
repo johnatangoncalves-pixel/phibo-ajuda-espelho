@@ -1,5 +1,8 @@
 ---
 description: "Como registrar o pagamento das notas dos seus fornecedores."
+tags:
+  - tag: compras
+    primary: true
 ---
 
 # Pagamento a fornecedores

@@ -1,5 +1,11 @@
 ---
 description: "Para entender melhor sobre o processo de trazer os dados de estoque e produtos do seu sistema anterior para o sistema Phibo, assista os 2 vídeos abaixo:"
+tags:
+  - tag: migracao
+    primary: true
+  - primeiros-passos
+  - estoque
+  - produtos
 ---
 
 # Migração de dados de outro sistema para o Phibo
@@ -13,3 +19,7 @@ description: "Para entender melhor sobre o processo de trazer os dados de estoqu
 ## Principais dúvidas a respeito da migração para o Phibo:
 
 {% embed url="<https://www.loom.com/share/22d6f3e063a24f0f9c1abdf33c03648c>" %}
+
+---
+
+*🔎 Também procurado como: migração, importar dados, planilha, outro sistema, começar, implantação, treinamento, estoque, inventário, contagem, saldo de peças, produto, peça, cadastro de produto, grade, tamanho.*

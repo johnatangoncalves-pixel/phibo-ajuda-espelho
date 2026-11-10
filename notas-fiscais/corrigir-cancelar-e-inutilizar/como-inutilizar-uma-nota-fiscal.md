@@ -1,4 +1,11 @@
-# Como inutilizar uma Nota Fiscal
+---
+tags:
+  - tag: nota-fiscal
+    primary: true
+  - erros
+---
+
+# Como inutilizar uma nota que não foi emitida
 
 #### 1 - Caso tenha ocorrido algum salto de numeração das suas notas fiscais, será necessário inutilizar esse número sem nota emitida. Para isso, basta ir até a tela INÍCIO > CONFIGURAR MÓDULOS > NOTA FISCAL ELETRÔNICA > INUTILIZAR NOTAS FISCAIS:
 
@@ -25,4 +32,4 @@ Confirme o modelo da nota que deseja inutilizar:
 
 ---
 
-*🔎 Também procurado como: pular numeração, nota que não foi emitida, numeração da nota.*
+*🔎 Também procurado como: pular numeração, nota que não foi emitida, numeração da nota, nota fiscal, NF, NFC-e, NF-e, cupom fiscal, erro, problema, não funciona.*

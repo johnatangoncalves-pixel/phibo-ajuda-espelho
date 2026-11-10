@@ -1,5 +1,8 @@
 ---
 description: "Com essa nova funcionalidade do sistema, agora você consegue cadastrar cores em campo específico, podendo segmentar mais ainda seus produtos. Veja como funciona!"
+tags:
+  - tag: produtos
+    primary: true
 ---
 
 # Como cadastrar cores
@@ -42,3 +45,7 @@ IMPORTANTE: Telas e relatórios que foram alterados com essa atualização\
 * Nos PDVs de venda, quando seleciona-se os produtos há uma nova coluna de cor;
 * Nas telas de BAG também há uma nova coluna de cor.
   {% endhint %}
+
+---
+
+*🔎 Também procurado como: produto, peça, cadastro de produto, grade, tamanho.*

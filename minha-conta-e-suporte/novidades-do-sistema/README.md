@@ -1,5 +1,8 @@
 ---
 description: "O que mudou no Phibo nas últimas atualizações."
+tags:
+  - tag: conta
+    primary: true
 ---
 
 # Novidades do sistema

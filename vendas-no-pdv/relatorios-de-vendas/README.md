@@ -1,5 +1,9 @@
 ---
 description: "Acompanhe as vendas no Painel e na Relação de vendas."
+tags:
+  - tag: vendas
+    primary: true
+  - relatorios
 ---
 
 # Relatórios de vendas
@@ -7,7 +11,7 @@ description: "Acompanhe as vendas no Painel e na Relação de vendas."
 Acompanhe as vendas no Painel e na Relação de vendas.
 
 {% content-ref url="painel-de-vendas.md" %}
-[Painel de Vendas](painel-de-vendas.md)
+[Painel de vendas](painel-de-vendas.md)
 {% endcontent-ref %}
 
 {% content-ref url="como-utilizar-as-funcionalidades-relacao-de-vendas-e-painel-de-vendas.md" %}

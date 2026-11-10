@@ -1,5 +1,8 @@
 ---
 description: "Assista abaixo o vídeo e veja o passo a passo completo de como remover uma variação específica de um produto cadastrado:"
+tags:
+  - tag: produtos
+    primary: true
 ---
 
 # Como desvincular um produto de uma variação
@@ -19,3 +22,7 @@ description: "Assista abaixo o vídeo e veja o passo a passo completo de como re
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2Fccfrh5C0oairKtUbVuLq%2Fimage.png?alt=media&amp;token=17c2c57f-2fd6-4381-9e2a-21524410a2cc" alt=""><figcaption></figcaption></figure>
 
 4- Após remover as variações que não pertencem à esse produto, basta clicar em salvar e os produtos ficarão desvinculados.
+
+---
+
+*🔎 Também procurado como: produto, peça, cadastro de produto, grade, tamanho.*

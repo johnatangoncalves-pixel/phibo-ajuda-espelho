@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: primeiros-passos
+    primary: true
+  - fidelizacao
+---
+
 # Passo 3
 
 {% content-ref url="../../produtos-e-estoque/variacoes/como-agrupar-produtos-em-uma-variacao.md" %}
@@ -11,3 +18,7 @@
 {% content-ref url="../../impressoras-etiquetas-e-tef/etiquetas/modelos-de-etiquetas-disponiveis.md" %}
 [Modelos de Etiquetas Disponíveis para Impressões](../../impressoras-etiquetas-e-tef/etiquetas/modelos-de-etiquetas-disponiveis.md)
 {% endcontent-ref %}
+
+---
+
+*🔎 Também procurado como: começar, implantação, treinamento, fidelidade, pontos, cashback, recompensa.*

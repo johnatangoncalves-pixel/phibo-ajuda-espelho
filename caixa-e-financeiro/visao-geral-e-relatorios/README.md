@@ -1,8 +1,12 @@
 ---
 description: "Painel financeiro, fluxo de caixa, DRE e movimentação das contas bancárias."
+tags:
+  - tag: financeiro
+    primary: true
+  - relatorios
 ---
 
-# Visão geral e relatórios
+# Relatórios financeiros
 
 Painel financeiro, fluxo de caixa, DRE e movimentação das contas bancárias.
 
@@ -11,23 +15,23 @@ Painel financeiro, fluxo de caixa, DRE e movimentação das contas bancárias.
 {% endcontent-ref %}
 
 {% content-ref url="detalhamento-do-modulo-financeiro.md" %}
-[Detalhamento do módulo financeiro](detalhamento-do-modulo-financeiro.md)
+[Como funciona o Financeiro do Phibo](detalhamento-do-modulo-financeiro.md)
 {% endcontent-ref %}
 
 {% content-ref url="como-analisar-o-painel-geral-financeiro.md" %}
-[Como analisar o Painel Geral Financeiro](como-analisar-o-painel-geral-financeiro.md)
+[Como analisar o painel financeiro](como-analisar-o-painel-geral-financeiro.md)
 {% endcontent-ref %}
 
 {% content-ref url="como-analisar-a-movimentacao-de-cada-conta-bancaria.md" %}
-[Como analisar a movimentação de cada Conta Bancária](como-analisar-a-movimentacao-de-cada-conta-bancaria.md)
+[Como ver a movimentação de cada conta bancária](como-analisar-a-movimentacao-de-cada-conta-bancaria.md)
 {% endcontent-ref %}
 
 {% content-ref url="como-fazer-a-analise-de-listar-fluxo-de-caixa.md" %}
-[Como fazer a análise de Listar Fluxo de Caixa](como-fazer-a-analise-de-listar-fluxo-de-caixa.md)
+[Como acompanhar as entradas e saídas de dinheiro (fluxo de caixa)](como-fazer-a-analise-de-listar-fluxo-de-caixa.md)
 {% endcontent-ref %}
 
 {% content-ref url="como-analisar-o-dre.md" %}
-[Como analisar o DRE](como-analisar-o-dre.md)
+[Como ver se a loja teve lucro (DRE)](como-analisar-o-dre.md)
 {% endcontent-ref %}
 
 {% content-ref url="apresentacao-da-tela-do-financeiro.md" %}

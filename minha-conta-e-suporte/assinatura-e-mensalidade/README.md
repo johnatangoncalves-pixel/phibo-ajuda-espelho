@@ -1,5 +1,8 @@
 ---
 description: "Ative a conta e mantenha o cartão da mensalidade em dia."
+tags:
+  - tag: conta
+    primary: true
 ---
 
 # Assinatura e mensalidade

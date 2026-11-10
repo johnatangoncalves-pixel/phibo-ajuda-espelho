@@ -1,5 +1,11 @@
 ---
 description: "Está cansada de ter que ficar controlando MANUALMENTE os clientes que seus vendedores podem ou não vender no crediário? Agora isso se tornou super simples e prático! Veja abaixo o vídeo passo a passo:"
+tags:
+  - tag: crediario
+    primary: true
+  - vendas
+  - clientes
+  - vendedores
 ---
 
 # Como bloquear um cliente da opção de crediário no sistema
@@ -9,3 +15,7 @@ description: "Está cansada de ter que ficar controlando MANUALMENTE os clientes
 {% embed url="<https://youtu.be/gcHRLyK6No0>" %}
 
 ##
+
+---
+
+*🔎 Também procurado como: crediário, carnê, parcela, fiado, venda, vender, PDV, frente de caixa, cliente, cadastro de cliente, vendedor, vendedora, comissão, meta.*

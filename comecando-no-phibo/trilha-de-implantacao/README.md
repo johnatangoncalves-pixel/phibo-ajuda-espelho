@@ -1,5 +1,8 @@
 ---
 description: "Está começando agora? Siga os treinamentos na ordem para deixar a loja pronta para vender."
+tags:
+  - tag: primeiros-passos
+    primary: true
 ---
 
 # Trilha de implantação

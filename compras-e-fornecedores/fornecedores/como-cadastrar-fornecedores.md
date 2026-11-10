@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: compras
+    primary: true
+---
+
 # Como cadastrar fornecedores
 
 ## Para cadastrar um Fornecedor no sistema Phibo, primeiramente vá em COMPRAS > CADASTRAR FORNECEDOR:
@@ -27,3 +33,7 @@ IMPORTANTE: Se o Fornecedor em questão não tem marcas em seus produtos, basta 
 ## Com todas as abas devidamente preenchidas, basta clicar no botão salvar na parte inferior direita:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2F8aggVQp5dASdmIpC1DaH%2Fimage.png?alt=media&amp;token=37956a8e-52b7-4fcc-8d8f-66cc5c2c7773" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: compra, fornecedor, nota de entrada, mercadoria.*

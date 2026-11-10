@@ -1,5 +1,8 @@
 ---
 description: "Cadastre vendedores, defina metas e acompanhe as comissões."
+tags:
+  - tag: vendedores
+    primary: true
 ---
 
 # Vendedores, metas e comissões

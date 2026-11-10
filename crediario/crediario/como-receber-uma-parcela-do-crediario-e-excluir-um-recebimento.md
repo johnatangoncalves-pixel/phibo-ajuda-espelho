@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: crediario
+    primary: true
+  - vendas
+---
+
 # Como receber uma parcela do crediário (e excluir um recebimento)
 
 {% hint style="info" %}
@@ -16,4 +23,4 @@
 
 ---
 
-*🔎 Também procurado como: receber parcela, baixar parcela, cliente pagou o crediário.*
+*🔎 Também procurado como: receber parcela, baixar parcela, cliente pagou o crediário, crediário, carnê, parcela, fiado, venda, vender, PDV, frente de caixa.*

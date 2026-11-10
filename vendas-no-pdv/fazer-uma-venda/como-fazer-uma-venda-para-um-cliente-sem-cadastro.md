@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: vendas
+    primary: true
+  - clientes
+---
+
 # Como fazer uma venda para um cliente sem cadastro
 
 {% hint style="info" %}
@@ -7,3 +14,7 @@
 Segue o vídeo PASSO A PASSO de como fazer uma venda para cliente sem cadastro no sistema Phibo:
 
 {% embed url="<https://www.loom.com/share/4255df57b7b8421da527ff6e8a12d314?sid=982eb8ac-2fc0-4940-b1d2-4137d104ed3f>" %}
+
+---
+
+*🔎 Também procurado como: venda, vender, PDV, frente de caixa, cliente, cadastro de cliente.*

@@ -1,5 +1,8 @@
 ---
 description: "Veja a seguir o tutorial sobre como fazer edições e/ou exclusões de suas peças da nova maneira no sistema:"
+tags:
+  - tag: produtos
+    primary: true
 ---
 
 # Como editar ou excluir produtos
@@ -33,3 +36,7 @@ Exclusão
 Para excluir um produto, basta localizar o cadastro dele na tabela e clicar no ícone da lixeira:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2F7EzYzwqIgC9znYhGiNFS%2Fimage.png?alt=media&amp;token=7b73ebc8-8367-4225-935a-718475f77f6e" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: produto, peça, cadastro de produto, grade, tamanho.*

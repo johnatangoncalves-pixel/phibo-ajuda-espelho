@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: impressora
+    primary: true
+  - erros
+---
+
 # Como ajustar a impressão do cupom na impressora POS
 
 ## 1 - Ao baixar o cupom, clique na opção "Abrir":
@@ -19,3 +26,7 @@
 **5 - Por fim, clique em "Imprimir" e confirme se o cupom saiu corretamente.**\
 \ <br>
 ------
+
+---
+
+*🔎 Também procurado como: impressora, imprimir, impressão, erro, problema, não funciona.*

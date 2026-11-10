@@ -1,3 +1,11 @@
+---
+tags:
+  - tag: impressora
+    primary: true
+  - etiquetas
+  - erros
+---
+
 # Como corrigir erros na impressão de etiquetas
 
 Este tutorial irá guiá-lo através dos passos para diagnosticar e corrigir problemas comuns na impressão de etiquetas. Abordaremos três etapas principais para garantir que suas impressões sejam realizadas corretamente.
@@ -81,4 +89,4 @@ Caso os problemas persistam, entre em contato com o suporte técnico da Phibo pa
 
 ---
 
-*🔎 Também procurado como: etiqueta não imprime, etiqueta torta, etiqueta em branco.*
+*🔎 Também procurado como: etiqueta não imprime, etiqueta torta, etiqueta em branco, impressora, imprimir, impressão, etiqueta, etiqueta de preço, código de barras, erro, problema, não funciona.*

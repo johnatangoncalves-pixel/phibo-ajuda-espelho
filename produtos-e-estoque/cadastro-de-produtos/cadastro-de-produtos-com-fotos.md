@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: produtos
+    primary: true
+---
+
 # Cadastro de produtos com fotos
 
 {% hint style="info" %}
@@ -19,3 +25,7 @@
 {% embed url="<https://www.loom.com/share/240c02af958046ac912f3b5a0aa69689>" %}
 
 ###
+
+---
+
+*🔎 Também procurado como: produto, peça, cadastro de produto, grade, tamanho.*

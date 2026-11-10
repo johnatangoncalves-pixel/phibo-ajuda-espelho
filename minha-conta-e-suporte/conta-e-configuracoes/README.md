@@ -1,5 +1,9 @@
 ---
 description: "Dashboard inicial, logotipo, agenda e acesso à conta."
+tags:
+  - tag: conta
+    primary: true
+  - nota-fiscal
 ---
 
 # Conta e configurações

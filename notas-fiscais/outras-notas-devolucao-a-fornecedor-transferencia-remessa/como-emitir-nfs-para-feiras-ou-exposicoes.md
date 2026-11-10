@@ -1,4 +1,12 @@
-# Como emitir NFs para Feiras ou Exposições
+---
+tags:
+  - tag: nota-fiscal
+    primary: true
+  - troca-devolucao
+  - compras
+---
+
+# Como emitir notas para feiras e exposições
 
 ### Participar de feiras e exposições é uma excelente oportunidade para conquistar novos clientes! E para aproveitar cada chance sem preocupações, é importante ficar de olho nas questões fiscais.
 
@@ -14,3 +22,7 @@
 ### Veja abaixo como inserir informações nos **DADOS ADICIONAIS** dessa NF:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FkDhX1jp4nVcVjUIdFN3f%2Fimage.png?alt=media&amp;token=5ae4e2b0-8c2a-472b-9f7f-f4bc5b588a0d" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: nota fiscal, NF, NFC-e, NF-e, cupom fiscal, troca, devolução, trocar peça, devolver, compra, fornecedor, nota de entrada, mercadoria.*

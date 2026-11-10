@@ -1,3 +1,11 @@
+---
+tags:
+  - tag: compras
+    primary: true
+  - nota-fiscal
+  - estoque
+---
+
 # Como cadastrar uma nota de compra manualmente
 
 Caso você não tenha a nota fiscal da compra da mercadoria, ou só deseje cadastrar manualmente os valores a pagar dessas compras, vá em COMPRAS > NOTA FISCAL > DIGITAR NOTA FISCAL: <br>
@@ -73,3 +81,7 @@ Depois confirme o valor que está sendo pago e a data que o pagamento foi realiz
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2F5pCEcZZwV8Hj8TYAp6ju%2Fimage.png?alt=media&amp;token=78e91469-b5d5-4700-8712-a6d30e579cce" alt=""><figcaption></figcaption></figure>
 
 **Prontinho! Dessa forma você consegue cadastrar as suas compras manualmente e registrar os pagamentos, garantindo assim o controle financeiro da loja 😄💙**
+
+---
+
+*🔎 Também procurado como: compra, fornecedor, nota de entrada, mercadoria, nota fiscal, NF, NFC-e, NF-e, cupom fiscal, estoque, inventário, contagem, saldo de peças.*

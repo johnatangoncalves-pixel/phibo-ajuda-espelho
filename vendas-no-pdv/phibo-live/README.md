@@ -1,5 +1,9 @@
 ---
 description: "Venda ao vivo nas redes sociais com o Phibo Live."
+tags:
+  - tag: vendas
+    primary: true
+  - loja-online
 ---
 
 # Phibo Live

@@ -1,4 +1,12 @@
-# Visão geral da tela de Compras
+---
+tags:
+  - tag: compras
+    primary: true
+  - nota-fiscal
+  - estoque
+---
+
+# Visão geral da tela de compras
 
 ## Assista o vídeo para ver todas as novidades da aba COMPRAS :
 
@@ -114,3 +122,7 @@ Agora, você passa a gerenciar todos esses cadastros em uma única tela.
 
 
 
+
+---
+
+*🔎 Também procurado como: compra, fornecedor, nota de entrada, mercadoria, nota fiscal, NF, NFC-e, NF-e, cupom fiscal, estoque, inventário, contagem, saldo de peças.*

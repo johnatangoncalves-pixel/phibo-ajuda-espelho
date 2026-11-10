@@ -1,5 +1,8 @@
 ---
 description: "Neste vídeo, explicamos um pouco mais sobre a integração Phibo + Mandae"
+tags:
+  - tag: entregas
+    primary: true
 ---
 
 # Integração Mandaê
@@ -9,3 +12,7 @@ description: "Neste vídeo, explicamos um pouco mais sobre a integração Phibo 
 {% endhint %}
 
 {% embed url="<https://www.youtube.com/watch?v=Wi4qqC5YYtM>" %}
+
+---
+
+*🔎 Também procurado como: frete, envio, entrega, etiqueta de envio.*

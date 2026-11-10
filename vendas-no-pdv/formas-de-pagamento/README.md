@@ -1,5 +1,9 @@
 ---
 description: "Maquininhas, Pix, boleto, vale-presente e vendas com mais de uma forma de pagamento."
+tags:
+  - tag: maquininha
+    primary: true
+  - vendas
 ---
 
 # Formas de pagamento

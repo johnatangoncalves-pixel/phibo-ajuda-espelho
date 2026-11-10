@@ -1,5 +1,9 @@
 ---
 description: "Monte a bag, envie para a cliente e finalize a venda só do que ela ficar."
+tags:
+  - tag: bags
+    primary: true
+  - vendas
 ---
 
 # Bags Delivery

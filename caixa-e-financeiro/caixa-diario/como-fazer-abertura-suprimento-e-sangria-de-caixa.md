@@ -1,4 +1,11 @@
-# Como fazer abertura, suprimento e sangria de caixa
+---
+tags:
+  - tag: caixa
+    primary: true
+  - financeiro
+---
+
+# Como abrir o caixa, colocar troco e retirar dinheiro (sangria)
 
 {% hint style="info" %}
 📝 **Passo a passo em texto em breve.** Enquanto isso, acompanhe o tutorial em vídeo abaixo.
@@ -10,4 +17,4 @@
 
 ---
 
-*🔎 Também procurado como: retirar dinheiro do caixa, colocar troco, fundo de troco, abrir caixa.*
+*🔎 Também procurado como: retirar dinheiro do caixa, colocar troco, fundo de troco, abrir caixa, caixa, fechamento, sangria, troco, financeiro, contas, despesas, lucro.*

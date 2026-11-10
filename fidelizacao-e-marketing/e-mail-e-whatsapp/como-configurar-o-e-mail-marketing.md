@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: whatsapp
+    primary: true
+  - nota-fiscal
+---
+
 # Como configurar o E-mail Marketing
 
 Caso queira configurar sua conta para realizar o envio de e-mails com informações para clientes ou enviar as notas fiscais para os contadores automaticamente, acompanhe o vídeo abaixo:
@@ -25,3 +32,7 @@ E abaixo coloque o conteúdo do e-mail. Se quiser acrescentar alguma imagem, pod
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2F7aVxnIwy8FSZj6nTumCW%2Fimage.png?alt=media&amp;token=5a415bdc-0d81-4a26-abed-af8bd011564c" alt=""><figcaption></figcaption></figure>
 
 Com tudo preenchido, é só clicar em "SALVAR". Quando for enviar um e-mail para o cliente, o sistema mandará a mensagem de acordo com os dados configurados nesta tela.
+
+---
+
+*🔎 Também procurado como: WhatsApp, Zap, mensagem, nota fiscal, NF, NFC-e, NF-e, cupom fiscal.*

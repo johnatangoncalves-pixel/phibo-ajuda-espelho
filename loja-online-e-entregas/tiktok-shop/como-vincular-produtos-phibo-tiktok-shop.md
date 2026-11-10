@@ -1,5 +1,9 @@
 ---
 description: "Nesse vídeo, explicaremos como fazer a vinculação dos seus produtos da TikTok Shop."
+tags:
+  - tag: loja-online
+    primary: true
+  - produtos
 ---
 
 # Como vincular produtos Phibo-TikTok Shop
@@ -9,3 +13,7 @@ description: "Nesse vídeo, explicaremos como fazer a vinculação dos seus prod
 {% endhint %}
 
 {% embed url="<https://www.youtube.com/watch?feature=youtu.be&v=gz8haHfBCM4>" %}
+
+---
+
+*🔎 Também procurado como: loja virtual, site, e-commerce, marketplace, produto, peça, cadastro de produto, grade, tamanho.*

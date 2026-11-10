@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: impressora
+    primary: true
+  - erros
+---
+
 # Como instalar o driver da impressora Epson TM-T20
 
 ## 1 - Verifique se a impressora aparece na tela abaixo: "Painel de Controle\Hardware e Sons\Dispositivos e Impressoras"
@@ -15,3 +22,7 @@
 ![](https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2F5MGmhOgRd1tn99RyR90H%2Fe13.png?alt=media\&token=a0b62910-fc9b-447f-9a38-e464ebe88acf)
 
 ## 4 - Pronto, sua impressora estará instalada e disponível para uso.
+
+---
+
+*🔎 Também procurado como: impressora, imprimir, impressão, erro, problema, não funciona.*

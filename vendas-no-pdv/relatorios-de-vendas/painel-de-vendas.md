@@ -1,8 +1,12 @@
 ---
 description: "Entenda como analisar a nova tela do Painel de Vendas"
+tags:
+  - tag: vendas
+    primary: true
+  - relatorios
 ---
 
-# Painel de Vendas
+# Painel de vendas
 
 {% embed url="<https://www.loom.com/share/e0ac9dd7b4014de7ae1b6e7385a5fc90>" %}
 
@@ -45,3 +49,7 @@ Na tabela **FLUXO DE RECEBIMENTO** é possível validar o valor total recebido �
 {% hint style="info" %}
 A coluna **FREQ** represeta o número de vezes que esse cliente comprou com você no período em questão.
 {% endhint %}
+
+---
+
+*🔎 Também procurado como: venda, vender, PDV, frente de caixa, relatório, painel, análise.*

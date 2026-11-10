@@ -1,5 +1,9 @@
 ---
 description: "Automação de mensagens no WhatsApp: listas, campanhas, cobranças e envios automáticos."
+tags:
+  - tag: phibozap
+    primary: true
+  - whatsapp
 ---
 
 # PhiboZap
@@ -35,7 +39,7 @@ Automação de mensagens no WhatsApp: listas, campanhas, cobranças e envios aut
 {% endcontent-ref %}
 
 {% content-ref url="envio-automatico-da-nota-fiscal-e-cupom-de-venda-apos-a-conclusao-da-venda.md" %}
-[Envio automático da Nota Fiscal e Cupom de Venda após a conclusão da venda](envio-automatico-da-nota-fiscal-e-cupom-de-venda-apos-a-conclusao-da-venda.md)
+[Envio automático da nota fiscal e Cupom de Venda após a conclusão da venda](envio-automatico-da-nota-fiscal-e-cupom-de-venda-apos-a-conclusao-da-venda.md)
 {% endcontent-ref %}
 
 {% content-ref url="envio-do-cartao-fidelidade-automaticamente-pelo-phibozap.md" %}

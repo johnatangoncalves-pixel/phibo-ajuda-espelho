@@ -1,8 +1,12 @@
 ---
 description: "Notas de devolução ao fornecedor, transferência entre lojas, remessa para feiras e brindes."
+tags:
+  - tag: nota-fiscal
+    primary: true
+  - troca-devolucao
 ---
 
-# Outras notas (devolução a fornecedor, transferência, remessa)
+# Outras notas (devolução, transferência, brinde)
 
 Notas de devolução ao fornecedor, transferência entre lojas, remessa para feiras e brindes.
 
@@ -15,10 +19,10 @@ Notas de devolução ao fornecedor, transferência entre lojas, remessa para fei
 {% endcontent-ref %}
 
 {% content-ref url="como-emitir-nfs-para-feiras-ou-exposicoes.md" %}
-[Como emitir NFs para Feiras ou Exposições](como-emitir-nfs-para-feiras-ou-exposicoes.md)
+[Como emitir notas para feiras e exposições](como-emitir-nfs-para-feiras-ou-exposicoes.md)
 {% endcontent-ref %}
 
 {% content-ref url="como-emitir-uma-nfe-de-remessa-em-bonificacao-doacao-ou-brinde.md" %}
-[Como emitir uma NFE de remessa em bonificação, doação ou brinde](como-emitir-uma-nfe-de-remessa-em-bonificacao-doacao-ou-brinde.md)
+[Como emitir nota de brinde, doação ou bonificação](como-emitir-uma-nfe-de-remessa-em-bonificacao-doacao-ou-brinde.md)
 {% endcontent-ref %}
 

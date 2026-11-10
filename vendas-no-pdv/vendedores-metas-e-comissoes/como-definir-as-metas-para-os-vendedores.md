@@ -1,5 +1,9 @@
 ---
 description: "Assista o vídeo abaixo e confira o passo a passo completo de como Definir a Meta Mensal da Loja:"
+tags:
+  - tag: vendedores
+    primary: true
+  - nota-fiscal
 ---
 
 # Como definir as metas para os vendedores
@@ -33,3 +37,7 @@ IMPORTANTE: Para que a meta fique devidamente distribuída, a somatória das met
 5- Para excluir ou editar a meta já definida basta clicar nos ícones destacados abaixo:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FaXM9xToLCsKkBnuIqfts%2Fimage.png?alt=media&amp;token=c9a138c7-6ecc-4fb1-ab50-6107982eb5a5" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: vendedor, vendedora, comissão, meta, nota fiscal, NF, NFC-e, NF-e, cupom fiscal.*

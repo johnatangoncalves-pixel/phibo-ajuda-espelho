@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: financeiro
+    primary: true
+  - relatorios
+---
+
 # Aprendendo o que é um bom controle financeiro
 
 {% hint style="info" %}
@@ -11,3 +18,7 @@
 ## Controle Financeiro - Parte 2
 
 {% embed url="<https://www.youtube.com/watch?v=Q_8XXggG-rw>" %}
+
+---
+
+*🔎 Também procurado como: financeiro, contas, despesas, lucro, relatório, painel, análise.*

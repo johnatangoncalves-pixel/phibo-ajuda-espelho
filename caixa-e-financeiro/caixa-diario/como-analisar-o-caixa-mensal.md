@@ -1,4 +1,12 @@
-# Como analisar o Caixa Mensal
+---
+tags:
+  - tag: caixa
+    primary: true
+  - financeiro
+  - relatorios
+---
+
+# Como analisar o caixa do mês
 
 {% embed url="<https://www.loom.com/share/d11d16c1295d4b3d9599770e50c48514?sid=8a3cd197-4037-4af7-875d-2e7ba24b979a>" %}
 
@@ -26,3 +34,7 @@ Em ambas as telas, cada coluna tem o mesmo significado. <br>
 * **Cartão de Débito** (R$0,00): Vendas realizadas somente no cartão de débito.
 
 A tela do Caixa Mensal nada mais é do que uma apresentação de todos esses campos em todos os dias do mês e um somatória com o total desses valores.
+
+---
+
+*🔎 Também procurado como: caixa, fechamento, sangria, troco, financeiro, contas, despesas, lucro, relatório, painel, análise.*

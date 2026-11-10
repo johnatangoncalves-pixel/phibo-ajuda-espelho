@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: vendas
+    primary: true
+---
+
 # Como excluir uma venda
 
 #### Para excluir uma venda é só seguir os passos a seguir.
@@ -32,4 +38,4 @@ Modelo NF-e modelo 55: 24 horas
 
 ---
 
-*🔎 Também procurado como: cancelar venda, apagar venda, desfazer venda, venda lançada errada.*
+*🔎 Também procurado como: cancelar venda, apagar venda, desfazer venda, venda lançada errada, venda, vender, PDV, frente de caixa.*

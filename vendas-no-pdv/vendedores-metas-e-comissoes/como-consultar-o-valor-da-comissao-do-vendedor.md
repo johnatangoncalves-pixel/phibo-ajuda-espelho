@@ -1,5 +1,9 @@
 ---
 description: "O Sistema Phibo calcula o valor da comissão de cada vendedor de acordo com o total de vendas registrado para ele. Veja abaixo como consultar esse valor:"
+tags:
+  - tag: vendedores
+    primary: true
+  - vendas
 ---
 
 # Como consultar o valor da comissão do vendedor
@@ -31,3 +35,7 @@ Para que fique bem certinho, não esqueça de cadastrar o valor pago às vendedo
 {% endhint %}
 
 Qualquer dúvida, acione o  nosso suporte :smile:
+
+---
+
+*🔎 Também procurado como: vendedor, vendedora, comissão, meta, venda, vender, PDV, frente de caixa.*

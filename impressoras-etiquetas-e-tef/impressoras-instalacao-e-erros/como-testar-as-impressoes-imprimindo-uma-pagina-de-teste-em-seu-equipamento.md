@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: impressora
+    primary: true
+  - erros
+---
+
 # Como testar as impressões imprimindo uma pagina de teste em seu equipamento
 
 1. Abra o PAINEL DE CONTROLE.
@@ -29,3 +36,7 @@ Selecione a opção de Exibir por: “Categoria” e depois clique em HARDWARE E
 5. Clique em IMPRIMIR PÁGINA DE TESTE.
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FWHQtDG8cScrQ6qcr3yTh%2Fimage.png?alt=media&amp;token=d5080620-555f-4aea-b52b-6764119eccae" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: impressora, imprimir, impressão, erro, problema, não funciona.*

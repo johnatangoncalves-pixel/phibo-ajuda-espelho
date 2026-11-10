@@ -1,5 +1,9 @@
 ---
 description: "Para aprender como cadastrar os seus primeiros produtos manualmente, assista o vídeo abaixo:"
+tags:
+  - tag: produtos
+    primary: true
+  - primeiros-passos
 ---
 
 # Como cadastrar os produtos manualmente
@@ -13,3 +17,7 @@ IMPORTANTE: Antes de cadastrar os produtos no sistema, é necessário realizar o
 {% endhint %}
 
 {% embed url="<https://www.loom.com/share/c05c8283ddba4b3db2f367faf8201948>" %}
+
+---
+
+*🔎 Também procurado como: produto, peça, cadastro de produto, grade, tamanho, começar, implantação, treinamento.*

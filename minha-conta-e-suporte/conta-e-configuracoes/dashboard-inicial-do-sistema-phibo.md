@@ -1,5 +1,9 @@
 ---
 description: "Assista o vídeo abaixo com o passo a passo 👇"
+tags:
+  - tag: conta
+    primary: true
+  - nota-fiscal
 ---
 
 # Dashboard inicial do sistema Phibo
@@ -33,3 +37,7 @@ Nos 3 blocos inferiores, você verá respectivamente as TOP CATEGORIAS VENDIDAS,
 Ao lado esquerdo inferior você pode visualizar a META DE VENDAS da loja e abaixo a META DE VENDAS POR VENDEDORES(Caso não tenha meta por vendedor, ela não aparecerá):
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FZEZEND9a86tX7tNQNtUf%2F95cfca2e-389e-4745-8b2d-8d5b34aefd46.jpeg?alt=media&amp;token=b3457d48-a6e9-4868-b725-752dac6286c5" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: conta, acesso, usuário, senha, nota fiscal, NF, NFC-e, NF-e, cupom fiscal.*

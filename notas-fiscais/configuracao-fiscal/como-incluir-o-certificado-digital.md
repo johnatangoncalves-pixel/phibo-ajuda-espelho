@@ -1,4 +1,10 @@
-# Como incluir o certificado digital
+---
+tags:
+  - tag: nota-fiscal
+    primary: true
+---
+
+# Como cadastrar o certificado digital
 
 #### Para ativar a parte fiscal do sistema será necessário incluir o certificado digital e configurar os parâmetros fiscais de acordo com as orientações da sua contabilidade. Seguindo os passos abaixo, será possível realizar a inclusão do certificado digital.
 
@@ -16,4 +22,4 @@
 
 ---
 
-*🔎 Também procurado como: certificado A1, certificado vencido, trocar certificado.*
+*🔎 Também procurado como: certificado A1, certificado vencido, trocar certificado, nota fiscal, NF, NFC-e, NF-e, cupom fiscal.*

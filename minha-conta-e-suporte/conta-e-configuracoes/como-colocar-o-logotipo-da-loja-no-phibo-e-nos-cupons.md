@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: conta
+    primary: true
+  - nota-fiscal
+---
+
 # Como colocar o logotipo da loja no Phibo e nos cupons
 
 Veja abaixo o vídeo com o passo a passo completo da inserção da logo no sistema Phibo:
@@ -29,3 +36,7 @@ Para sair da conta, basta clicar no ícone da seta vermelha e depois acessar o s
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2F7Zab85Pdj7hwxMygumQT%2Fimage.png?alt=media&amp;token=e0af5cdf-573d-46f9-a637-a22754679a29" alt=""><figcaption></figcaption></figure>
 
 **Pronto!! Feito isso sua logotipo ficará no sistema e sairá em todos os cupons emitidos pela sua empresa! 😉🚀**
+
+---
+
+*🔎 Também procurado como: conta, acesso, usuário, senha, nota fiscal, NF, NFC-e, NF-e, cupom fiscal.*

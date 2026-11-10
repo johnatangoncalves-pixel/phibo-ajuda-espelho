@@ -1,5 +1,8 @@
 ---
 description: "Dê desconto em peças específicas, crie cupons e monte promoções."
+tags:
+  - tag: descontos
+    primary: true
 ---
 
 # Descontos, cupons e promoções

@@ -1,5 +1,8 @@
 ---
 description: "Cadastre usuários e limite o que cada um pode acessar."
+tags:
+  - tag: conta
+    primary: true
 ---
 
 # Usuários e permissões

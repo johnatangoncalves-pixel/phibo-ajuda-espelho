@@ -1,4 +1,10 @@
-# Como baixar o XML das notas emitidas no mês anterior
+---
+tags:
+  - tag: nota-fiscal
+    primary: true
+---
+
+# Como baixar os arquivos das notas do mês anterior (XML)
 
 **Para baixar o arquivo XML das notas emitidas no mês anterior, assista o vídeo completo ou veja abaixo o passo a passo:**
 
@@ -23,3 +29,7 @@
 {% embed url="<https://prnt.sc/veNP9Ft4jdvb>" %}
 
 **5- Por fim, basta buscar as pastas baixadas e encaminhar para seu contador.**
+
+---
+
+*🔎 Também procurado como: nota fiscal, NF, NFC-e, NF-e, cupom fiscal.*

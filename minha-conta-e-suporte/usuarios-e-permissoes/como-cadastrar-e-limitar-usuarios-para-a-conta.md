@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: conta
+    primary: true
+---
+
 # Como cadastrar e limitar usuários para a conta
 
 Se você tem colaboradores com funções diferentes na loja e quer segmentar o acesso ao sistema de cada um deles, continue a leitura e descubra como pode ser feito! <br>
@@ -72,4 +78,4 @@ Precisa ter pelo menos  uma letra maiúscula.
 
 ---
 
-*🔎 Também procurado como: criar login para funcionário, permissões, acesso do vendedor.*
+*🔎 Também procurado como: criar login para funcionário, permissões, acesso do vendedor, conta, acesso, usuário, senha.*

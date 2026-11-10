@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: vendas
+    primary: true
+  - produtos
+---
+
 # O que é o Produto Padrão e para que serve
 
 Durante o uso do sistema, pode ser que em alguns momentos você precise acrescentar valores nas vendas, mas sem necessariamente ter de colocar algum produto de seu estoque, para não ter saída. Para isso existe o Produto Padrão na plataforma.
@@ -69,3 +76,7 @@ Caso queira saber mais sobre lançamento de crediários retroativos, veja:
 {% hint style="danger" %}
 **IMPORTANTE:** Vale salientar que o Produto Padrão é um produto **sem referência fiscal**, portanto, recomenda-se utilizá-lo para registro de vendas com **cupons comuns**, jamais sendo utilizados nas vendas com Notas ou Cupons Fiscais!!
 {% endhint %}
+
+---
+
+*🔎 Também procurado como: venda, vender, PDV, frente de caixa, produto, peça, cadastro de produto, grade, tamanho.*

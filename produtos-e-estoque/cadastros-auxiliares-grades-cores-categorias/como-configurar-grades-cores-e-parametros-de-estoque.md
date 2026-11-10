@@ -1,5 +1,10 @@
 ---
 description: "Veja neste artigo tudo que é necessário pra começar a cadastrar corretamente seu estoque no sistema Phibo!"
+tags:
+  - tag: produtos
+    primary: true
+  - nota-fiscal
+  - estoque
 ---
 
 # Como configurar grades, cores e parâmetros de estoque
@@ -120,3 +125,7 @@ Se quiser **excluí-las**, só clicar na **lixeirinha**:
 Pronto! Com isso você define todos os seus Parâmetros de Estoque e já pode começar a cadastrar seus produtos! 😁🎉
 
 **É importante ressaltar que essa parte não precisa ser feita várias vezes, você vai cadastrar somente uma vez para que essas informações apareçam no cadastro das mercadorias.**
+
+---
+
+*🔎 Também procurado como: produto, peça, cadastro de produto, grade, tamanho, nota fiscal, NF, NFC-e, NF-e, cupom fiscal, estoque, inventário, contagem, saldo de peças.*

@@ -1,5 +1,9 @@
 ---
 description: "Para que se tenha uma gestão financeira assertiva, é necessário lançar suas contas a pagar corretamente no sistema Phibo. Entenda nesse artigo como deve ser feito."
+tags:
+  - tag: financeiro
+    primary: true
+  - compras
 ---
 
 # Diferença entre Despesas e Compras
@@ -47,3 +51,7 @@ Para mais detalhes, veja nos artigos a seguir como cadastrar e editar as Compras
 
 **OBSERVAÇÃO:** Se você importou o XML, as duplicatas a pagar da nota de compra já são cadastradas automaticamente no sistema juntamente com as mercadorias.
 {% endhint %}
+
+---
+
+*🔎 Também procurado como: financeiro, contas, despesas, lucro, compra, fornecedor, nota de entrada, mercadoria.*

@@ -1,5 +1,8 @@
 ---
 description: "Veja abaixo o passo a passo completo para unir produtos que estão separados e deixa-los com a mesma referência:"
+tags:
+  - tag: produtos
+    primary: true
 ---
 
 # Como agrupar produtos em uma variação
@@ -21,3 +24,7 @@ description: "Veja abaixo o passo a passo completo para unir produtos que estão
 4- Defina qual será o código referência e a descrição do produto e salve.
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FslmmJC6ZJJ3jtXe2hJus%2Fimage.png?alt=media&amp;token=b14904fc-4bf7-43c8-8aa1-0f6a7c046d19" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: produto, peça, cadastro de produto, grade, tamanho.*

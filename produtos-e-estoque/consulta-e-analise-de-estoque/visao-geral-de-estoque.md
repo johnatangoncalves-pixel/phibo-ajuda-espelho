@@ -1,5 +1,10 @@
 ---
 description: "Após cadastrar os produtos, aprenda a analisar seu estoque no sistema Phibo."
+tags:
+  - tag: estoque
+    primary: true
+  - produtos
+  - relatorios
 ---
 
 # Visão geral de estoque
@@ -17,3 +22,7 @@ Nesta tela você verá, de forma gráfica, tudo o que você tem em seu estoque. 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2F1mDkXGxHZ5ZV1W91dUNh%2Fimage.png?alt=media&amp;token=1bd78003-e101-4187-bd08-e47cb7c2bdeb" alt=""><figcaption></figcaption></figure>
 
 Em cada aba você consegue validar a quantidade de produtos, valor somado de custo dessas peças, os valores de venda somados e o percentual que aquele determinado produto ocupa em seu estoque hoje.
+
+---
+
+*🔎 Também procurado como: estoque, inventário, contagem, saldo de peças, produto, peça, cadastro de produto, grade, tamanho, relatório, painel, análise.*

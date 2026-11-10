@@ -12,17 +12,17 @@ Escolha o que está acontecendo na sua loja e vá direto para a solução.
 |---|---|
 | A nota fiscal foi rejeitada | [O que fazer quando a nota é rejeitada](../notas-fiscais/erros-e-rejeicoes-da-sefaz/o-que-fazer-quando-a-nota-e-rejeitada.md) |
 | Preciso cancelar uma nota fiscal | [Como cancelar uma nota fiscal](../notas-fiscais/corrigir-cancelar-e-inutilizar/como-cancelar-uma-nota-fiscal.md) |
-| Errei um dado na nota (endereço, CPF, produto…) | [Como emitir carta de correção de NF-e (venda ou devolução)](../notas-fiscais/corrigir-cancelar-e-inutilizar/como-emitir-carta-de-correcao-de-nf-e-venda-ou-devolucao.md) |
-| Pulou a numeração / a nota não foi emitida | [Como inutilizar uma Nota Fiscal](../notas-fiscais/corrigir-cancelar-e-inutilizar/como-inutilizar-uma-nota-fiscal.md) |
-| O certificado digital não é aceito (arquivo .p12) | [Como converter o certificado digital de P12 para PFX](../notas-fiscais/configuracao-fiscal/como-converter-o-certificado-digital-de-p12-para-pfx.md) |
-| O contador pediu os XMLs do mês | [Como reenviar o XML das notas para o e-mail do contador](../notas-fiscais/xml-e-contador/como-reenviar-o-xml-das-notas-para-o-e-mail-do-contador.md) |
+| Errei um dado na nota (endereço, CPF, produto…) | [Como corrigir dados de uma nota já emitida (carta de correção)](../notas-fiscais/corrigir-cancelar-e-inutilizar/como-emitir-carta-de-correcao-de-nf-e-venda-ou-devolucao.md) |
+| Pulou a numeração / a nota não foi emitida | [Como inutilizar uma nota que não foi emitida](../notas-fiscais/corrigir-cancelar-e-inutilizar/como-inutilizar-uma-nota-fiscal.md) |
+| O certificado digital não é aceito (arquivo .p12) | [Como converter o certificado digital para o formato aceito (P12 → PFX)](../notas-fiscais/configuracao-fiscal/como-converter-o-certificado-digital-de-p12-para-pfx.md) |
+| O contador pediu os XMLs do mês | [Como enviar os arquivos das notas (XML) para o contador](../notas-fiscais/xml-e-contador/como-reenviar-o-xml-das-notas-para-o-e-mail-do-contador.md) |
 
 ## 💸 Vendas e caixa
 
 | O que está acontecendo | Como resolver |
 |---|---|
 | Lancei uma venda errada | [Como excluir uma venda](../vendas-no-pdv/fazer-uma-venda/como-excluir-uma-venda.md) |
-| Preciso estornar uma venda feita no cartão (TEF) | [Como fazer o estorno de uma venda no TEF](../impressoras-etiquetas-e-tef/tef/como-fazer-o-estorno-de-uma-venda-no-tef.md) |
+| Preciso estornar uma venda feita no cartão (TEF) | [Como cancelar uma venda paga na maquininha integrada (TEF)](../impressoras-etiquetas-e-tef/tef/como-fazer-o-estorno-de-uma-venda-no-tef.md) |
 | O caixa não bate no fechamento | [Como fechar o caixa](../caixa-e-financeiro/caixa-diario/como-fechar-o-caixa.md) |
 | A cliente quer trocar ou devolver uma peça | [🔄 Qual troca ou devolução usar](qual-troca-ou-devolucao-usar.md) |
 | Recebi uma parcela do crediário errada | [Como desfazer um recebimento no crediário](../crediario/crediario/como-desfazer-um-recebimento-no-crediario.md) |
@@ -33,8 +33,8 @@ Escolha o que está acontecendo na sua loja e vá direto para a solução.
 |---|---|
 | Excluí um produto sem querer | [Como reativar um produto excluído](../produtos-e-estoque/edicao-e-exclusao-de-produtos/como-reativar-um-produto-excluido.md) |
 | Quero saber o que aconteceu com um produto | [Como visualizar o histórico de um produto](../produtos-e-estoque/consulta-e-analise-de-estoque/como-visualizar-o-historico-de-um-produto.md) |
-| Os produtos da nota XML vieram juntos | [Como desvincular produtos que vem juntos na Nota Fiscal XML](../compras-e-fornecedores/entrada-de-notas-de-compra/como-desvincular-produtos-que-vem-juntos-na-nota-fiscal-xml.md) |
-| O código de barras do fornecedor atrapalha | [Como apagar os códigos EAN do fornecedor numa nota XML](../compras-e-fornecedores/entrada-de-notas-de-compra/como-apagar-os-codigos-ean-do-fornecedor-numa-nota-xml.md) |
+| Os produtos da nota XML vieram juntos | [Como separar produtos que vieram juntos na nota de compra](../compras-e-fornecedores/entrada-de-notas-de-compra/como-desvincular-produtos-que-vem-juntos-na-nota-fiscal-xml.md) |
+| O código de barras do fornecedor atrapalha | [Como apagar os códigos de barras do fornecedor na nota de compra](../compras-e-fornecedores/entrada-de-notas-de-compra/como-apagar-os-codigos-ean-do-fornecedor-numa-nota-xml.md) |
 
 ## 🖨️ Impressoras e etiquetas
 

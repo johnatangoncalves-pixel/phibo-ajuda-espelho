@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: produtos
+    primary: true
+---
+
 # Como cadastrar coleções
 
 ## Para cadastrar as Coleções no sistema Phibo, primeiramente vá em COMPRAS > CADASTRAR COLEÇÃO:
@@ -11,3 +17,7 @@
 ## Se quiser editar ou excluir alguma coleção de sua tabela, clique no ícone de folha com o lápis para editar e na lixeira para excluir: <br>
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FUnAPUpGKSHmA4W9LVH5X%2Fimage.png?alt=media&amp;token=6c776fbf-0d16-4c99-8d44-156eebb95efe" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: produto, peça, cadastro de produto, grade, tamanho.*

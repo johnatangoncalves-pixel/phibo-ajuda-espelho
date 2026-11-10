@@ -1,5 +1,8 @@
 ---
 description: "Veja o passo a passo da integração com os Correios abaixo:"
+tags:
+  - tag: entregas
+    primary: true
 ---
 
 # Integração com os Correios
@@ -61,3 +64,7 @@ E, caso queira imprimir em massa a DANFE simplificada e a etiqueta do Correios, 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfFJ7R1fRF1Z1yghCOCeDaH079hfXI2A75tvEy82grP0PR7VFmLucO8VvamgLAN7KD3Q9Z8-NnoyTsZYi-IDpGMk__Gg1kd3nbUVvcjMZSZf7ZslKE5lUSEqqBRnDXNUpHDjoiWKQ?key=8Zm3bv4ihKRBFzk9_tLEsA" alt=""><figcaption></figcaption></figure>
 
 <br>
+
+---
+
+*🔎 Também procurado como: frete, envio, entrega, etiqueta de envio.*

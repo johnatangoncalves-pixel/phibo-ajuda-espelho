@@ -1,5 +1,10 @@
 ---
 description: "Emissão de NF-e modelo 55 com finalidade de devolver mercadorias para o fornecedor."
+tags:
+  - tag: nota-fiscal
+    primary: true
+  - troca-devolucao
+  - compras
 ---
 
 # Como emitir NF-e de devolução ao fornecedor, troca ou remessa para conserto
@@ -65,3 +70,7 @@ Para emitir uma nota de natureza ***devolução de mercadoria,*** é imprescind�
 {% hint style="info" %}
 Caso a nota fiscal fique pendente, uma seta cinza aparecerá no lugar onde deveria estar o ícone para salvar em PDF. Mas não se preocupe, basta chamar o suporte que te ajudaremos a reprocessá-la.
 {% endhint %}
+
+---
+
+*🔎 Também procurado como: nota fiscal, NF, NFC-e, NF-e, cupom fiscal, troca, devolução, trocar peça, devolver, compra, fornecedor, nota de entrada, mercadoria.*

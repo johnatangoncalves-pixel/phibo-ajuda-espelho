@@ -1,5 +1,9 @@
 ---
 description: "Venda no crediário, receba parcelas, aplique juros e descontos e acompanhe quem está em atraso."
+tags:
+  - tag: crediario
+    primary: true
+  - vendas
 ---
 
 # Crediário

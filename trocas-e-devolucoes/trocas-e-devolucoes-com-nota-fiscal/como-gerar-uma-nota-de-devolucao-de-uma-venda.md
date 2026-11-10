@@ -1,3 +1,11 @@
+---
+tags:
+  - tag: troca-devolucao
+    primary: true
+  - nota-fiscal
+  - vendas
+---
+
 # Como gerar uma Nota de Devolução de uma venda
 
 ## 1 - Para gerar uma nota de devolução, referente a uma venda qual você emitiu nota, basta ir na seguinte tela VENDAS > DEVOLUÇÃO VENDA :
@@ -46,3 +54,7 @@ Se a nota devolvida for uma **DANFE NF-e** (no formato A4) , selecione em MODELO
 ## 6 - Defina a forma de frete, preencha todos os campos necessários e clique em GERAR E ENVIAR NFE.  Para visualizar a nota emitida basta acessar LISTAR NFES EMITIDAS.
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2F5VBdYt6pViVVRefMpZAr%2Fimage.png?alt=media&amp;token=befc9c7a-aa68-4ff2-9af4-6a3a2374dee0" alt=""><figcaption></figcaption></figure>
+
+---
+
+*🔎 Também procurado como: troca, devolução, trocar peça, devolver, nota fiscal, NF, NFC-e, NF-e, cupom fiscal, venda, vender, PDV, frente de caixa.*

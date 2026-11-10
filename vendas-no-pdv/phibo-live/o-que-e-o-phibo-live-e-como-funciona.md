@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: vendas
+    primary: true
+  - loja-online
+---
+
 # O que é o Phibo Live e como funciona
 
 {% hint style="info" %}
@@ -5,3 +12,7 @@
 {% endhint %}
 
 {% embed url="<https://youtu.be/2FXnCvY4ZhM>" %}
+
+---
+
+*🔎 Também procurado como: venda, vender, PDV, frente de caixa, loja virtual, site, e-commerce, marketplace.*

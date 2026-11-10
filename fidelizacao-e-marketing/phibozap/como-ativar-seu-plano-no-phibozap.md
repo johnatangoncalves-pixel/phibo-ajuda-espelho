@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: phibozap
+    primary: true
+  - whatsapp
+---
+
 # Como ativar seu plano no PhiboZap
 
 {% hint style="info" %}
@@ -13,3 +20,7 @@ Após habilitar seu plano, integre o seu número de WhatsApp para envio acessand
 {% content-ref url="como-ativar-o-numero-no-phibozap.md" %}
 [Como ativar o número no PhiboZap](como-ativar-o-numero-no-phibozap.md)
 {% endcontent-ref %}
+
+---
+
+*🔎 Também procurado como: PhiboZap, mensagem automática, disparo em massa, WhatsApp, Zap, mensagem.*

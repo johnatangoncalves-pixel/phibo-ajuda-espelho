@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: vendas
+    primary: true
+  - clientes
+---
+
 # Como enviar o comprovante de venda para o cliente
 
 {% hint style="info" %}
@@ -11,3 +18,7 @@
 ### Veja também como automatizar o envio do cupom de venda e da nota fiscal utilizando o PhiboZap:
 
 {% embed url="<https://www.loom.com/share/a03c3e0ea9a94d8291d96d52d7124c74?sid=decb009c-94a5-4030-a5a8-68dd99298db5>" %}
+
+---
+
+*🔎 Também procurado como: venda, vender, PDV, frente de caixa, cliente, cadastro de cliente.*

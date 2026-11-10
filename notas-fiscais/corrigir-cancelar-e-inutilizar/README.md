@@ -1,17 +1,21 @@
 ---
 description: "Errou na nota? Veja quando usar carta de correção, cancelamento ou inutilização."
+tags:
+  - tag: nota-fiscal
+    primary: true
+  - erros
 ---
 
-# Corrigir, cancelar e inutilizar
+# Corrigir ou cancelar uma nota
 
 Errou na nota? Veja quando usar carta de correção, cancelamento ou inutilização.
 
 {% content-ref url="como-inutilizar-uma-nota-fiscal.md" %}
-[Como inutilizar uma Nota Fiscal](como-inutilizar-uma-nota-fiscal.md)
+[Como inutilizar uma nota que não foi emitida](como-inutilizar-uma-nota-fiscal.md)
 {% endcontent-ref %}
 
 {% content-ref url="como-emitir-carta-de-correcao-de-nf-e-venda-ou-devolucao.md" %}
-[Como emitir carta de correção de NF-e (venda ou devolução)](como-emitir-carta-de-correcao-de-nf-e-venda-ou-devolucao.md)
+[Como corrigir dados de uma nota já emitida (carta de correção)](como-emitir-carta-de-correcao-de-nf-e-venda-ou-devolucao.md)
 {% endcontent-ref %}
 
 {% content-ref url="como-cancelar-uma-nota-fiscal.md" %}

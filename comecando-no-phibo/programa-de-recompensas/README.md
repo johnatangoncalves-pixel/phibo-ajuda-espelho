@@ -1,5 +1,9 @@
 ---
 description: "O passo a passo do Programa de Recompensas, etapa por etapa."
+tags:
+  - tag: primeiros-passos
+    primary: true
+  - fidelizacao
 ---
 
 # Programa de Recompensas

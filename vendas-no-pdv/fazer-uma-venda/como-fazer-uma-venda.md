@@ -1,5 +1,8 @@
 ---
 description: "Assista o vídeo abaixo:"
+tags:
+  - tag: vendas
+    primary: true
 ---
 
 # Como fazer uma venda
@@ -77,3 +80,7 @@ Com os produtos devidamente selecionados na venda, vá no botão verde "EFETUAR 
 ## Vídeo
 
 {% embed url="https://www.loom.com/share/034b43aeb8fe44419ed625523c619828" %}
+
+---
+
+*🔎 Também procurado como: venda, vender, PDV, frente de caixa.*

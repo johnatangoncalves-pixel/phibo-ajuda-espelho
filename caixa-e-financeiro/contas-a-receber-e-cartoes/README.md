@@ -1,5 +1,9 @@
 ---
 description: "Contas a receber, taxas das maquininhas e antecipação de cartões."
+tags:
+  - tag: maquininha
+    primary: true
+  - financeiro
 ---
 
 # Contas a receber e cartões

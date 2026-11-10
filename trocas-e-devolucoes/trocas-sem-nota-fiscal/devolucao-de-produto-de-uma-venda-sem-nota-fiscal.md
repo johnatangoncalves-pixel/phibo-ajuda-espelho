@@ -1,3 +1,12 @@
+---
+tags:
+  - tag: troca-devolucao
+    primary: true
+  - vendas
+  - nota-fiscal
+  - produtos
+---
+
 # Devolução de produto de uma venda sem nota fiscal
 
 {% hint style="info" %}
@@ -65,3 +74,7 @@ Feito isso, basta criar um cupom de desconto para registrar o crédito do client
 Caso o cliente tenha comprado no crediário, nenhuma das opções acima te atenderá, pois elas não ajustarão o valor das parcelas devidas pelo cliente.
 
 Para essas situações, o ideal é excluir a venda ( em VENDAS > RELAÇÃO DE VENDAS > DIA DA VENDA e clicar na lixeira) para que as parcelas em aberto sejam excluidas e lançar a venda novamente em VENDAS > PDV REGISTRAR VENDA incluindo apenas as peças que a cliente ficou.
+
+---
+
+*🔎 Também procurado como: troca, devolução, trocar peça, devolver, venda, vender, PDV, frente de caixa, nota fiscal, NF, NFC-e, NF-e, cupom fiscal, produto, peça, cadastro de produto.*

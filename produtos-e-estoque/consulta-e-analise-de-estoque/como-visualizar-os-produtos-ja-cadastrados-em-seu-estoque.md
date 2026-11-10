@@ -1,3 +1,10 @@
+---
+tags:
+  - tag: estoque
+    primary: true
+  - produtos
+---
+
 # Como visualizar os produtos já cadastrados em seu estoque
 
 {% hint style="info" %}
@@ -19,3 +26,7 @@
 {% hint style="info" %}
 Os produtos ficam separados pelos Fornecedores e em ordem alfabética para facilitar a localização.
 {% endhint %}
+
+---
+
+*🔎 Também procurado como: estoque, inventário, contagem, saldo de peças, produto, peça, cadastro de produto, grade, tamanho.*
