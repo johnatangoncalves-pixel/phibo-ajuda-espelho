@@ -1,5 +1,4 @@
 ---
-description: "Assista o vídeo para ver detalhadamente como utilizar o TEF no sistema:"
 tags:
   - tag: maquininha
     primary: true

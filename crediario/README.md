@@ -8,10 +8,8 @@ description: "Vendas no crediário, recebimentos, juros e cobrança"
 
 ## O que você quer fazer?
 
-### [Crediário](crediario/README.md)
-
-* [Visão geral do crediário (vídeo completo)](crediario/visao-geral-do-crediario-video-completo.md)
-* [Como fazer a Gestão do crediário](crediario/como-fazer-a-gestao-do-crediario.md)
+* [Visão geral do crediário (vídeo)](crediario/visao-geral-do-crediario-video-completo.md)
+* [Como fazer a gestão do crediário](crediario/como-fazer-a-gestao-do-crediario.md)
 * [Como registrar uma venda no crediário](crediario/como-registrar-uma-venda-no-crediario.md)
 * [Como receber uma parcela do crediário (e excluir um recebimento)](crediario/como-receber-uma-parcela-do-crediario-e-excluir-um-recebimento.md)
 * [Como lançar um crediário com vencimento semanal ou quinzenal](crediario/como-lancar-um-crediario-com-vencimento-semanal-ou-quinzenal.md)

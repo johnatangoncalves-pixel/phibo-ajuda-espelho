@@ -11,7 +11,7 @@ tags:
 📝 **Passo a passo em texto em breve.** Enquanto isso, acompanhe o tutorial em vídeo abaixo.
 {% endhint %}
 
-## Segue o vídeo PASSO A PASSO fechar o caixa no sistema Phibo:
+Segue o vídeo PASSO A PASSO fechar o caixa no sistema Phibo:
 
 {% embed url="<https://www.loom.com/share/560e32132145496283bae300b6c0396b>" %}
 

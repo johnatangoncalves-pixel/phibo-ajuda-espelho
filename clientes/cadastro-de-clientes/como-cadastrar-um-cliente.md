@@ -6,8 +6,8 @@ tags:
 
 # Como cadastrar um cliente
 
-{% hint style="success" %}
-**Artigo unificado:** substitui “Cadastrando seu primeiro cliente” (https://ajuda.phibo.site/primeiros-passos/primeiros-passos-treinamento-2/cadastrando-seu-primeiro-cliente).
+{% hint style="warning" %}
+🔧 **Nota interna – remover antes de publicar. Artigo unificado:** substitui “Cadastrando seu primeiro cliente” (https://ajuda.phibo.site/primeiros-passos/primeiros-passos-treinamento-2/cadastrando-seu-primeiro-cliente).
 {% endhint %}
 
 {% embed url="<https://www.loom.com/share/1564ab6e5992481797b5525891bfe80a>" %}
@@ -16,7 +16,7 @@ tags:
 **IMPORTANTE:** É crucial que sejam preenchidos corretamente todos os campos em <mark style="color:red;">vermelho</mark> para melhor uso das outras funcionalidades do sistema, de envio de mensagens de aniversário, pós venda e reativação...
 {% endhint %}
 
-Para cadastrar os cleintes, vá até a aba de CLIENTES > CADASTRAR CLIENTES:
+Para cadastrar os cleintes, vá até a aba de **CLIENTES > CADASTRAR CLIENTES**:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2Fp8fnjHsMuVbFcnbGEOJO%2Fimage.png?alt=media&amp;token=66b6f44b-fb58-47bd-a327-25df0a58f99b" alt=""><figcaption></figcaption></figure>
 
@@ -35,7 +35,7 @@ Em "Como nos Conheceu" você deve selecionar a opção de como o cliente entrou 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FfBm5EvulJaJeI2MYNTH3%2Fimage.png?alt=media&amp;token=5ec410a8-68a1-4179-a116-884ba71ec06c" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Se você quiser incluir outras opções, é só ir em CLIENTE > COMO NOS CONHECEU e consegue inclui-las na tabela.
+Se você quiser incluir outras opções, é só ir em **CLIENTE > COMO NOS CONHECEU** e consegue inclui-las na tabela.
 {% endhint %}
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2F9kJqUK37BrNBe1ptkt6i%2Fimage.png?alt=media&amp;token=08887c4b-52c2-4e72-8bf7-0c047cc16d92" alt=""><figcaption></figcaption></figure>

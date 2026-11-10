@@ -8,11 +8,11 @@ tags:
 
 {% embed url="<https://www.loom.com/share/2b12e69ae4c5482499a9f0fa0507d71c>" %}
 
-1. Acesse COMPRAS > GESTAO DE ESTOQUE > CADASTRAR PRODUTO
+1. Acesse **COMPRAS > GESTAO DE ESTOQUE > CADASTRAR PRODUTO**
 
-2. Nessa tela clique em NOVO PRODUTO e defina os dados principais da peça (descrição, ncm , categoria, fornecedor e marca)
+2. Nessa tela clique em NOVO PRODUTO e defina os dados principais da peça (descrição, ncm, categoria, fornecedor e marca)
 
-3. Ao final da tela, clique na opção ADICIONAR VARIAÇÕES\ <br>
+3. Ao final da tela, clique na opção ADICIONAR VARIAÇÕES\ 
 
    <img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FmitTgc7atBhSUD875Ppk%2Funknown.png?alt=media&amp;token=5ebbd89a-cecf-4e2b-baf7-4f569263844f" alt="" height="240" width="602">
 

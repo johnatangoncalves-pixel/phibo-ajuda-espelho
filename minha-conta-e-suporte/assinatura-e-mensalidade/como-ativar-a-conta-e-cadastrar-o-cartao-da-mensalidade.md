@@ -7,7 +7,7 @@ tags:
 
 # Como ativar a conta e cadastrar o cartão da mensalidade
 
-#### Siga os passos abaixo para garantir que sua conta esteja configurada corretamente.
+Siga os passos abaixo para garantir que sua conta esteja configurada corretamente.
 
 {% embed url="<https://www.loom.com/share/56fecc5b17ab49a3a29f247d36258c72>" %}
 
@@ -33,13 +33,13 @@ Após preencher todos os campos, clique em **"Pagar agora"**.
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FnvUeDUGjwtUeD4eb41tg%2Fimage.png?alt=media&amp;token=67caee0b-ac6d-4774-8d2a-24ab0698bb68" alt=""><figcaption></figcaption></figure>
 
-#### Passo 2: Confirmação do Pagamento e Agendamento do Treinamento
+Passo 2: Confirmação do Pagamento e Agendamento do Treinamento
 
 Com a inserção dos dados e a confirmação, você verá uma tela de confirmação de pagamento, parabenizando-o pelo cadastro. Nesta mesma tela, será apresentada a opção para agendar seu primeiro treinamento.
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FLlrnJnS8MBHvy5eFrTFb%2Fimage.png?alt=media&amp;token=794a8e7d-f19c-458e-b7d5-0835d240a918" alt=""><figcaption></figcaption></figure>
 
-#### Para agendar seu <mark style="background-color:orange;">treinamento:</mark>
+Para agendar seu <mark style="background-color:orange;">treinamento:</mark>
 
 **1 - Verifique a data disponível na agenda.**
 
@@ -49,7 +49,7 @@ Com a inserção dos dados e a confirmação, você verá uma tela de confirmaç
 
 **4 - Forneça todos os dados adicionais solicitados.**
 
-### <mark style="background-color:yellow;">Atualização dos Dados do Cartão de Crédito</mark>
+<mark style="background-color:yellow;">Atualização dos Dados do Cartão de Crédito</mark>
 
 Caso precise atualizar ou adicionar um novo cartão de crédito, siga os passos abaixo.
 
@@ -79,7 +79,7 @@ Após adicionar um novo cartão e ele se tornar o principal, você terá a opç�
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FjWeQOpnLMVu0shHa7gbz%2Fimage.png?alt=media&amp;token=1ca5b39c-150c-4e0c-997f-91bbe37457c0" alt=""><figcaption></figcaption></figure>
 
-#### Ao concluir este processo, o cartão principal será o único ativo na plataforma.
+Ao concluir este processo, o cartão principal será o único ativo na plataforma.
 
 ---
 

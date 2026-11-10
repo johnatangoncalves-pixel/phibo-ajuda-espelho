@@ -18,6 +18,6 @@ Encontre clientes e descubra quem comprou cada marca, grade, cor ou categoria.
 {% endcontent-ref %}
 
 {% content-ref url="painel-de-clientes.md" %}
-[Painel de Clientes](painel-de-clientes.md)
+[Painel de clientes](painel-de-clientes.md)
 {% endcontent-ref %}
 

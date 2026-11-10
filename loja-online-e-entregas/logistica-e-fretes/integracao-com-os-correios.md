@@ -1,5 +1,4 @@
 ---
-description: "Veja o passo a passo da integração com os Correios abaixo:"
 tags:
   - tag: entregas
     primary: true
@@ -11,11 +10,11 @@ tags:
 Esta funcionalidade esta disponível somente no PLANO OURO
 {% endhint %}
 
-## Veja o tutorial passo a passo em imagens:
+Veja o tutorial passo a passo em imagens:
 
 Para realizar a integração logística com a plataforma dos Correios, o primeiro passo é definir os parâmetros.
 
-Acesse a tela **INICIO > CONFIGURAR MÓDULOS > INTEGRAÇÃO LOGÍSTICA**, conforme imagem abaixo:
+Acesse a tela **INICIO > **CONFIGURAR MÓDULOS > INTEGRAÇÃO** LOGÍSTICA**, conforme imagem abaixo:
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeESdRGNy4UStzzpgk5H-ga-bkIOhh7o_ey4MK5lBSnwcOvbrF_con3mZiPDLjdp5RCp99jNMKcqj6oHyXnIAwsx0xMXjgPm7EKx3l4aCwpsShDW6uaQzzAtQl-igrZgODyWTPw?key=8Zm3bv4ihKRBFzk9_tLEsA)
 
@@ -38,16 +37,16 @@ No portal CWS, haverá uma opção “Gestão de acesso a API”, onde com seu l
 Caso tenha dificuldades para buscar esses dados, entre em contato com seu gerente ou com o suporte do Correios para que te auxiliem nesse processo.Segue abaixo os telefones para entrar em contato com o suporte:
 
 \
-3003 0800 - Capitais e Regiões Metropolitanas e Demais Localidades<br>
+3003 0800 - Capitais e Regiões Metropolitanas e Demais Localidades 
 
-0800 200 0800 - Demais Localidades<br>
+0800 200 0800 - Demais Localidades 
 
 Após finalizar o preenchimento dos parâmetros, basta clicar em **AUTENTICAR CORREIOS.**
 
 \
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcAR0-oYtcudt0vAlnHSaEL-YztWSoP9wOGv0uQHQvM4vOuqUk-kSUB-ixFYnNIEi0EepamgKp9w2owcZktszp-sX-yBNNcq-AmH42NGXq-e3wZiLSGtCbcQrNXWGG38g4qqzzf6g?key=8Zm3bv4ihKRBFzk9_tLEsA)
 
-E pronto! Por fim, basta acessar a tela VENDAS > VENDA ECOMMERCE. Nessa tela todos pedidos que estiverem no status “Venda registrada” já terão o ícone do Correios conforme imagem abaixo:
+E pronto! Por fim, basta acessar a tela **VENDAS > VENDA ECOMMERCE**. Nessa tela todos pedidos que estiverem no status “Venda registrada” já terão o ícone do Correios conforme imagem abaixo:
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf13TwbFjOhVXle30hXeL3mld_16Swlv7HhVw7fJNgnL9UcTyvsd4Gz-w_VLtlCE_vrhGw-QbaTYYGxzOiTqLQzTTrQELtsVYuCjdLnNN-e2gpbRXXgYuqHgnQYZNREnNjrFgLGTA?key=8Zm3bv4ihKRBFzk9_tLEsA)
 
@@ -59,11 +58,11 @@ Então, bastará clicar nesse ícone e depois em “Gerar pré Postagem” para 
 **Importante**: Para utilizar essa funcionalidade é preciso ter integração com Ecommerce ativa e também uma impressora térmica de etiqueta instalada e parametrizada.
 
 \
-E, caso queira imprimir em massa a DANFE simplificada e a etiqueta do Correios, bastará acessar a tela VENDAS > VENDA ECOMMERCE e na opção “AÇÕES EM MASSA” selecione “GERAR NOTA SIMPLIFICADA E ETIQUETA EM LOTE”, conforme imagem abaixo:
+E, caso queira imprimir em massa a DANFE simplificada e a etiqueta do Correios, bastará acessar a tela **VENDAS > VENDA ECOMMERCE** e na opção “AÇÕES EM MASSA” selecione “GERAR NOTA SIMPLIFICADA E ETIQUETA EM LOTE”, conforme imagem abaixo:
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfFJ7R1fRF1Z1yghCOCeDaH079hfXI2A75tvEy82grP0PR7VFmLucO8VvamgLAN7KD3Q9Z8-NnoyTsZYi-IDpGMk__Gg1kd3nbUVvcjMZSZf7ZslKE5lUSEqqBRnDXNUpHDjoiWKQ?key=8Zm3bv4ihKRBFzk9_tLEsA" alt=""><figcaption></figcaption></figure>
 
-<br>
+ 
 
 ---
 

@@ -1,5 +1,4 @@
 ---
-description: "Assista o vídeo abaixo e confira o passo a passo completo de como Definir a Meta Mensal da Loja:"
 tags:
   - tag: vendedores
     primary: true
@@ -10,7 +9,7 @@ tags:
 
 {% embed url="<https://www.loom.com/share/b5b4e90e065049ed8f068ff0cc8864b8>" %}
 
-1 - Para definir quais serão as metas mensais, basta ir na tela VENDAS > META DE VENDAS e clique no botão NOVA META MENSAL:
+1 - Para definir quais serão as metas mensais, basta ir na tela **VENDAS > META DE VENDAS** e clique no botão NOVA META MENSAL:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FQd3mXU0eug3F5y23rX9L%2Fimage.png?alt=media&amp;token=7fcc56dc-a002-489c-bbd6-40a4a689a8be" alt=""><figcaption></figcaption></figure>
 

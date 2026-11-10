@@ -11,7 +11,7 @@ tags:
 📝 **Passo a passo em texto em breve.** Enquanto isso, acompanhe o tutorial em vídeo abaixo.
 {% endhint %}
 
-## Segue o passo a passo de como lançar uma venda de crediário no Phibo
+Segue o passo a passo de como lançar uma venda de crediário no Phibo
 
 {% embed url="<https://www.loom.com/share/61bd877db5c04606aea54d81866ad9de?sid=bcf4cea5-7e06-476c-9814-a0a5aca90b5b>" %}
 

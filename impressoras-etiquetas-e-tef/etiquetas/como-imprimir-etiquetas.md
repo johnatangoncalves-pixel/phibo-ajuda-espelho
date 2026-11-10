@@ -1,5 +1,4 @@
 ---
-description: "Veja o vídeo abaixo e siga o passo a passo:"
 tags:
   - tag: etiquetas
     primary: true

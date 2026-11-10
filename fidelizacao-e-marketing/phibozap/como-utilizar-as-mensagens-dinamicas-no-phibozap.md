@@ -5,7 +5,7 @@ tags:
   - whatsapp
 ---
 
-# Como utilizar as mensagens dinâmicas no PhiboZap
+# Como usar as mensagens dinâmicas no PhiboZap
 
 {% embed url="<https://youtu.be/UdHP5hwrXMA>" %}
 

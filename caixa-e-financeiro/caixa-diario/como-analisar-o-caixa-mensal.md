@@ -20,7 +20,7 @@ Repare que esses mesmos valores estão presentes no Caixa Mensal para o mesmo pe
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FcvfftkJaZlM6YgyZhzYa%2Fimage.png?alt=media&amp;token=af2c8be9-0cb1-46bf-a4ef-8eef2dd54563" alt=""><figcaption></figcaption></figure>
 
-Em ambas as telas, cada coluna tem o mesmo significado. <br>
+Em ambas as telas, cada coluna tem o mesmo significado. 
 
 * **Fundo de Caixa** (R$ 100,00): é o valor presente fisicamente no caixa no momento que ele foi aberto;
 * **Valor Total Venda** (R$ 926,40): é o valor total vendido durante esse dia;

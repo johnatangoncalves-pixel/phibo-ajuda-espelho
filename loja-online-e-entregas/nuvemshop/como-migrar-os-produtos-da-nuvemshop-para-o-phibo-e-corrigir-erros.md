@@ -9,7 +9,7 @@ tags:
 
 # Como migrar os produtos da Nuvemshop para o Phibo (e corrigir erros)
 
-### Segue abaixo o tutorial de como migrar os produtos que estão cadastrados na plataforma da NUVEM para o estoque da PHIBO.
+Segue abaixo o tutorial de como migrar os produtos que estão cadastrados na plataforma da NUVEM para o estoque da PHIBO.
 
 {% hint style="danger" %}
 INFORMAÇÃO: A importação de produtos é recomendada quando ainda não possui produtos cadastrados no Phibo.

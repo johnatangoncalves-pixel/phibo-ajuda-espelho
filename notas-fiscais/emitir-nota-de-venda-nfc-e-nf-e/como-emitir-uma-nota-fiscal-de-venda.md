@@ -1,5 +1,4 @@
 ---
-description: "Veja o vídeo abaixo para aprender a emitir uma nota fiscal no Phibo"
 tags:
   - tag: nota-fiscal
     primary: true

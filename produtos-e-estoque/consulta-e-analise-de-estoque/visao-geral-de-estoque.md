@@ -13,7 +13,7 @@ tags:
 🔧 **Nota interna (D17) – remover antes de publicar:** conteúdo repetido com [Visão geral e visão detalhada de estoque](visao-geral-e-visao-detalhada-de-estoque.md). Juntar os dois e manter só um.
 {% endhint %}
 
-Para ter uma VISÃO GERAL do seu estoque, vá na aba de COMPRAS > GESTÃO DE ESTOQUE > VISÃO GERAL:
+Para ter uma VISÃO GERAL do seu estoque, vá na aba de **COMPRAS > GESTÃO DE ESTOQUE > VISÃO GERAL**:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FU9RJ83mvAeRKaLBNz2MA%2Fimage.png?alt=media&amp;token=3d670ca3-dd0f-477f-a01e-302072a7796a" alt=""><figcaption></figcaption></figure>
 

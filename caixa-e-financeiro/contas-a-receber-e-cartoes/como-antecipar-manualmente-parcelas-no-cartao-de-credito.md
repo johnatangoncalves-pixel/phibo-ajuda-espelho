@@ -1,5 +1,4 @@
 ---
-description: "Descritivo sobre como antecipar o recebimento do valor de vendas feitas pela máquina de cartão de crédito."
 tags:
   - tag: maquininha
     primary: true

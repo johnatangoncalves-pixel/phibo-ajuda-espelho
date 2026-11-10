@@ -1,20 +1,18 @@
 ---
-description: "Assista o vídeo abaixo com o passo a passo 👇"
 tags:
   - tag: conta
     primary: true
   - nota-fiscal
+  - relatorios
 ---
 
-# Dashboard inicial do sistema Phibo
+# Painel inicial do Phibo (dashboard)
 
 {% embed url="<https://www.loom.com/share/ffa0b3fe266c45fd84a6d9c68d6e12bb?sid=471492bc-2905-4179-90f2-f08ec0ed7acd>" %}
 
-####
+Ou aprenda com o passo a passo de prints das telas:
 
-## Ou aprenda com o passo a passo de prints das telas:
-
-Este local onde a seta aponta é o FILTRO PRINCIPAL, onde vc pode selecionar qual período deseja ver os dados abaixo, como mês, semana, dia, ou o ontem! E assim poderá ver exatamente as vendas, contas a receber e a pagar referentes a ESTE PERÍODO!
+Este local onde a seta aponta é o FILTRO PRINCIPAL, onde você pode selecionar qual período deseja ver os dados abaixo, como mês, semana, dia, ou o ontem! E assim poderá ver exatamente as vendas, contas a receber e a pagar referentes a ESTE PERÍODO!
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FVAe3QrWBrI7OKs4XlS5z%2Fec41b914-e525-4228-849e-3f75e3c4a608.jpeg?alt=media&amp;token=ba103a5a-b133-4424-a49f-6e4506b71ac7" alt=""><figcaption></figcaption></figure>
 
@@ -40,4 +38,4 @@ Ao lado esquerdo inferior você pode visualizar a META DE VENDAS da loja e abaix
 
 ---
 
-*🔎 Também procurado como: conta, acesso, usuário, senha, nota fiscal, NF, NFC-e, NF-e, cupom fiscal.*
+*🔎 Também procurado como: conta, acesso, usuário, senha, nota fiscal, NF, NFC-e, NF-e, cupom fiscal, relatório, painel, análise.*

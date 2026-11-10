@@ -14,7 +14,7 @@ Este tutorial irá guiá-lo através dos passos para diagnosticar e corrigir pro
 
 {% embed url="<https://www.loom.com/share/e1ba8e4f015544309036ff0f89629bbc>" %}
 
-### <mark style="background-color:yellow;">Passo 1: Verificação da Impressora no Windows</mark>
+<mark style="background-color:yellow;">Passo 1: Verificação da Impressora no Windows</mark>
 
 Antes de qualquer configuração no sistema, é crucial verificar se a impressora de etiquetas está funcionando corretamente no seu sistema operacional (Windows).
 
@@ -32,7 +32,7 @@ Se a página de teste for impressa com sucesso, sua impressora está comunicando
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FTfekAI4OIMmA87p2uKX3%2Fimage.png?alt=media&amp;token=53729291-759f-484b-b232-ddd82b121cf2" alt=""><figcaption></figcaption></figure>
 
-### <mark style="background-color:yellow;">Passo 2: Verificação e Execução do PhibBot (Serviço de Impressão)</mark>
+<mark style="background-color:yellow;">Passo 2: Verificação e Execução do PhibBot (Serviço de Impressão)</mark>
 
 O PhiboBot é o serviço responsável por intermediar a comunicação entre o sistema e a impressora. Ele precisa estar em execução para que as etiquetas sejam impressas.
 
@@ -50,7 +50,7 @@ Aguarde alguns segundos até que uma notificação confirme que o "**Bot de Impr
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FMQfHc2eDL1RLIjBAXJxu%2Fimage.png?alt=media&amp;token=5a558aa0-d30b-4325-8c7e-0c495589721c" alt=""><figcaption></figcaption></figure>
 
-### <mark style="background-color:yellow;">Passo 3: Configuração da Impressora no Sistema Phibo</mark>
+<mark style="background-color:yellow;">Passo 3: Configuração da Impressora no Sistema Phibo</mark>
 
 Por fim, é necessário garantir que a impressora esteja configurada corretamente dentro do sistema Phibo.
 
@@ -68,7 +68,7 @@ Certifique-se de que a impressora de etiquetas (ex: Elgin L42 ProFull) esteja se
 
 Se a impressora não estiver listada ou o nome estiver incorreto, insira os dados da impressora e clique em Salvar. As informações de tamanho e layout da etiqueta já devem estar pré-configuradas.
 
-### <mark style="background-color:yellow;">Passo 4 : Impressão de Etiquetas</mark>
+<mark style="background-color:yellow;">Passo 4 : Impressão de Etiquetas</mark>
 
 Após seguir todos os passos acima, você pode prosseguir com a impressão das suas etiquetas:
 

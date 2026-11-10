@@ -1,5 +1,4 @@
 ---
-description: "Veja no vídeo abaixo como analisar e entender a listagem de Fluxo de Caixa no Phibo:"
 tags:
   - tag: financeiro
     primary: true

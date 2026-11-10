@@ -6,15 +6,15 @@ tags:
 
 # Como liberar as permissões do AnyDesk no Mac
 
-#### Para possibilitar que nossos especialistas acessem via Anydesk o seu MacBook, será necessários realizar algumas configurações. Assista detalhadamente no vídeo abaixo:
+Para possibilitar que nossos especialistas acessem via Anydesk o seu MacBook, será necessários realizar algumas configurações. Assista detalhadamente no vídeo abaixo:
 
 {% embed url="<https://www.loom.com/share/e9a3f71e2d0d47319a38507b64f08844>" %}
 
-#### 1️⃣ Instalação Correta do AnyDesk (para macOS) acesse o site no endereço. <https://anydesk.com/pt/downloads/mac-os> .
+1️⃣ Instalação Correta do AnyDesk (para macOS) acesse o site no endereço. <https://anydesk.com/pt/downloads/mac-os> .
 
 1. **Baixe o AnyDesk no site oficial (link acima)**
 2. **Abra o arquivo .dmg (download no mac)**
-3. **Arraste o ícone do AnyDesk para a pasta*****Applications***
+3. **Arraste o ícone do AnyDesk para a pasta** ***Applications***
 4. **Abra o AnyDesk pela pasta Applications**
 5. **Quando o macOS alertar sobre segurança, clique em “Open / Abrir”**
 6. **Quando o macOS alertar sobre segurança, clique em “Open / Abrir”**
@@ -40,7 +40,7 @@ tags:
 * **Selecione Solicitar acessibilidade. Isso o levará automaticamente para as permissões de acessibilidade em Segurança e privacidade.**
 * **Selecione Abrir preferências de Acesso Total ao Disco. Isso o levará automaticamente para as permissões de acesso total ao disco em Segurança e privacidade. Alterar essa permissão exigirá uma reinicialização do aplicativo.**
 
-#### 🎯 Permissão essencial para suporte phibo.
+🎯 Permissão essencial para suporte phibo.
 
 3️⃣ **Conexão Segura com o Especialista Phibo**
 
@@ -57,8 +57,6 @@ tags:
 4. **Troque Default → Full Access (no anydesk)**
 5. **Clique em Accept (Aceitar)**
 
-
-
 {% hint style="info" %}
 📌 Erro comum: aceitar como *Default*.\
 👉 Resultado: sessão limitada.
@@ -72,18 +70,12 @@ tags:
 * **Nenhuma ação acontece sem permissão do usuário**
 * **Controle total permanece com o usuário do equipamento**
 
-
-
 **Para Finalizar atendimento e acesso remoto**
 
 * **Clique em Disconnect**
 * **Ou feche o AnyDesk**
 
-
-
 **✔️ Sessão encerrada imediatamente.**
-
-
 
 ---
 

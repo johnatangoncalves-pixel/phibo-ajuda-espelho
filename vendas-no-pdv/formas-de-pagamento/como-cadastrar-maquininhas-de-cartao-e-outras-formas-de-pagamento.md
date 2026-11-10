@@ -7,13 +7,13 @@ tags:
 
 # Como cadastrar maquininhas de cartão e outras formas de pagamento
 
-{% hint style="success" %}
-**Artigo unificado:** substitui “Como cadastrar as Maquininhas de Cartão ou outros métodos de pagamento?” (https://ajuda.phibo.site/primeiros-passos/primeiros-passos-treinamento-2/como-cadastrar-as-maquininhas-de-cartao-ou-outros-metodos-de-pagamento).
+{% hint style="warning" %}
+🔧 **Nota interna – remover antes de publicar. Artigo unificado:** substitui “Como cadastrar as Maquininhas de Cartão ou outros métodos de pagamento?” (https://ajuda.phibo.site/primeiros-passos/primeiros-passos-treinamento-2/como-cadastrar-as-maquininhas-de-cartao-ou-outros-metodos-de-pagamento).
 {% endhint %}
 
 ## Cadastro de Conta Corrente
 
-Para cadastrar sua maquininha de cartão ou outras formas de pagamento (como Pic Pay, Mercado Pago, Paypal, etc), primeiro você deve cadastrar a sua conta corrente em FINANÇAS > CONTAS  BANCÁRIAS > CADASTRAR CONTA CORRENTE:
+Para cadastrar sua maquininha de cartão ou outras formas de pagamento (como Pic Pay, Mercado Pago, Paypal, etc), primeiro você deve cadastrar a sua conta corrente em **FINANÇAS > CONTAS  BANCÁRIAS > CADASTRAR CONTA CORRENTE**:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FTaus4klRGZPUfeH4TYkw%2Fimage.png?alt=media&amp;token=4970cb0a-7464-4e5e-8d4d-d48368575128" alt=""><figcaption></figcaption></figure>
 
@@ -27,7 +27,7 @@ Se não quiser colocar o valor que tem na conta, pode deixar como 0,00.
 
 ## Cadastro das Maquininhas de Cartão
 
-Feito isso, vá em VENDAS > CONTAS A RECEBER > CARTÕES > CADASTRAR MAQUINA:
+Feito isso, vá em **VENDAS > CONTAS A RECEBER > CARTÕES > CADASTRAR MAQUINA**:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FlCiGY50YZQZddms3dod0%2Fimage.png?alt=media&amp;token=fa946bdf-e0d1-46fe-ba5e-42590c83f64d" alt=""><figcaption></figcaption></figure>
 
@@ -50,7 +50,7 @@ Depois de tudo devidamente preenchido, clique em "SALVAR" para adicionar o méto
 
 Após cadastradas as maquininhas, será necessário que você edite as taxas das parcelas pros pagamentos em cartão de crédito.
 
-Para isso, vá em VENDAS > CONTAS A RECEBER > CARTÕES > CADASTRAR TAXAS:
+Para isso, vá em **VENDAS > CONTAS A RECEBER > CARTÕES > CADASTRAR TAXAS**:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FiDf9MYELrybtr1Mjnsg2%2Fimage.png?alt=media&amp;token=ba006b44-f2e7-45f2-9949-584e465d110f" alt=""><figcaption></figcaption></figure>
 
@@ -72,7 +72,7 @@ Com tudo devidamente cadastrado, é só clicar em salvar.
 
 **Com todos esses passos devidamente feitos, você já pode começar a registrar vendas no cartão na sua conta 💙😁**
 
-<br>
+ 
 
 ## Vídeo
 

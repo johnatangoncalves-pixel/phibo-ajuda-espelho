@@ -15,7 +15,7 @@ Assista abaixo, o passo a passo completo para cadastrar um vendedor:
 Os campos em preto, não é necessário preencher se não quiser.
 {% endhint %}
 
-1° - Para cadastrar um vendedor, primeiro vá em VENDAS > VENDEDORES<br>
+1° - Para cadastrar um vendedor, primeiro vá em **VENDAS > VENDEDORES**
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FUo0XQtRM7zQ8rAcdyFx9%2F1.png?alt=media&amp;token=c7ac1de0-1e10-44f6-a169-52ffb7c90bb8" alt=""><figcaption></figcaption></figure>
 

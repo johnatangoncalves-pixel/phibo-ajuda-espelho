@@ -13,7 +13,7 @@ Para isso, precisamos criar a **mensagem**, a **lista** e a **campanha** em mass
 
 {% embed url="<https://www.loom.com/share/c40c8a41388e48699cc73b5eb33bdc16?sid=be8565a2-f603-4150-bd8d-2b7899c9b838>" %}
 
-#### Ou, veja abaixo detalhadamente como cria-la:
+Ou, veja abaixo detalhadamente como cria-la:
 
 **1 -** <mark style="background-color:yellow;">Para criar a</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**MENSAGEM**</mark> acesse **INICIO > PHIBOZAP > MENSAGEM** e clique em **“NOVA MENSAGEM**”.
 

@@ -16,15 +16,11 @@ tags:
 [Definindo os Parâmetros de Estoque](../cadastros-auxiliares-grades-cores-categorias/como-configurar-grades-cores-e-parametros-de-estoque.md)
 {% endhint %}
 
-## A tela de cadastro de produtos mudou ! Caso queira ver o comparativo com a tela antiga, assista ao vídeo a seguir:
+A tela de cadastro de produtos mudou ! Caso queira ver o comparativo com a tela antiga, assista ao vídeo a seguir:
 
-### Para cadastrar um produto vá até a aba COMPRAS > GESTÃO DE ESTOQUE > CADASTRAR PRODUTO :
-
-### 
+Para cadastrar um produto vá até a aba **COMPRAS > GESTÃO DE ESTOQUE > CADASTRAR PRODUTO**:
 
 {% embed url="<https://www.loom.com/share/240c02af958046ac912f3b5a0aa69689>" %}
-
-###
 
 ---
 

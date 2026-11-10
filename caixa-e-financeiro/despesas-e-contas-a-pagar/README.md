@@ -10,7 +10,7 @@ tags:
 As Despesas são as contas gerais da loja: salários, aluguel, internet, luz, equipamentos… Veja como lançar e pagar.
 
 {% content-ref url="como-cadastrar-uma-despesa.md" %}
-[Como cadastrar uma despesa](como-cadastrar-uma-despesa.md)
+[Como lançar uma despesa (passo a passo com imagens)](como-cadastrar-uma-despesa.md)
 {% endcontent-ref %}
 
 {% content-ref url="como-editar-ou-excluir-uma-despesa.md" %}
@@ -30,6 +30,6 @@ As Despesas são as contas gerais da loja: salários, aluguel, internet, luz, eq
 {% endcontent-ref %}
 
 {% content-ref url="diferenca-entre-despesas-e-compras.md" %}
-[Diferença entre Despesas e Compras](diferenca-entre-despesas-e-compras.md)
+[Diferença entre despesas e compras](diferenca-entre-despesas-e-compras.md)
 {% endcontent-ref %}
 

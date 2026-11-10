@@ -27,6 +27,6 @@ Abrir, fazer sangria e suprimento e fechar o caixa do dia.
 {% endcontent-ref %}
 
 {% content-ref url="atualizacao-do-fechamento-de-caixa-para-as-telas-novas-do-sistema.md" %}
-[Atualização do fechamento de caixa para as telas novas do sistema](atualizacao-do-fechamento-de-caixa-para-as-telas-novas-do-sistema.md)
+[Fechamento de caixa na tela nova (vídeo)](atualizacao-do-fechamento-de-caixa-para-as-telas-novas-do-sistema.md)
 {% endcontent-ref %}
 

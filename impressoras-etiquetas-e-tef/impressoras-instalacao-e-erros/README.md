@@ -31,7 +31,7 @@ Instale drivers, teste a impressora e corrija erros de impressão.
 {% endcontent-ref %}
 
 {% content-ref url="como-ajustar-a-impressao-do-cupom-na-impressora-pos.md" %}
-[Como ajustar a impressão do cupom na impressora POS](como-ajustar-a-impressao-do-cupom-na-impressora-pos.md)
+[Como ajustar o tamanho do cupom na impressora térmica (POS)](como-ajustar-a-impressao-do-cupom-na-impressora-pos.md)
 {% endcontent-ref %}
 
 {% content-ref url="como-corrigir-erros-na-impressora-de-cupom.md" %}

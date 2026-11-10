@@ -10,7 +10,7 @@ tags:
 
 {% embed url="<https://www.loom.com/share/e0ac9dd7b4014de7ae1b6e7385a5fc90>" %}
 
-Para fazer a análise, vá em VENDAS > PAINEL DE VENDAS (NOVO)
+Para fazer a análise, vá em **VENDAS > PAINEL DE VENDAS**(NOVO)
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FMqey8bTeYbFmEBuJ79Jy%2Fimage.png?alt=media&amp;token=db5d5bdd-07ac-4a21-9886-76b61330c94e" alt=""><figcaption></figcaption></figure>
 

@@ -1,5 +1,4 @@
 ---
-description: "Para importar os contatos dos clientes do seu sistema anterior para o sistema Phibo assista atentamente o passo a passo abaixo:"
 tags:
   - tag: migracao
     primary: true

@@ -13,7 +13,7 @@ tags:
 📝 **Passo a passo em texto em breve.** Enquanto isso, acompanhe o tutorial em vídeo abaixo.
 {% endhint %}
 
-### Veja abaixo o vídeo com demonstrativo de como realizar esse cadastro:
+Veja abaixo o vídeo com demonstrativo de como realizar esse cadastro:
 
 {% embed url="<https://www.loom.com/share/8946d11eed454fb3878a5d26ab4688f9?sid=4eece7c7-22b3-4a08-90da-b23733a9f95c>" %}
 

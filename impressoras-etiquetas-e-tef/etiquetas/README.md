@@ -39,7 +39,7 @@ Modelos de etiqueta, fila de impressão e impressão em A4 ou impressora térmic
 {% endcontent-ref %}
 
 {% content-ref url="como-utilizar-layout-de-etiqueta-a-prazo-e-a-vista.md" %}
-[Como utilizar layout de etiqueta a prazo e a vista](como-utilizar-layout-de-etiqueta-a-prazo-e-a-vista.md)
+[Como usar layout de etiqueta a prazo e a vista](como-utilizar-layout-de-etiqueta-a-prazo-e-a-vista.md)
 {% endcontent-ref %}
 
 {% content-ref url="como-comprar-suprimentos-na-phibo-store.md" %}

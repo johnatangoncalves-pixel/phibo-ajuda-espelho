@@ -1,5 +1,4 @@
 ---
-description: "Veja o vídeo abaixo passo a passo:"
 tags:
   - tag: financeiro
     primary: true

@@ -8,7 +8,7 @@ tags:
 
 # Como cadastrar uma nota de compra manualmente
 
-Caso você não tenha a nota fiscal da compra da mercadoria, ou só deseje cadastrar manualmente os valores a pagar dessas compras, vá em COMPRAS > NOTA FISCAL > DIGITAR NOTA FISCAL: <br>
+Caso você não tenha a nota fiscal da compra da mercadoria, ou só deseje cadastrar manualmente os valores a pagar dessas compras, vá em **COMPRAS > NOTA FISCAL > DIGITAR NOTA FISCAL**: 
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FvItAgCRMOHVa7KuPhuPV%2Fimage.png?alt=media&amp;token=a4212181-3e8a-430d-a819-412fb8a2b7d3" alt=""><figcaption></figcaption></figure>
 
@@ -22,7 +22,7 @@ Nesta tela, siga preenchendo os campos com as informações da compra.
 
 Primeiramente, coloque o **Fornecedor** que você comprou os produtos e depois, qual **Coleção** essas peças pertencem.
 
-O campo "**Número**" é referente ao Número da Nota Fiscal (se tiver). Caso tenha nota, você consegue identificar a numeração na parte superior da NF: <br>
+O campo "**Número**" é referente ao Número da Nota Fiscal (se tiver). Caso tenha nota, você consegue identificar a numeração na parte superior da NF: 
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2F4mRPElUhqF5yRDXCSJri%2Fimage.png?alt=media&amp;token=ca3340c2-6b24-4694-828e-0655dfb402a8" alt=""><figcaption></figcaption></figure>
 
@@ -62,13 +62,11 @@ Com tudo devidamente preenchido, basta clicar em "**CONCLUIR NOTA FISCAL**":
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FQYeBHqB8OrRA7QqR1F5b%2Fimage.png?alt=media&amp;token=90fc9c7e-c9a5-4a0f-ac0b-6418d33921ca" alt=""><figcaption></figcaption></figure>
 
-##
-
 ## Como registrar o pagamento das duplicatas a pagar
 
 Com a sua nota de compra devidamente cadastrada, assim que chegar o momento do pagamento ao Fornecedor, você precisará registrar a baixa no sistema. \
 \
-Para isso, vá em COMPRAS > EFETUAR PAGAMENTO:
+Para isso, vá em **COMPRAS > EFETUAR PAGAMENTO**:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FmsUAn3Y5Tzdhz9742L86%2Fimage.png?alt=media&amp;token=77a07278-ee9b-49e9-a5b3-2c628e112fbd" alt=""><figcaption></figcaption></figure>
 

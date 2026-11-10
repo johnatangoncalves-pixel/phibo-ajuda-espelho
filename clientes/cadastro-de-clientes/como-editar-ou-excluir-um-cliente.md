@@ -8,7 +8,7 @@ tags:
 
 ## Edição
 
-Para editar um cliente, vá em CLIENTES > CADASTRAR CLIENTE e clique em "EDITAR":
+Para editar um cliente, vá em **CLIENTES > CADASTRAR CLIENTE** e clique em "EDITAR":
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FvO0xwc8IIVH01MXWqQIy%2Fimage.png?alt=media&amp;token=d1ca28f7-c061-4ba9-9023-014802bdd185" alt=""><figcaption></figcaption></figure>
 

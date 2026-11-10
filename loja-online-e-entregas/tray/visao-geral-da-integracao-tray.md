@@ -1,5 +1,4 @@
 ---
-description: "Veja abaixo cada tutorial passo a passo de cada etapa da integração com a Tray!"
 tags:
   - tag: loja-online
     primary: true

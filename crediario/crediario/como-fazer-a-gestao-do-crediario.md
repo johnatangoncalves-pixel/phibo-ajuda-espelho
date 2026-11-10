@@ -1,5 +1,4 @@
 ---
-description: "Veja abaixo um vídeo completo sobre a gestão do crediário, incluindo como associar multas e juros, bloquear e acompanhar os clientes em atraso, e conferir os indicadores:"
 tags:
   - tag: crediario
     primary: true
@@ -8,7 +7,7 @@ tags:
   - clientes
 ---
 
-# Como fazer a Gestão do crediário
+# Como fazer a gestão do crediário
 
 {% hint style="info" %}
 📝 **Passo a passo em texto em breve.** Enquanto isso, acompanhe o tutorial em vídeo abaixo.

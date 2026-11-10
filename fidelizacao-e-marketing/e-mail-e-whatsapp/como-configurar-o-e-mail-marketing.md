@@ -11,7 +11,7 @@ Caso queira configurar sua conta para realizar o envio de e-mails com informaç�
 
 {% embed url="<https://www.loom.com/share/3d82db2d97d741d8b14ba89d60266e6d?sid=3e029010-decb-4362-9f78-718a44d4b4aa>" %}
 
-Depois de devidamente habilitado, para configurar as categorias de de e-mails, vá em CLIENTES > MARKETING > TIPO DE E-MAIL:
+Depois de devidamente habilitado, para configurar as categorias de e-mails, vá em **CLIENTES > MARKETING > TIPO DE E-MAIL**:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FjURRenKq7N4Ea60UIVVV%2Fimage.png?alt=media&amp;token=0f2334ad-9287-4746-a158-0f8388090888" alt=""><figcaption></figcaption></figure>
 
@@ -19,7 +19,7 @@ Em seguida preencha com a Descrição do tipo de e-mail e salve. Se quiser edita
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2Fh1dTZrunwQP8OxqVuPlf%2Fimage.png?alt=media&amp;token=4aa47938-780d-411d-a2ca-b9a420746768" alt=""><figcaption></figcaption></figure>
 
-E depois para definir o conteúdo dos e-mails, vá em CLIENTES > MARKETING > E-MAIL
+E depois para definir o conteúdo dos e-mails, vá em **CLIENTES > MARKETING > E-MAIL**
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FaP3hy8ZfopKL2dk8L0UO%2Fimage.png?alt=media&amp;token=bbdade8c-c717-440e-ab22-43abc8dc2eac" alt=""><figcaption></figcaption></figure>
 

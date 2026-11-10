@@ -1,5 +1,4 @@
 ---
-description: "Assista o vídeo abaixo e veja o passo a passo completo para entender como realizar o procedimento:"
 tags:
   - tag: compras
     primary: true
@@ -12,7 +11,7 @@ tags:
 
 {% embed url="<https://www.loom.com/share/6173c27e02c5427c9dddd0ef9c696a5b>" %}
 
-Acesse a tela COMPRAS > NOTA FISCAL > LISTAR NOTA FISCAL e clique no botão NOVA NOTA MANUAL:
+Acesse a tela **COMPRAS > NOTA FISCAL > LISTAR NOTA FISCAL** e clique no botão NOVA NOTA MANUAL:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FvHCxg6CZqe33947E2UiR%2Fimage.png?alt=media&amp;token=fae3a01a-6201-4e45-bcd4-b913b5bda40f" alt=""><figcaption></figcaption></figure>
 

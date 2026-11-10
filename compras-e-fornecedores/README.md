@@ -12,7 +12,7 @@ description: "Notas de compra, XML, fornecedores e planejamento de compras"
 
 * [Como cadastrar fornecedores](fornecedores/como-cadastrar-fornecedores.md)
 
-### [Entrada de notas de compra](entrada-de-notas-de-compra/README.md)
+[Entrada de notas de compra](entrada-de-notas-de-compra/README.md)
 
 * [Como separar produtos que vieram juntos na nota de compra](entrada-de-notas-de-compra/como-desvincular-produtos-que-vem-juntos-na-nota-fiscal-xml.md)
 * [Como apagar os códigos de barras do fornecedor na nota de compra](entrada-de-notas-de-compra/como-apagar-os-codigos-ean-do-fornecedor-numa-nota-xml.md)
@@ -25,7 +25,7 @@ description: "Notas de compra, XML, fornecedores e planejamento de compras"
 * [Visão geral da tela de compras](entrada-de-notas-de-compra/visao-geral-da-tela-de-compras.md)
 * [Como receber as notas de compra automaticamente da Sefaz](entrada-de-notas-de-compra/sincronizacao-de-notas-fiscais-automaticamente-com-o-sefaz.md)
 
-### [Pagamento a fornecedores](pagamento-a-fornecedores/README.md)
+[Pagamento a fornecedores](pagamento-a-fornecedores/README.md)
 
 * [Como baixar o pagamento de uma nota de fornecedor](pagamento-a-fornecedores/como-baixar-o-pagamento-de-uma-nota-de-fornecedor.md)
 

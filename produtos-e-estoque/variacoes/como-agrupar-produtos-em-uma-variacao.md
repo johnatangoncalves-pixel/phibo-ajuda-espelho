@@ -1,5 +1,4 @@
 ---
-description: "Veja abaixo o passo a passo completo para unir produtos que estão separados e deixa-los com a mesma referência:"
 tags:
   - tag: produtos
     primary: true
@@ -9,7 +8,7 @@ tags:
 
 {% embed url="<https://www.loom.com/share/c5c492a42eca4b78ab45388b8e3ea891>" %}
 
-1- Acesse COMPRAS > GESTAO DE ESTOQUE > CADASTRAR PRODUTO e marque na caixinha de seleção, os itens que serão agrupados:
+1- Acesse **COMPRAS > GESTAO DE ESTOQUE > CADASTRAR PRODUTO** e marque na caixinha de seleção, os itens que serão agrupados:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2F2UXUaFRIrhGsPIm1MZJB%2Fimage.png?alt=media&amp;token=df861111-ca76-4955-99c4-8a32ef973521" alt=""><figcaption></figcaption></figure>
 

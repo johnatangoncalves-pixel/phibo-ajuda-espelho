@@ -21,16 +21,16 @@ Caso o seu cliente devolva um produto adquirido e não tenha nenhuma NFE ou Cupo
 
 [#id-3-situacao-o-cliente-comprou-varias-produtos-e-esta-devolvendo-apenas-algumas-pecas-e-vai-pagar-no-c](#id-3-situacao-o-cliente-comprou-varias-produtos-e-esta-devolvendo-apenas-algumas-pecas-e-vai-pagar-no-c "mention")
 
-## 1ª Situação: O cliente está devolvendo todos os produtos da compra.
+1ª Situação: O cliente está devolvendo todos os produtos da compra.
 
 Se o cliente estiver devolvendo todas as peças da venda,  basta excluir a venda que automaticamente as peças retornam pro seu estoque e  o movimento financeiro atrelado à essa transação é desfeito.
 
 \
 Para excluir a venda, basta fazer conforme o tutorial abaixo:\
 \
-[Como excluir uma venda no sistema Phibo ](https://youtu.be/EWc0sMKMFbE)<br>
+[Como excluir uma venda no sistema Phibo ](https://youtu.be/EWc0sMKMFbE) 
 
-## 2ª Situação: O cliente levou vários produtos, mas está devolvendo somente uma ou algumas peças e vai ficar com um crédito
+2ª Situação: O cliente levou vários produtos, mas está devolvendo somente uma ou algumas peças e vai ficar com um crédito
 
 {% hint style="warning" %}
 ATENÇÃO: Essa alternativa seria para as vendas **sem** NF . Se a devolução é para uma venda que teve Nota/Cupom fiscal, deve ser feita conforme o seguinte tutorial: \
@@ -38,11 +38,11 @@ ATENÇÃO: Essa alternativa seria para as vendas **sem** NF . Se a devolução �
 [Como Gerar Uma Nota De Devolução De Uma Venda](../trocas-e-devolucoes-com-nota-fiscal/como-gerar-uma-nota-de-devolucao-de-uma-venda.md)
 {% endhint %}
 
-Caso o seu cliente não esteja devolvendo todas as peças que ele comprou , você precisará fazer uma troca, porém utilizando o Produto Padrão na aba ITENS VENDA. Isso vai registrar no sistema o retorno da mercadoria devolvida, porém não vai registrar saída pra nenhuma de suas peças em estoque. \
+Caso o seu cliente não esteja devolvendo todas as peças que ele comprou, você precisará fazer uma troca, porém utilizando o Produto Padrão na aba ITENS VENDA. Isso vai registrar no sistema o retorno da mercadoria devolvida, porém não vai registrar saída pra nenhuma de suas peças em estoque. \
 \
-Resumidamente, o Produto Padrão é o cadastro de um produto fictício. Ou seja, **ele existe somente no sistema** e não tem fisicamente no seu estoque e serve para testes ou situações que precise acrescentar valor na venda (como essa). Portanto, ao utilizá-lo, não causará diferença na quantidade de nenhuma de suas peças de verdade. <br>
+Resumidamente, o Produto Padrão é o cadastro de um produto fictício. Ou seja, **ele existe somente no sistema** e não tem fisicamente no seu estoque e serve para testes ou situações que precise acrescentar valor na venda (como essa). Portanto, ao utilizá-lo, não causará diferença na quantidade de nenhuma de suas peças de verdade. 
 
-Para registrar esse tipo de troca, onde o cliente não está levando nenhuma outra mercadoria, vá em VENDAS > PDV > selecione o botão TROCA:<br>
+Para registrar esse tipo de troca, onde o cliente não está levando nenhuma outra mercadoria, vá em **VENDAS > PDV**> selecione o botão TROCA: 
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2F4rbHqngyOYChVYGyL96q%2Ftroca%201.jpg?alt=media&amp;token=7623b7d0-8681-43d0-89ee-f6667d3c91c8" alt=""><figcaption></figcaption></figure>
 
@@ -69,11 +69,11 @@ Feito isso, basta criar um cupom de desconto para registrar o crédito do client
 [Como configurar e usar os Cupons de Desconto nas vendas](../../vendas-no-pdv/descontos-cupons-e-promocoes/como-configurar-e-usar-os-cupons-de-desconto-nas-vendas.md)
 {% endcontent-ref %}
 
-## 3° Situação: O cliente comprou várias produtos e está devolvendo apenas algumas peças e vai pagar no crediário
+3° Situação: O cliente comprou várias produtos e está devolvendo apenas algumas peças e vai pagar no crediário
 
 Caso o cliente tenha comprado no crediário, nenhuma das opções acima te atenderá, pois elas não ajustarão o valor das parcelas devidas pelo cliente.
 
-Para essas situações, o ideal é excluir a venda ( em VENDAS > RELAÇÃO DE VENDAS > DIA DA VENDA e clicar na lixeira) para que as parcelas em aberto sejam excluidas e lançar a venda novamente em VENDAS > PDV REGISTRAR VENDA incluindo apenas as peças que a cliente ficou.
+Para essas situações, o ideal é excluir a venda ( em **VENDAS > RELAÇÃO DE VENDAS > DIA DA VENDA** e clicar na lixeira) para que as parcelas em aberto sejam excluidas e lançar a venda novamente em **VENDAS > PDV REGISTRAR VENDA** incluindo apenas as peças que a cliente ficou.
 
 ---
 

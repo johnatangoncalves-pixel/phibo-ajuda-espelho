@@ -20,7 +20,7 @@ Não sabe por onde começar? [🔄 Qual troca ou devolução usar](../ajuda-rapi
 * [Como registrar uma troca quando o cliente ficará com um crédito do valor](trocas-sem-nota-fiscal/como-registrar-uma-troca-quando-o-cliente-ficara-com-um-credito-do-valor.md)
 * [Devolução de produto de uma venda sem nota fiscal](trocas-sem-nota-fiscal/devolucao-de-produto-de-uma-venda-sem-nota-fiscal.md)
 
-### [Trocas e devoluções com nota fiscal](trocas-e-devolucoes-com-nota-fiscal/README.md)
+[Trocas e devoluções com nota fiscal](trocas-e-devolucoes-com-nota-fiscal/README.md)
 
 * [Como fazer uma troca fiscal com geração de crédito](trocas-e-devolucoes-com-nota-fiscal/como-fazer-uma-troca-fiscal-com-geracao-de-credito.md)
 * [Devolução de produto de uma venda com nota fiscal](trocas-e-devolucoes-com-nota-fiscal/devolucao-de-produto-de-uma-venda-com-nota-fiscal.md)

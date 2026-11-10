@@ -5,7 +5,7 @@ tags:
   - relatorios
 ---
 
-# Apresentação da tela do Financeiro
+# Apresentação da tela do financeiro
 
 {% hint style="info" %}
 📝 **Passo a passo em texto em breve.** Enquanto isso, acompanhe o tutorial em vídeo abaixo.

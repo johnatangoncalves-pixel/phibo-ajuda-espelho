@@ -27,11 +27,11 @@ description: "Implantação, treinamentos e migração de dados"
 ### [Programa de Recompensas](programa-de-recompensas/README.md)
 
 * [Como funciona o Programa de Recompensas](programa-de-recompensas/como-funciona-o-programa-de-recompensas.md)
-* [Passo 1](programa-de-recompensas/passo-1.md)
-* [Passo 2](programa-de-recompensas/passo-2.md)
-* [Passo 3](programa-de-recompensas/passo-3.md)
-* [Passo 4](programa-de-recompensas/passo-4.md)
-* [Passo 5](programa-de-recompensas/passo-5.md)
-* [Passo 6](programa-de-recompensas/passo-6.md)
-* [Passo 7](programa-de-recompensas/passo-7.md)
+* [Passo 1 – Cadastros iniciais (grades, cores, categorias e fornecedores)](programa-de-recompensas/passo-1.md)
+* [Passo 2 – Cadastrar e editar produtos](programa-de-recompensas/passo-2.md)
+* [Passo 3 – Variações e etiquetas](programa-de-recompensas/passo-3.md)
+* [Passo 4 – Formas de pagamento, cliente e primeira venda](programa-de-recompensas/passo-4.md)
+* [Passo 5 – Maquininhas e recebimentos do crediário](programa-de-recompensas/passo-5.md)
+* [Passo 6 – Vendas, descontos e cartão fidelidade](programa-de-recompensas/passo-6.md)
+* [Passo 7 – Despesas e notas de compra](programa-de-recompensas/passo-7.md)
 

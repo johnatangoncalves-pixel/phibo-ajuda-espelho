@@ -33,7 +33,7 @@ Para utilizá-lo, basta digitar 000 no PDV ou escrever a palavra Padrão no camp
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FgHklIfBSSBKSPtKsOOsZ%2Fprodutopadr%C3%A3o1.jpg?alt=media&amp;token=d9cee651-3b3f-404b-a410-617406db8931" alt=""><figcaption></figcaption></figure>
 
-Após clicar em TAB ou na tela, colocar o valor que ele precisará ter no novo campo: <br>
+Após clicar em TAB ou na tela, colocar o valor que ele precisará ter no novo campo: 
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FJfFIHZ56f1qyhQueJGNU%2Fprodutopadr%C3%A3o2.jpg?alt=media&amp;token=fd453c3a-c525-4188-9bf6-157a9c9769ac" alt=""><figcaption></figcaption></figure>
 
@@ -46,9 +46,9 @@ Por exemplo, o cliente está te devolvendo uma peça e não vai levar nenhuma ou
 \
 Exemplo, se ele está devolvendo um produto de R$ 65,90:
 
-<figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FSFBIXy4kflg3mNSbL4V1%2Fprodutopadr%C3%A3o3.jpg?alt=media&amp;token=08966fde-7634-4593-a60e-49c8b2300198" alt=""><figcaption><p>Basta registrar a peça devolvida na aba ITENS DEVOLUÇÃO <br></p></figcaption></figure>
+<figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FSFBIXy4kflg3mNSbL4V1%2Fprodutopadr%C3%A3o3.jpg?alt=media&amp;token=08966fde-7634-4593-a60e-49c8b2300198" alt=""><figcaption><p>Basta registrar a peça devolvida na aba ITENS DEVOLUÇÃO </p></figcaption></figure>
 
-Depois de colocar o produto devolvido em ITENS DEVOLUÇÃO, basta colocar o Produto Padrão na aba Itens Venda e o mesmo valor: <br>
+Depois de colocar o produto devolvido em ITENS DEVOLUÇÃO, basta colocar o Produto Padrão na aba Itens Venda e o mesmo valor: 
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2F6IECjd5Pk5Api7Wnet0v%2Fprodutopadr%C3%A3o4.jpg?alt=media&amp;token=ea187e52-f027-4ee3-809e-6cd3f45ee1a2" alt=""><figcaption></figcaption></figure>
 

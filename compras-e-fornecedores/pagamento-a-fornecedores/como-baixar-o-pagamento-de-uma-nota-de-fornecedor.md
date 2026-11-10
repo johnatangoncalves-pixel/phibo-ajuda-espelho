@@ -11,7 +11,7 @@ tags:
 📝 **Passo a passo em texto em breve.** Enquanto isso, acompanhe o tutorial em vídeo abaixo.
 {% endhint %}
 
-### Para realizar a baixa de duplicatas de notas de fornecedores, acesse COMPRAS > EFETUAR PAGAMENTO. Nessa tela, defina a forma de pagamento e salve!
+Para realizar a baixa de duplicatas de notas de fornecedores, acesse **COMPRAS > EFETUAR PAGAMENTO**. Nessa tela, defina a forma de pagamento e salve!
 
 Assista o vídeo abaixo para ver o processo passo a passo:
 

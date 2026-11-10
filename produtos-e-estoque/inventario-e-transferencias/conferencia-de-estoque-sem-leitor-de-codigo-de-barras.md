@@ -11,7 +11,7 @@ tags:
 📝 **Passo a passo em texto em breve.** Enquanto isso, acompanhe o tutorial em vídeo abaixo.
 {% endhint %}
 
-### Segue o passo a passo de como fazer uma conferência de estoque sem precisar utilizar o leitor de código de barras.
+Segue o passo a passo de como fazer uma conferência de estoque sem precisar utilizar o leitor de código de barras.
 
 {% hint style="info" %}
 Para realizar esse processo é necessário abrir duas abas do sistema no mesmo navegador para facilitar o processo de copiar e colar o código.

@@ -19,7 +19,7 @@ Ficou com dúvidas sobre como entender quais produtos estão vendendo bem e quai
 \
 Aprenda **agora** como fazer a análise da saída dos produtos em seu estoque.
 
-## Abaixo vídeo tutorial de como pode ser feito:
+Abaixo vídeo tutorial de como pode ser feito:
 
 {% embed url="<https://www.youtube.com/watch?v=JNDORoV1l4g>" %}
 

@@ -6,7 +6,7 @@ tags:
 
 # Como personalizar as mensagens de WhatsApp
 
-## Segue o vídeo com o PASSO A PASSO para personalizar mensagens que serão enviadas por WhatsApp pelo Phibo:
+Segue o vídeo com o PASSO A PASSO para personalizar mensagens que serão enviadas por WhatsApp pelo Phibo:
 
 {% hint style="warning" %}
 ATENÇÃO: **Evite o uso de emojis** nas mensagens e **respeite o número de caracteres permitidos na configuração**, pois são fatores a serem seguidos no envio de mensagens automatizadas pelo WhatsApp.

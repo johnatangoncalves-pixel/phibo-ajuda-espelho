@@ -18,6 +18,6 @@ Integração nativa do Phibo com a TikTok Shop.
 {% endcontent-ref %}
 
 {% content-ref url="como-vincular-produtos-phibo-tiktok-shop.md" %}
-[Como vincular produtos Phibo-TikTok Shop](como-vincular-produtos-phibo-tiktok-shop.md)
+[Como vincular produtos do Phibo à TikTok Shop](como-vincular-produtos-phibo-tiktok-shop.md)
 {% endcontent-ref %}
 

@@ -45,8 +45,6 @@ tags:
 
 **Nesta etapa, você precisará informar seus dados para identificação. Escolha entre "Pessoa Física" ou "Pessoa Jurídica" e preencha os campos:**
 
-
-
 • **Nome completo**
 
 **•  E-mail**
@@ -55,13 +53,11 @@ tags:
 
 **•  Celular / WhatsApp**
 
-
-
 **Após preencher todos os dados, clique em "Ir para Entrega".**
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FH0NPGGpOnbVT8265ym21%2Fimage.png?alt=media&amp;token=d50e6dd0-2083-4b4f-ac71-747edda9d412" alt=""><figcaption></figcaption></figure>
 
-#### O próximo passo será o preenchimento das informações de entrega e, posteriormente, a seleção da forma de pagamento para concluir seu pedido.
+O próximo passo será o preenchimento das informações de entrega e, posteriormente, a seleção da forma de pagamento para concluir seu pedido.
 
 ---
 

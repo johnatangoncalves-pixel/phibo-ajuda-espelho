@@ -10,8 +10,8 @@ tags:
 
 # Como cadastrar produtos pelo arquivo da nota de compra (XML)
 
-{% hint style="success" %}
-**Artigo unificado:** substitui “Cadastrando seu primeiro produto por Nota Fiscal XML” (https://ajuda.phibo.site/primeiros-passos/untitled/cadastrando-seu-primeiro-produto-por-nota-fiscal-xml); “Como cadastrar os produtos por Nota Fiscal XML” (https://ajuda.phibo.site/sobre-o-sitema/cadastros-2/produtos/como-cadastrar-os-produtos-por-nota-fiscal-xml).
+{% hint style="warning" %}
+🔧 **Nota interna – remover antes de publicar. Artigo unificado:** substitui “Cadastrando seu primeiro produto por Nota Fiscal XML” (https://ajuda.phibo.site/primeiros-passos/untitled/cadastrando-seu-primeiro-produto-por-nota-fiscal-xml); “Como cadastrar os produtos por Nota Fiscal XML” (https://ajuda.phibo.site/sobre-o-sitema/cadastros-2/produtos/como-cadastrar-os-produtos-por-nota-fiscal-xml).
 {% endhint %}
 
 Para cadastrar os produtos através da nota fiscal, precisaremos realizar 2 passos:\\
@@ -30,7 +30,7 @@ Para cadastrar os produtos através da nota fiscal, precisaremos realizar 2 pass
 
 Segue descrito abaixo, a orientação detalhada dos passos :
 
-**1 - Primeiramente, vá em COMPRAS > NOTA FISCAL > LER ARQUIVO XML:** <br>
+**1 - Primeiramente, vá em **COMPRAS > NOTA FISCAL > LER ARQUIVO XML**:** 
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2F8n9bi3KOdNVimUTBefsv%2Fimage.png?alt=media&amp;token=798f1cbe-f66d-4cd6-878a-fdda68a1b6aa" alt=""><figcaption></figcaption></figure>
 
@@ -43,7 +43,7 @@ A nota fiscal precisa estar baixada em seu computador no formato **.XML.**\
 Caso tenha apenas o **PDF** e não o **XML**, solicite o Fornecedor para enviá-lo em seu e-mail ou peça ajuda à sua Contabilidade.
 {% endhint %}
 
-**3 - Após identificar e selecionar o arquivo, clique em "LER ARQUIVO":**<br>
+**3 - Após identificar e selecionar o arquivo, clique em "LER ARQUIVO":** 
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FfisQkQPsKXrtCEnHgQXk%2Fimage.png?alt=media&amp;token=d96d6714-182f-4700-8e98-f1cddf64ee56" alt=""><figcaption></figcaption></figure>
 
@@ -55,7 +55,7 @@ Caso tenha apenas o **PDF** e não o **XML**, solicite o Fornecedor para enviá-
 **IMPORTANTE:** Caso você trabalhe com margens diferentes para cada produto, será possível definir o valor de venda à cada um deles no momento da validação.
 {% endhint %}
 
-**5 - Após isso, será necessário fazer a**<mark style="background-color:red;">**validação (conferência)**</mark>**de cada peça, para confirmar a entrada desses produtos em seu estoque. Para isso, vá em COMPRAS > NOTA FISCAL > VALIDAR PRODUTOS:**
+**5 - Após isso, será necessário fazer a**<mark style="background-color:red;">**validação (conferência)**</mark>**de cada peça, para confirmar a entrada desses produtos em seu estoque. Para isso, vá em **COMPRAS > NOTA FISCAL > VALIDAR PRODUTOS**:**
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FXcoMqxlpBHHzLZYt33Ky%2Fimage.png?alt=media&amp;token=b016ede5-878c-4cf2-a0eb-877eb87d3714" alt=""><figcaption></figcaption></figure>
 
@@ -77,12 +77,12 @@ Nessa tela, a última coluna, **STATUS,** demonstra a situação atual do produt
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FHRxZU8J9q7Yc3jedzXQJ%2Fimage.png?alt=media&amp;token=4911666c-be7e-4660-8492-f35015e0f2fe" alt=""><figcaption></figcaption></figure>
 
-* <mark style="color:red;">**Leitura e dados pendentes**</mark>: Indica um produto que não teve o código de barras definido e nem as informações de grade, cor , categoria etc. inseridas no produto.
+* <mark style="color:red;">**Leitura e dados pendentes**</mark>: Indica um produto que não teve o código de barras definido e nem as informações de grade, cor, categoria etc. inseridas no produto.
 * <mark style="color:green;">**Produto Lido:**</mark> Indica um produto que teve o código de barras e as demais informações inseridas e já está disponível no estoque.
 * <mark style="color:orange;">**Leitura Pendente:**</mark> Indica um produto que já tem as informações de grade, cor, estoque etc. mas, que ainda não teve um código de barras definido.
 * <mark style="color:blue;">**Dados Pendentes**</mark>: Indica um produto que teve o código de barras lido mas que ainda faltam informações a serem definidas como grade, gênero, cor etc.
 
-**8 - Após definir*****Marca, Gênero, Categoria, Grade e Cor*****nos produtos, partiremos para a**<mark style="background-color:yellow;">**definição do código de barras**</mark>**em cada produto.**
+**8 - Após definir** ***Marca, Gênero, Categoria, Grade e Cor** ***nos produtos, partiremos para a**<mark style="background-color:yellow;">**definição do código de barras**</mark>**em cada produto.**
 
 **O primeiro passo é identificar se o seu xml veio ou não com um código de barras definido:**
 
@@ -112,9 +112,7 @@ Nessa tela, a última coluna, **STATUS,** demonstra a situação atual do produt
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FFu8xV4VOolFwi0FOswxD%2Fimage.png?alt=media&amp;token=5c7829ff-fb57-4bab-bda5-2ec9acb4af1d" alt=""><figcaption></figcaption></figure>
 
-
-
-**Ou ainda, selecionar todos os itens e na aba*****AÇÕES*****, clicar na opção***<mark style="background-color:red;">**"Marcar  a quantidade de todos os produtos como OK**</mark>***" para uma validação em MASSA dos códigos de barras:**
+**Ou ainda, selecionar todos os itens e na aba** ***AÇÕES** ***, clicar na opção***<mark style="background-color:red;">**"Marcar  a quantidade de todos os produtos como OK**</mark>***" para uma validação em MASSA dos códigos de barras:**
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FzgnPoXQazbiHIT69IGeX%2Fimage.png?alt=media&amp;token=b0bc8d1d-80ba-4988-ae9c-0f1a109a4075" alt=""><figcaption></figcaption></figure>
 

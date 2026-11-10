@@ -35,6 +35,6 @@ Painel financeiro, fluxo de caixa, DRE e movimentação das contas bancárias.
 {% endcontent-ref %}
 
 {% content-ref url="apresentacao-da-tela-do-financeiro.md" %}
-[Apresentação da tela do Financeiro](apresentacao-da-tela-do-financeiro.md)
+[Apresentação da tela do financeiro](apresentacao-da-tela-do-financeiro.md)
 {% endcontent-ref %}
 

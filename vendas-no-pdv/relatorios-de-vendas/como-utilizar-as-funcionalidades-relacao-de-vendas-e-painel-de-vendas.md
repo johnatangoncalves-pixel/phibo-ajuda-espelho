@@ -6,7 +6,7 @@ tags:
   - relatorios
 ---
 
-# Como utilizar as funcionalidades relação de vendas e painel de vendas
+# Como usar as funcionalidades relação de vendas e painel de vendas
 
 {% hint style="info" %}
 📝 **Passo a passo em texto em breve.** Enquanto isso, acompanhe o tutorial em vídeo abaixo.

@@ -6,7 +6,7 @@ tags:
   - produtos
 ---
 
-# Como vincular produtos Phibo-TikTok Shop
+# Como vincular produtos do Phibo à TikTok Shop
 
 {% hint style="info" %}
 📝 **Passo a passo em texto em breve.** Enquanto isso, acompanhe o tutorial em vídeo abaixo.

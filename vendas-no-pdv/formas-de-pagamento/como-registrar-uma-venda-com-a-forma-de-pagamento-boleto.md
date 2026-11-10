@@ -5,7 +5,7 @@ tags:
   - vendas
 ---
 
-# Como registrar uma venda com a forma de pagamento boleto
+# Como registrar uma venda paga com boleto
 
 Uma das possíveis formas de pagamento que você pode usar nas vendas é o **boleto**. Mas além de registrar a venda, será necessário fazer a baixa dessas parcelas e  gestão de possíveis acréscimos por atraso. Assista abaixo o passo a passo completo para entender como utilizar essa ferramenta no sistema:
 

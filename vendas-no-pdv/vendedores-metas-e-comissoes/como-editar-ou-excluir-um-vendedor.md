@@ -26,7 +26,7 @@ Caso seja necessário excluir um vendedor, basta clicar no ícone de lixeira, de
 **IMPORTANTE:** Se o vendedor em questão já tiver vendas registradas para ele, não será possível exluir o cadastro por conta dos relatórios do sistema.
 {% endhint %}
 
-Se você quiser desativar o cadastro desse vendedor, basta clicar no ícone verde: <br>
+Se você quiser desativar o cadastro desse vendedor, basta clicar no ícone verde: 
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2Fhev80DsmzFgrItD0EQiH%2Fimage.png?alt=media&amp;token=d963a4ea-be2f-48ed-a273-595bb9bfad3b" alt=""><figcaption></figcaption></figure>
 

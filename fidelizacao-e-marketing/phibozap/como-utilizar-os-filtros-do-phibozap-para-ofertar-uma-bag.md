@@ -1,5 +1,4 @@
 ---
-description: "Veja abaixo um vídeo completo sobre como utilizar os parâmetros do Phibozap para ofertar uma bag:"
 tags:
   - tag: phibozap
     primary: true
@@ -7,7 +6,7 @@ tags:
   - bags
 ---
 
-# Como utilizar os filtros do PhiboZap para ofertar uma bag
+# Como usar os filtros do PhiboZap para ofertar uma bag
 
 {% hint style="info" %}
 📝 **Passo a passo em texto em breve.** Enquanto isso, acompanhe o tutorial em vídeo abaixo.

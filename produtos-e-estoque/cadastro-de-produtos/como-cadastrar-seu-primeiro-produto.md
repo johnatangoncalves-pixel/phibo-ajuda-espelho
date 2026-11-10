@@ -14,7 +14,7 @@ tags:
 [Como cadastrar produtos pelo arquivo da nota de compra (XML)](../../compras-e-fornecedores/entrada-de-notas-de-compra/como-cadastrar-produtos-pelo-xml-da-nota-de-compra.md)
 {% endcontent-ref %}
 
-Primeiramente vá até a aba de COMPRAS > GESTÃO DE ESTOQUE > CADASTRAR PRODUTO:
+Primeiramente vá até a aba de **COMPRAS > GESTÃO DE ESTOQUE > CADASTRAR PRODUTO**:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FhBprIfMlK134BDXyvqMc%2Fimage.png?alt=media&amp;token=7d2cf768-88ba-4d79-bf51-fcf3d7186c13" alt=""><figcaption></figcaption></figure>
 
@@ -52,7 +52,7 @@ Agora coloque a DESCRIÇÃO desta peça. A descrição nada mais é do que o nom
 
 > ATENÇÃO: Não precisa colocar cor ou tamanho na descrição, pois já haverá campos PRÓPRIOS para isso depois...
 
-### Com os dados gerais do produto preenchidos, agora vamos indicar as variações da mercadoria:
+Com os dados gerais do produto preenchidos, agora vamos indicar as variações da mercadoria:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FNYcvUk1wjwJOECxm3VfX%2Fedcf3bc4-9d95-4aaf-8b47-b19b44e89c79.jpg?alt=media&amp;token=ba1eef56-6214-430f-bdb8-dd86dae2b60e" alt=""><figcaption></figcaption></figure>
 

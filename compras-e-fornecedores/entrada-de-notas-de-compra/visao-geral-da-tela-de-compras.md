@@ -8,7 +8,7 @@ tags:
 
 # Visão geral da tela de compras
 
-## Assista o vídeo para ver todas as novidades da aba COMPRAS :
+Assista o vídeo para ver todas as novidades da aba COMPRAS :
 
 {% embed url="<https://www.loom.com/share/60dbc69a199449028a63a30dcdf1fd1a>" %}
 
@@ -28,15 +28,11 @@ Ajuste da margem de venda no XML inserido.
 
 Limpeza do EAN dos produtos com código de barras pré-definido.
 
-
-
 Novos filtros em Listar Nota Fiscal
 
 Agora é possível filtrar por: Fornecedor, número da nota e coleção
 
 Destaque para notas manuais: As notas cadastradas manualmente passaram a possuir identificação específica na listagem:
-
-
 
 Extinção da aba “Duplicatas a Pagar”
 
@@ -46,8 +42,6 @@ Compras > Efetuar Pagamento
 
 Nessa mesma tela foi disponibilizado um novo relatório "Detalhar Compras, consolidando informações que antes estavam distribuídas em outras telas.
 
-
-
 2\. Aba Conferência de Estoque
 
 Novo fluxo de conferência
@@ -56,15 +50,11 @@ Antes: Bastava abrir a tela e iniciar a leitura.
 
 Agora: É necessário clicar em Nova Conferência para iniciar uma contagem.
 
-
-
 3\. Giro de Estoque
 
 Foi disponibilizado um novo indicador por Marca.
 
 Agora também é possível analisar seu giro de estoque por marca e detalhar quais grades mais venderam dentro daquela marca.
-
-
 
 4\. Listar Produtos
 
@@ -72,8 +62,6 @@ Inclusão de Sub filtros Avançados
 
 Agora é possível combinar diversos filtros principalmente para impressão de etiquetas.\
 Também foi adicionada nessa tela a possibilidade de localizar produtos pelo SKU.
-
-
 
 Busca por palavras parciais
 
@@ -88,8 +76,6 @@ Pesquisar apenas "renda"
 Pesquisar apenas "ACDC"
 
 Sem necessidade da descrição completa.
-
-
 
 5\. Cadastro de Fornecedor
 
@@ -118,10 +104,6 @@ Agora tudo foi centralizado em:
 Compras > Parâmetros de Estoque
 
 Agora, você passa a gerenciar todos esses cadastros em uma única tela.
-
-
-
-
 
 ---
 

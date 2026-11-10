@@ -2,7 +2,6 @@
 tags:
   - tag: primeiros-passos
     primary: true
-  - fidelizacao
 ---
 
 # Como funciona o Programa de Recompensas
@@ -17,4 +16,4 @@ tags:
 
 ---
 
-*🔎 Também procurado como: começar, implantação, treinamento, fidelidade, pontos, cashback, recompensa.*
+*🔎 Também procurado como: começar, implantação, treinamento.*

@@ -19,8 +19,6 @@ Depois digite “Painel de controle” e clique em abrir.,
 
 1\.      Acesse a opção EXIBIR IMPRESSORAS E DISPOSITIVOS.
 
-
-
 Selecione a opção de Exibir por: “Categoria” e depois clique em HARDWARE E SONS.
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2F36pv7gm7aZC0ENcJawmf%2Fimage.png?alt=media&amp;token=ccc6a8fc-1454-4e1f-9e63-e327a0509506" alt=""><figcaption></figcaption></figure>

@@ -6,9 +6,9 @@ tags:
   - nota-fiscal
 ---
 
-# Como utilizar a agenda do sistema Phibo
+# Como usar a agenda do sistema Phibo
 
-### Para criar um evento na agenda da Phibo, basta seguir o  passo a passo  '' CLIENTES  >  AGENDA ''
+Para criar um evento na agenda da Phibo, basta seguir o  passo a passo  '' CLIENTES  >  AGENDA ''
 
 {% embed url="<https://www.loom.com/share/fb881dfacba94b95a6cb155775d3e9bc>" %}
 
@@ -21,8 +21,6 @@ Após concluir a tarefa, clique em Feito para marcá-la como concluída.
 5. Para visualizar os compromissos cadastrados, acesse Clientes > Listar Agenda.
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FzpeDZOMz4oQgUGxQFAtb%2Fimage.png?alt=media&amp;token=8e39bac5-885c-4a75-a761-b526261d50b0" alt=""><figcaption></figcaption></figure>
-
-### 
 
 7. Acompanhe o status dos compromissos na tela Listar Agenda ou no painel inicial do sistema, onde são exibidas as tarefas do dia atual.
 

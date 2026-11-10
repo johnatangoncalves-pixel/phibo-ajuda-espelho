@@ -23,7 +23,7 @@ description: "Cartão fidelidade, cashback, WhatsApp e PhiboZap"
 ### [E-mail e WhatsApp](e-mail-e-whatsapp/README.md)
 
 * [Como configurar o E-mail Marketing](e-mail-e-whatsapp/como-configurar-o-e-mail-marketing.md)
-* [Como utilizar a integração com o WhatsApp](e-mail-e-whatsapp/como-utilizar-a-integracao-com-o-whatsapp.md)
+* [Como usar a integração com o WhatsApp](e-mail-e-whatsapp/como-utilizar-a-integracao-com-o-whatsapp.md)
 * [Como personalizar as mensagens de WhatsApp](e-mail-e-whatsapp/como-personalizar-as-mensagens-de-whatsapp.md)
 * [Erro ao enviar mensagem no WhatsApp: o que fazer](e-mail-e-whatsapp/erro-ao-enviar-mensagem-no-whatsapp-o-que-fazer.md)
 
@@ -36,12 +36,12 @@ description: "Cartão fidelidade, cashback, WhatsApp e PhiboZap"
 * [Como criar mensagens no PhiboZap](phibozap/como-criar-mensagens-no-phibozap.md)
 * [Como criar listas no PhiboZap](phibozap/como-criar-listas-no-phibozap.md)
 * [Como criar campanhas no PhiboZap](phibozap/como-criar-campanhas-no-phibozap.md)
-* [Envio automático da nota fiscal e Cupom de Venda após a conclusão da venda](phibozap/envio-automatico-da-nota-fiscal-e-cupom-de-venda-apos-a-conclusao-da-venda.md)
+* [Envio automático da nota fiscal e do cupom depois da venda](phibozap/envio-automatico-da-nota-fiscal-e-cupom-de-venda-apos-a-conclusao-da-venda.md)
 * [Envio do cartão fidelidade automaticamente pelo PhiboZap](phibozap/envio-do-cartao-fidelidade-automaticamente-pelo-phibozap.md)
 * [Envio recorrente para clientes do cartão fidelidade que não compram há X dias](phibozap/envio-recorrente-para-clientes-do-cartao-fidelidade-que-nao-compram-ha-x-dias.md)
 * [Como criar campanha de cobrança automática no PhiboZap](phibozap/como-criar-campanha-de-cobranca-automatica-no-phibozap.md)
-* [Como utilizar os filtros do PhiboZap para ofertar uma bag](phibozap/como-utilizar-os-filtros-do-phibozap-para-ofertar-uma-bag.md)
+* [Como usar os filtros do PhiboZap para ofertar uma bag](phibozap/como-utilizar-os-filtros-do-phibozap-para-ofertar-uma-bag.md)
 * [Como enviar o comprovante de pagamento de parcela no crediário pelo PhiboZap](phibozap/como-enviar-o-comprovante-de-pagamento-de-parcela-no-crediario-pelo-phibozap.md)
 * [Como criar uma Campanha em Massa no PhiboZap](phibozap/como-criar-uma-campanha-em-massa-no-phibozap.md)
-* [Como utilizar as mensagens dinâmicas no PhiboZap](phibozap/como-utilizar-as-mensagens-dinamicas-no-phibozap.md)
+* [Como usar as mensagens dinâmicas no PhiboZap](phibozap/como-utilizar-as-mensagens-dinamicas-no-phibozap.md)
 

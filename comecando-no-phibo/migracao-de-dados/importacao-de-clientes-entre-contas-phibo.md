@@ -12,7 +12,7 @@ tags:
 📝 **Passo a passo em texto em breve.** Enquanto isso, acompanhe o tutorial em vídeo abaixo.
 {% endhint %}
 
-### Para transmitir os dados dos CLIENTES cadstrados em uma conta, para outra conta Phibo, basta seguir aa orientação completa do vídeo abaixo:
+Para transmitir os dados dos CLIENTES cadstrados em uma conta, para outra conta Phibo, basta seguir aa orientação completa do vídeo abaixo:
 
 {% embed url="<https://www.loom.com/share/36b40393ea584cca8063d9a81ac0c7fc?sid=8a7a45f0-bac2-47c7-90d3-6a16609fe1d7>" %}
 

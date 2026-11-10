@@ -2,13 +2,16 @@
 tags:
   - tag: primeiros-passos
     primary: true
+  - maquininha
   - fidelizacao
+  - descontos
+  - vendas
 ---
 
-# Passo 6
+# Passo 6 – Vendas, descontos e cartão fidelidade
 
 {% content-ref url="../../vendas-no-pdv/fazer-uma-venda/como-fazer-uma-venda.md" %}
-[Como fazer uma Venda?](../../vendas-no-pdv/fazer-uma-venda/como-fazer-uma-venda.md)
+[Como fazer uma venda](../../vendas-no-pdv/fazer-uma-venda/como-fazer-uma-venda.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../crediario/crediario/como-desfazer-um-recebimento-no-crediario.md" %}
@@ -25,4 +28,4 @@ tags:
 
 ---
 
-*🔎 Também procurado como: começar, implantação, treinamento, fidelidade, pontos, cashback, recompensa.*
+*🔎 Também procurado como: começar, implantação, treinamento, máquina de cartão, maquininha, cartão de crédito, cartão de débito, TEF, fidelidade, pontos, cashback, recompensa, desconto, promoção, cupom de desconto, liquidação.*

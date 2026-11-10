@@ -1,5 +1,4 @@
 ---
-description: "Veja a seguir o tutorial sobre como fazer edições e/ou exclusões de suas peças da nova maneira no sistema:"
 tags:
   - tag: produtos
     primary: true
@@ -11,7 +10,7 @@ tags:
 
 Editando ou Excluindo um Produto
 
-Caso você queira editar ou excluir alguma mercadoria, vá em COMPRAS > GESTÃO DE ESTOQUE > CADASTRAR PRODUTO. Em seguida, localize o produto buscando pelo Código de Barras EAN, código referência ou pela descrição (nome da peça):
+Caso você queira editar ou excluir alguma mercadoria, vá em **COMPRAS > GESTÃO DE ESTOQUE > CADASTRAR PRODUTO**. Em seguida, localize o produto buscando pelo Código de Barras EAN, código referência ou pela descrição (nome da peça):
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2F1Dj1g5jSRueqSHHXMLXa%2Fimage.png?alt=media&amp;token=eaa4f426-6b35-4575-8332-51d1bf97543f" alt=""><figcaption></figcaption></figure>
 

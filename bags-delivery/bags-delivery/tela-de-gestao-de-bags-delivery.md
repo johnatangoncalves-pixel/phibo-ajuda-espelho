@@ -6,7 +6,7 @@ tags:
   - vendas
 ---
 
-# Tela de gestão de Bags Delivery
+# Tela de gestão de bags
 
 {% hint style="info" %}
 📝 **Passo a passo em texto em breve.** Enquanto isso, acompanhe o tutorial em vídeo abaixo.

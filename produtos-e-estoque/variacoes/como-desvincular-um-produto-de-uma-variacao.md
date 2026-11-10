@@ -1,5 +1,4 @@
 ---
-description: "Assista abaixo o vídeo e veja o passo a passo completo de como remover uma variação específica de um produto cadastrado:"
 tags:
   - tag: produtos
     primary: true
@@ -9,7 +8,7 @@ tags:
 
 {% embed url="<https://www.loom.com/share/6a5e8d63fa5b43ef8a67822151caf322>" %}
 
-1- Acesse COMPRAS > GESTAO DE ESTOQUE > CADASTRAR PRODUTO, identifique o produto em questão e clique na caixinha de seleção da peça que deseja desvincular:
+1- Acesse **COMPRAS > GESTAO DE ESTOQUE > CADASTRAR PRODUTO**, identifique o produto em questão e clique na caixinha de seleção da peça que deseja desvincular:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FpU6rP1YIgioSY4iQPRfq%2Fimage.png?alt=media&amp;token=c0a81c4e-04b7-4ed5-bca4-3a59b7694c65" alt=""><figcaption></figcaption></figure>
 

@@ -7,7 +7,7 @@ tags:
 
 # Como listar as vendas de cada vendedor por período
 
-Para consultar os detalhes das vendas feitas por um vendedor, você poderá ir em VENDAS > VENDEDORES > LISTAR VENDAS:
+Para consultar os detalhes das vendas feitas por um vendedor, você poderá ir em **VENDAS > VENDEDORES > LISTAR VENDAS**:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FdKkDVqprUEHeOH9xadNh%2Fimage.png?alt=media&amp;token=7dfab88c-c49a-4cef-90b3-3016492fea8a" alt=""><figcaption></figcaption></figure>
 

@@ -1,25 +1,24 @@
 ---
-description: "Aprenda no vídeo abaixo como fazer uma venda por Bag Delivery no sistema Phibo:"
 tags:
   - tag: bags
     primary: true
   - vendas
 ---
 
-# Como fazer uma venda por Bag Delivery
+# Como vender por Bag Delivery
 
 {% hint style="info" %}
 🎬 **Vídeo em atualização.** Estamos regravando o vídeo deste tutorial e em breve ele estará disponível aqui.
 {% endhint %}
 
-## Você também pode assistir vídeos de cada uma das partes se quiser:
+Você também pode assistir vídeos de cada uma das partes se quiser:
 
 {% content-ref url="como-montar-uma-bag-delivery-e-emitir-romaneio.md" %}
-[Como montar uma Bag Delivery e emitir romaneio](como-montar-uma-bag-delivery-e-emitir-romaneio.md)
+[Como montar uma bag e imprimir o romaneio](como-montar-uma-bag-delivery-e-emitir-romaneio.md)
 {% endcontent-ref %}
 
 {% content-ref url="como-editar-uma-bag-delivery.md" %}
-[Como editar uma Bag Delivery](como-editar-uma-bag-delivery.md)
+[Como editar uma bag](como-editar-uma-bag-delivery.md)
 {% endcontent-ref %}
 
 {% content-ref url="como-retornar-as-pecas-de-uma-bag.md" %}

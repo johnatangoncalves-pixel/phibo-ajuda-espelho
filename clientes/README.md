@@ -18,5 +18,5 @@ description: "Cadastro, filtros e painel de clientes"
 
 * [Como listar seus clientes](listagem-e-filtros/como-listar-seus-clientes.md)
 * [Como visualizar os clientes que compraram determinada grade, marca, cor ou categoria](listagem-e-filtros/como-visualizar-os-clientes-que-compraram-determinada-grade-marca-cor-ou-categor.md)
-* [Painel de Clientes](listagem-e-filtros/painel-de-clientes.md)
+* [Painel de clientes](listagem-e-filtros/painel-de-clientes.md)
 

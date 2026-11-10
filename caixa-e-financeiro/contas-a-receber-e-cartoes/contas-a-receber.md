@@ -1,5 +1,4 @@
 ---
-description: "Aprenda a lançar CONTAS A RECEBER no Phibo através do vídeo abaixo:"
 tags:
   - tag: maquininha
     primary: true
@@ -14,10 +13,8 @@ tags:
 
 {% embed url="<https://youtu.be/mfQJUAtQBBk>" %}
 
-
-
 {% content-ref url="../../vendas-no-pdv/fazer-uma-venda/como-fazer-uma-venda.md" %}
-[Como fazer uma Venda?](../../vendas-no-pdv/fazer-uma-venda/como-fazer-uma-venda.md)
+[Como fazer uma venda](../../vendas-no-pdv/fazer-uma-venda/como-fazer-uma-venda.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../crediario/crediario/como-registrar-uma-venda-no-crediario.md" %}

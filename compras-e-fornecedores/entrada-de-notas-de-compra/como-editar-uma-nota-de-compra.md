@@ -1,5 +1,4 @@
 ---
-description: "Veja abaixo o passo a passo completo para editar as duplicatas do fornecedor:"
 tags:
   - tag: compras
     primary: true
@@ -15,7 +14,7 @@ tags:
 
 {% embed url="<https://www.loom.com/share/b102aed4b6ea4cb2a2a3e86bb240c7ae>" %}
 
-1 – Acesse COMPRAS > NOTA FISCAL > LISTAR NF
+1 – Acesse **COMPRAS > NOTA FISCAL > LISTAR NF**
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FM3n4oxlN4Ov883mwFy4c%2Fimage.png?alt=media&amp;token=a6f27bf1-ab08-48cc-b203-0028c2a0b00c" alt=""><figcaption></figcaption></figure>
 

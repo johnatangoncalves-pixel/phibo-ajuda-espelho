@@ -13,7 +13,7 @@ Este guia foi desenvolvido para ajudá-lo a resolver problemas de impressão em 
 
 {% embed url="<https://www.loom.com/share/6969bd3494174bda8eec874f5a532079>" %}
 
-### <mark style="background-color:yellow;">**Etapa 1: Diagnóstico da Impressora no Windows**</mark>
+<mark style="background-color:yellow;">**Etapa 1: Diagnóstico da Impressora no Windows**</mark>
 
 O primeiro passo é isolar o problema. Precisamos saber se o Windows está conseguindo se comunicar com a impressora, independentemente do sistema Phibo.
 
@@ -31,7 +31,7 @@ Se você estiver no Windows 11, localize sua impressora térmica (ex: Epson TM-T
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2Fdpp9er4FmJ2We0OSbP0a%2Fimage.png?alt=media&amp;token=d098adc9-dcda-4b3e-8dfa-2633282f8cd9" alt=""><figcaption></figcaption></figure>
 
-#### 1.3 Realizando o Teste (Interface Clássica/Painel de Controle)
+1.3 Realizando o Teste (Interface Clássica/Painel de Controle)
 
 Caso prefira ou esteja em uma versão anterior do Windows:
 
@@ -49,7 +49,7 @@ Na aba "Geral", clique no botão "**Imprimir página de teste**".
 
 <mark style="background-color:$success;">**Resultado Esperado:**</mark>**Se a impressora emitir o papel de teste, a comunicação física e o driver estão perfeitos. Prossiga para a Etapa 2.**
 
-### <mark style="background-color:yellow;">Etapa 2: Verificação do Serviço de Impressão (Phibo Bot)</mark>
+<mark style="background-color:yellow;">Etapa 2: Verificação do Serviço de Impressão (Phibo Bot)</mark>
 
 O PhiboBoot é o "tradutor" que recebe as vendas do sistema e as entrega para a impressora do Windows. Ele precisa estar sempre "vivo" e em execução.
 
@@ -69,7 +69,7 @@ Aguarde cerca de um minuto. Uma notificação aparecerá confirmando: "**Boot de
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FO9uTDJeK2qNJn8dxchvG%2Fimage.png?alt=media&amp;token=a34cb5be-e840-42be-9676-5ade6db7b3c5" alt=""><figcaption></figcaption></figure>
 
-### <mark style="background-color:yellow;">Etapa 3: Parametrização no Sistema Phibo</mark>
+<mark style="background-color:yellow;">Etapa 3: Parametrização no Sistema Phibo</mark>
 
 Agora que a impressora e o serviço estão funcionando, precisamos garantir que o sistema Phibo saiba para qual impressora enviar os cupons.
 
@@ -103,11 +103,11 @@ O nome escrito aqui deve ser exatamente igual ao nome que aparece no Windows (vi
 
 **IMPORTANTE**: Após qualquer alteração, clique sempre no botão "**Salvar**".
 
-#### <mark style="background-color:yellow;">Teste Final: Imprimindo um Comprovante de Venda</mark>
+<mark style="background-color:yellow;">Teste Final: Imprimindo um Comprovante de Venda</mark>
 
 Para testar se tudo deu certo:
 
-Vá na sua lista de vendas concluídas (VENDAS > RELAÇÃO DE VENDAS).
+Vá na sua lista de vendas concluídas (**VENDAS > RELAÇÃO DE VENDAS**).
 
 Localize a venda desejada e clique no ícone da impressora ou da folhinha:
 

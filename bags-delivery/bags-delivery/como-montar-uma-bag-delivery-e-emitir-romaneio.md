@@ -3,9 +3,10 @@ tags:
   - tag: bags
     primary: true
   - vendas
+  - impressora
 ---
 
-# Como montar uma Bag Delivery e emitir romaneio
+# Como montar uma bag e imprimir o romaneio
 
 {% hint style="danger" %}
 **IMPORTANTE:** Só de registrar a venda, não significa que as peças **não vendidas** voltarão pro estoque automaticamente. \
@@ -19,4 +20,4 @@ Segue o vídeo PASSO A PASSO de como montar uma bag delivery e emitir romaneio:
 
 ---
 
-*🔎 Também procurado como: bag, condicional, malinha, sacola, venda, vender, PDV, frente de caixa.*
+*🔎 Também procurado como: bag, condicional, malinha, sacola, venda, vender, PDV, frente de caixa, impressora, imprimir, impressão.*

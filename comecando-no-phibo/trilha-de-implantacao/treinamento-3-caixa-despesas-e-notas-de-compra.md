@@ -15,7 +15,7 @@ tags:
 {% endcontent-ref %}
 
 {% content-ref url="../../caixa-e-financeiro/caixa-diario/como-fazer-abertura-suprimento-e-sangria-de-caixa.md" %}
-[Como fazer Aberturas, Suprimentos e Sangrias de Caixa no Phibo](../../caixa-e-financeiro/caixa-diario/como-fazer-abertura-suprimento-e-sangria-de-caixa.md)
+[Como abrir o caixa, colocar troco e retirar dinheiro (sangria)](../../caixa-e-financeiro/caixa-diario/como-fazer-abertura-suprimento-e-sangria-de-caixa.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../caixa-e-financeiro/despesas-e-contas-a-pagar/como-cadastrar-uma-despesa-2.md" %}
@@ -27,7 +27,7 @@ tags:
 {% endcontent-ref %}
 
 {% content-ref url="../../caixa-e-financeiro/despesas-e-contas-a-pagar/diferenca-entre-despesas-e-compras.md" %}
-[Diferença entre Despesas e Compras](../../caixa-e-financeiro/despesas-e-contas-a-pagar/diferenca-entre-despesas-e-compras.md)
+[Diferença entre despesas e compras](../../caixa-e-financeiro/despesas-e-contas-a-pagar/diferenca-entre-despesas-e-compras.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../compras-e-fornecedores/entrada-de-notas-de-compra/como-cadastrar-uma-nota-de-compra-manualmente.md" %}

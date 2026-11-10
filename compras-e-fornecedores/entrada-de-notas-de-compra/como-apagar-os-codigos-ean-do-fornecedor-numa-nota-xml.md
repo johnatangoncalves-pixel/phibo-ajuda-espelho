@@ -13,9 +13,7 @@ Veja o vídeo com a orientação e passo a passo completo:
 
 {% embed url="<https://www.loom.com/share/845c6b70682a485887767762b651c8fa>" %}
 
-
-
-1- Acesse a tela COMPRAS > NOTA FISCAL > LISTAR NF
+1- Acesse a tela **COMPRAS > NOTA FISCAL > LISTAR NF**
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FskxxAq2a88TdUjTAkhqQ%2Fimage.png?alt=media&amp;token=b1ca3591-03ab-4ae1-b24e-8d87a4fe4204" alt=""><figcaption></figcaption></figure>
 

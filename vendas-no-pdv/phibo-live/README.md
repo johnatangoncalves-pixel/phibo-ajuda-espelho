@@ -15,7 +15,7 @@ Venda ao vivo nas redes sociais com o Phibo Live.
 {% endcontent-ref %}
 
 {% content-ref url="como-utilizar-o-phibo-live.md" %}
-[Como utilizar o Phibo Live](como-utilizar-o-phibo-live.md)
+[Como usar o Phibo Live](como-utilizar-o-phibo-live.md)
 {% endcontent-ref %}
 
 {% content-ref url="como-finalizar-as-vendas-do-phibo-live.md" %}

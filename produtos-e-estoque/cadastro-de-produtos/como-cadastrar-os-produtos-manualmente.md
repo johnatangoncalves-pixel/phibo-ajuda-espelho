@@ -1,5 +1,4 @@
 ---
-description: "Para aprender como cadastrar os seus primeiros produtos manualmente, assista o vídeo abaixo:"
 tags:
   - tag: produtos
     primary: true

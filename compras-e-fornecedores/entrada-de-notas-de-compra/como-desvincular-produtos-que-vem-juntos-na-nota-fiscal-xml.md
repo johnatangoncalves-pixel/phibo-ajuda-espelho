@@ -1,5 +1,4 @@
 ---
-description: "Assista abaixo o vídeo e veja o passo a passo completo de como remover uma variação específica de um produto cadastrado:"
 tags:
   - tag: compras
     primary: true

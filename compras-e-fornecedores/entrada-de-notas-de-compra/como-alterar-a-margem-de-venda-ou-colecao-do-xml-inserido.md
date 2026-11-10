@@ -1,5 +1,4 @@
 ---
-description: "Veja o passo a passo abaixo para entender como alterar a margem de venda ou coleção de um xml inserido no sistema:"
 tags:
   - tag: compras
     primary: true

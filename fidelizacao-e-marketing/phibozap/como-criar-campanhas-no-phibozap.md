@@ -1,5 +1,4 @@
 ---
-description: "Assista o vídeo abaixo para aprender a criar mensagens no Phibozap:"
 tags:
   - tag: phibozap
     primary: true
@@ -14,7 +13,7 @@ tags:
 
 {% embed url="<https://youtu.be/0rZCUpqYwjQ>" %}
 
-## Aulão de estratégias de mensagens através do PhiboZap:
+Aulão de estratégias de mensagens através do PhiboZap:
 
 {% embed url="<https://youtu.be/kazRl6HCabc>" %}
 

@@ -8,7 +8,7 @@ description: "Nuvemshop, Bagy, Tray, TikTok Shop e logística"
 
 ## O que você quer fazer?
 
-### [Vender no site e na loja física](e-commerce-geral/README.md)
+[Vender no site e na loja física](e-commerce-geral/README.md)
 
 * [Como realizar vendas e separação estoque Phibo/E-commerces variados](e-commerce-geral/como-realizar-vendas-e-separacao-estoque-phibo-e-commerces-variados.md)
 * [Como reservar parte do estoque para o site e para loja física](e-commerce-geral/como-reservar-parte-do-estoque-para-o-site-e-para-loja-fisica.md)
@@ -47,7 +47,7 @@ description: "Nuvemshop, Bagy, Tray, TikTok Shop e logística"
 
 * [Visão geral da integração TikTok Shop](tiktok-shop/visao-geral-da-integracao-tiktok-shop.md)
 * [Como integrar o Phibo com a TikTok Shop](tiktok-shop/integracao-nativa-tiktok-shop-com-phibo.md)
-* [Como vincular produtos Phibo-TikTok Shop](tiktok-shop/como-vincular-produtos-phibo-tiktok-shop.md)
+* [Como vincular produtos do Phibo à TikTok Shop](tiktok-shop/como-vincular-produtos-phibo-tiktok-shop.md)
 
 ### [Envios e fretes](logistica-e-fretes/README.md)
 

@@ -9,7 +9,7 @@ tags:
 
 # Como fazer uma troca com desconto
 
-## Segue o vídeo com o PASSO A PASSO para fazer uma troca onde houve DESCONTO:
+Segue o vídeo com o PASSO A PASSO para fazer uma troca onde houve DESCONTO:
 
 {% embed url="<https://www.loom.com/share/ab478aac06f841a99da866b6a8abad5b?sid=201f1b01-c17f-419f-8b46-936a29f9963f>" %}
 

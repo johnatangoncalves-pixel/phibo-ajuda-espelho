@@ -39,7 +39,7 @@ Automação de mensagens no WhatsApp: listas, campanhas, cobranças e envios aut
 {% endcontent-ref %}
 
 {% content-ref url="envio-automatico-da-nota-fiscal-e-cupom-de-venda-apos-a-conclusao-da-venda.md" %}
-[Envio automático da nota fiscal e Cupom de Venda após a conclusão da venda](envio-automatico-da-nota-fiscal-e-cupom-de-venda-apos-a-conclusao-da-venda.md)
+[Envio automático da nota fiscal e do cupom depois da venda](envio-automatico-da-nota-fiscal-e-cupom-de-venda-apos-a-conclusao-da-venda.md)
 {% endcontent-ref %}
 
 {% content-ref url="envio-do-cartao-fidelidade-automaticamente-pelo-phibozap.md" %}
@@ -55,7 +55,7 @@ Automação de mensagens no WhatsApp: listas, campanhas, cobranças e envios aut
 {% endcontent-ref %}
 
 {% content-ref url="como-utilizar-os-filtros-do-phibozap-para-ofertar-uma-bag.md" %}
-[Como utilizar os filtros do PhiboZap para ofertar uma bag](como-utilizar-os-filtros-do-phibozap-para-ofertar-uma-bag.md)
+[Como usar os filtros do PhiboZap para ofertar uma bag](como-utilizar-os-filtros-do-phibozap-para-ofertar-uma-bag.md)
 {% endcontent-ref %}
 
 {% content-ref url="como-enviar-o-comprovante-de-pagamento-de-parcela-no-crediario-pelo-phibozap.md" %}
@@ -67,6 +67,6 @@ Automação de mensagens no WhatsApp: listas, campanhas, cobranças e envios aut
 {% endcontent-ref %}
 
 {% content-ref url="como-utilizar-as-mensagens-dinamicas-no-phibozap.md" %}
-[Como utilizar as mensagens dinâmicas no PhiboZap](como-utilizar-as-mensagens-dinamicas-no-phibozap.md)
+[Como usar as mensagens dinâmicas no PhiboZap](como-utilizar-as-mensagens-dinamicas-no-phibozap.md)
 {% endcontent-ref %}
 

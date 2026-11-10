@@ -15,6 +15,6 @@ Acompanhe as vendas no Painel e na Relação de vendas.
 {% endcontent-ref %}
 
 {% content-ref url="como-utilizar-as-funcionalidades-relacao-de-vendas-e-painel-de-vendas.md" %}
-[Como utilizar as funcionalidades relação de vendas e painel de vendas](como-utilizar-as-funcionalidades-relacao-de-vendas-e-painel-de-vendas.md)
+[Como usar as funcionalidades relação de vendas e painel de vendas](como-utilizar-as-funcionalidades-relacao-de-vendas-e-painel-de-vendas.md)
 {% endcontent-ref %}
 

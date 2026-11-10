@@ -17,33 +17,33 @@ Caso o seu cliente devolva um produto adquirido e haja uma NFE ou Cupom Fiscal e
 
 [#id-3-situacao-o-cliente-comprou-varias-produtos-e-esta-devolvendo-apenas-algumas-pecas-e-vai-pagar-no-c](#id-3-situacao-o-cliente-comprou-varias-produtos-e-esta-devolvendo-apenas-algumas-pecas-e-vai-pagar-no-c "mention")
 
-## 1ª Situação: O cliente está devolvendo todos os produtos da compra.
+1ª Situação: O cliente está devolvendo todos os produtos da compra.
 
 Se o cliente estiver devolvendo todas as peças da venda,  basta excluir a venda que automaticamente as peças retornam pro seu estoque e  o movimento financeiro atrelado à essa transação é desfeito.
 
-Para excluir a venda, basta acessar VENDAS > RELAÇÃO DE VENDAS > DIA DA VENDA , buscar pela venda , clicar no ícone da lixeirinha e confirmar a exclusão.
+Para excluir a venda, basta acessar **VENDAS > RELAÇÃO DE VENDAS > DIA DA VENDA**, buscar pela venda, clicar no ícone da lixeirinha e confirmar a exclusão.
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2Flylr4qiC6UGwBL9FD7o5%2Fimage.png?alt=media&amp;token=ff7a67b1-4f81-4723-af72-c1e120f35e3b" alt=""><figcaption></figcaption></figure>
 
 Em seguida você deve emitir uma **Nota de Devolução** do Cupom Fiscal ou NFE  emitidos.
 
-Para emitir a nota de devolução de devolução de venda siga a orientação abaixo:<br>
+Para emitir a nota de devolução de devolução de venda siga a orientação abaixo: 
 
 {% content-ref url="como-gerar-uma-nota-de-devolucao-de-uma-venda.md" %}
-[Ver artigo](como-gerar-uma-nota-de-devolucao-de-uma-venda.md)
+[Como gerar uma Nota de Devolução de uma venda](como-gerar-uma-nota-de-devolucao-de-uma-venda.md)
 {% endcontent-ref %}
 
 {% hint style="danger" %}
-ATENÇÃO ! A emisão da NFE de devolução também retorna o produto para o seu estoque  (o que fará com que ele tenha retornado 2x) portanto, ao finalizar o procedimento acesse COMPRAS > GESTAO DE ESTOQUE > CADASTRAR PRODUTO NOVO, confira e ajuste a quantidade do produto devolvido.
+ATENÇÃO ! A emisão da NFE de devolução também retorna o produto para o seu estoque  (o que fará com que ele tenha retornado 2x) portanto, ao finalizar o procedimento acesse **COMPRAS > GESTAO DE ESTOQUE > CADASTRAR PRODUTO NOVO**, confira e ajuste a quantidade do produto devolvido.
 {% endhint %}
 
-## 2ª Situação: O cliente levou vários produtos, mas está devolvendo somente uma ou algumas peças e vai ficar com um crédito
+2ª Situação: O cliente levou vários produtos, mas está devolvendo somente uma ou algumas peças e vai ficar com um crédito
 
-Caso o seu cliente não esteja devolvendo todas as peças que ele comprou , você precisará fazer uma troca, porém utilizando o Produto Padrão na aba ITENS VENDA. Isso vai registrar no sistema o retorno da mercadoria devolvida, porém não vai registrar saída pra nenhuma de suas peças em estoque. E para o cupom fiscal emitido, você deve registrar a nota de devolução da venda, que explicaremos melhor a seguir.\
+Caso o seu cliente não esteja devolvendo todas as peças que ele comprou, você precisará fazer uma troca, porém utilizando o Produto Padrão na aba ITENS VENDA. Isso vai registrar no sistema o retorno da mercadoria devolvida, porém não vai registrar saída pra nenhuma de suas peças em estoque. E para o cupom fiscal emitido, você deve registrar a nota de devolução da venda, que explicaremos melhor a seguir.\
 \
-Resumidamente, o Produto Padrão é o cadastro de um produto fictício. Ou seja, **ele existe somente no sistema** e não tem fisicamente no seu estoque e serve para testes ou situações que precise acrescentar valor na venda (como essa). Portanto, ao utilizá-lo, não causará diferença na quantidade de nenhuma de suas peças de verdade. <br>
+Resumidamente, o Produto Padrão é o cadastro de um produto fictício. Ou seja, **ele existe somente no sistema** e não tem fisicamente no seu estoque e serve para testes ou situações que precise acrescentar valor na venda (como essa). Portanto, ao utilizá-lo, não causará diferença na quantidade de nenhuma de suas peças de verdade. 
 
-Para registrar esse tipo de troca, onde o cliente não está levando nenhuma outra mercadoria, vá em VENDAS > PDV > selecione o botão TROCA:<br>
+Para registrar esse tipo de troca, onde o cliente não está levando nenhuma outra mercadoria, vá em **VENDAS > PDV**> selecione o botão TROCA: 
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2F4rbHqngyOYChVYGyL96q%2Ftroca%201.jpg?alt=media&amp;token=7623b7d0-8681-43d0-89ee-f6667d3c91c8" alt=""><figcaption></figcaption></figure>
 
@@ -77,27 +77,27 @@ Feito isso, basta criar um cupom de desconto para registrar o crédito do client
 E para tratar a nota já emitida, você deverá registrar uma nota de devolução de venda para retornar fiscalmente os produtos devolvidos para o seu estoque.
 
 {% content-ref url="como-gerar-uma-nota-de-devolucao-de-uma-venda.md" %}
-[Ver artigo](como-gerar-uma-nota-de-devolucao-de-uma-venda.md)
+[Como gerar uma Nota de Devolução de uma venda](como-gerar-uma-nota-de-devolucao-de-uma-venda.md)
 {% endcontent-ref %}
 
 {% hint style="danger" %}
-ATENÇÃO ! A emisão da NFE de devolução também retorna o produto para o seu estoque  (o que fará com que ele tenha retornado 2x) portanto, ao finalizar o procedimento acesse COMPRAS > GESTAO DE ESTOQUE > CADASTRAR PRODUTO NOVO, confira e ajuste a quantidade do produto devolvido.
+ATENÇÃO ! A emisão da NFE de devolução também retorna o produto para o seu estoque  (o que fará com que ele tenha retornado 2x) portanto, ao finalizar o procedimento acesse **COMPRAS > GESTAO DE ESTOQUE > CADASTRAR PRODUTO NOVO**, confira e ajuste a quantidade do produto devolvido.
 {% endhint %}
 
-## 3° Situação: O cliente comprou várias produtos e está devolvendo apenas algumas peças e vai pagar no crediário
+3° Situação: O cliente comprou várias produtos e está devolvendo apenas algumas peças e vai pagar no crediário
 
 Caso o cliente tenha comprado no crediário, nenhuma das opções acima te atenderá, pois elas não ajustarão o valor das parcelas devidas pelo cliente.
 
-Para essas situações, o ideal é excluir a venda ( em VENDAS > RELAÇÃO DE VENDAS > DIA DA VENDA e clicar na lixeira) para que as parcelas em aberto sejam excluidas e lançar a venda novamente em VENDAS > PDV REGISTRAR VENDA incluindo apenas as peças que a cliente ficou.
+Para essas situações, o ideal é excluir a venda ( em **VENDAS > RELAÇÃO DE VENDAS > DIA DA VENDA** e clicar na lixeira) para que as parcelas em aberto sejam excluidas e lançar a venda novamente em **VENDAS > PDV REGISTRAR VENDA** incluindo apenas as peças que a cliente ficou.
 
 Feito isso, basta emitir uma nota de devolução para informar fiscalmente o retorno desses produtos específicos ao seu estoque.
 
 {% content-ref url="como-gerar-uma-nota-de-devolucao-de-uma-venda.md" %}
-[Ver artigo](como-gerar-uma-nota-de-devolucao-de-uma-venda.md)
+[Como gerar uma Nota de Devolução de uma venda](como-gerar-uma-nota-de-devolucao-de-uma-venda.md)
 {% endcontent-ref %}
 
 {% hint style="danger" %}
-ATENÇÃO ! A emisão da NFE de devolução também retorna o produto para o seu estoque  (o que fará com que ele tenha retornado 2x) portanto, ao finalizar o procedimento acesse COMPRAS > GESTAO DE ESTOQUE > CADASTRAR PRODUTO NOVO, confira e ajuste a quantidade do produto devolvido.
+ATENÇÃO ! A emisão da NFE de devolução também retorna o produto para o seu estoque  (o que fará com que ele tenha retornado 2x) portanto, ao finalizar o procedimento acesse **COMPRAS > GESTAO DE ESTOQUE > CADASTRAR PRODUTO NOVO**, confira e ajuste a quantidade do produto devolvido.
 {% endhint %}
 
 ---

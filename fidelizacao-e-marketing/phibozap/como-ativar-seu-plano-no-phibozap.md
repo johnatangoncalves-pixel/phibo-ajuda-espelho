@@ -11,7 +11,7 @@ tags:
 📝 **Passo a passo em texto em breve.** Enquanto isso, acompanhe o tutorial em vídeo abaixo.
 {% endhint %}
 
-#### Assista o vídeo abaixo para visualizar como ativar seu plano no PhiboZap e fazer seu primeiro acesso:
+Assista o vídeo abaixo para visualizar como ativar seu plano no PhiboZap e fazer seu primeiro acesso:
 
 {% embed url="<https://www.loom.com/share/e416cf5ce90a4a3e9abe9ba1c41ed2e7>" %}
 

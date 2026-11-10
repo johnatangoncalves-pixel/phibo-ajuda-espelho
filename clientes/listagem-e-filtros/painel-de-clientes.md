@@ -5,13 +5,13 @@ tags:
   - relatorios
 ---
 
-# Painel de Clientes
+# Painel de clientes
 
-## Entenda no vídeo a seguir como analisar a tela do Painel de Clientes
+Entenda no vídeo a seguir como analisar a tela do Painel de Clientes
 
 {% embed url="<https://www.loom.com/share/5b2e1d89d73a44f893c2ad95c91add7f?sid=920db44a-ce4e-4b78-bb92-0d7a92233732>" %}
 
-Para fazer a análise, vá em CLIENTES > PAINEL DE CLIENTES (NOVO)
+Para fazer a análise, vá em **CLIENTES > PAINEL DE CLIENTES**(NOVO)
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2F5vtlg8prSfNT0dUPamy3%2Fimage.png?alt=media&amp;token=9d5a33aa-17f5-466d-a71d-272dc59ba8d1" alt=""><figcaption></figcaption></figure>
 

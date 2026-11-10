@@ -30,6 +30,6 @@ Cadastre vendedores, defina metas e acompanhe as comissões.
 {% endcontent-ref %}
 
 {% content-ref url="como-cadastrar-meta-de-vendas-no-sistema-phibo.md" %}
-[Como cadastrar meta de vendas no Sistema Phibo](como-cadastrar-meta-de-vendas-no-sistema-phibo.md)
+[Como cadastrar a meta de vendas](como-cadastrar-meta-de-vendas-no-sistema-phibo.md)
 {% endcontent-ref %}
 

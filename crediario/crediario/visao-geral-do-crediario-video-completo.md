@@ -5,7 +5,7 @@ tags:
   - vendas
 ---
 
-# Visão geral do crediário (vídeo completo)
+# Visão geral do crediário (vídeo)
 
 {% hint style="info" %}
 📝 **Passo a passo em texto em breve.** Enquanto isso, acompanhe o tutorial em vídeo abaixo.

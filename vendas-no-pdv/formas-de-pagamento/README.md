@@ -19,11 +19,11 @@ Maquininhas, Pix, boleto, vale-presente e vendas com mais de uma forma de pagame
 {% endcontent-ref %}
 
 {% content-ref url="como-utilizar-o-vale-presente.md" %}
-[Como utilizar o Vale Presente](como-utilizar-o-vale-presente.md)
+[Como usar o vale-presente](como-utilizar-o-vale-presente.md)
 {% endcontent-ref %}
 
 {% content-ref url="como-registrar-uma-venda-com-a-forma-de-pagamento-boleto.md" %}
-[Como registrar uma venda com a forma de pagamento boleto](como-registrar-uma-venda-com-a-forma-de-pagamento-boleto.md)
+[Como registrar uma venda paga com boleto](como-registrar-uma-venda-com-a-forma-de-pagamento-boleto.md)
 {% endcontent-ref %}
 
 {% content-ref url="como-receber-por-pix.md" %}

@@ -1,5 +1,4 @@
 ---
-description: "Assista o vídeo abaixo para entender como funciona o cadastro de novas variações:"
 tags:
   - tag: produtos
     primary: true
@@ -7,7 +6,6 @@ tags:
 
 # Como cadastrar as variações de um produto no sistema
 
-###
 
 {% embed url="<https://www.loom.com/share/64b16778022c403e8312eed53fbbff1d>" %}
 
@@ -15,7 +13,7 @@ tags:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2F44tCqTTfCbDWNLJc7PPp%2Fimage.png?alt=media&amp;token=7af68650-ff90-4d8d-99a3-be426fd66145" alt=""><figcaption></figcaption></figure>
 
-2 - Caso o produto já esteja cadastrado e você queira apenas incluir essas variações, pode ir em COMPRAS > GESTÃO DE ESTOQUE > CADASTRAR PRODUTO:
+2 - Caso o produto já esteja cadastrado e você queira apenas incluir essas variações, pode ir em **COMPRAS > GESTÃO DE ESTOQUE > CADASTRAR PRODUTO**:
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2F8CIMOrimOFCgMdmKj9yR%2Fimage.png?alt=media&amp;token=57116dc0-cc68-447e-b16d-26992d59d386" alt=""><figcaption></figcaption></figure>
 

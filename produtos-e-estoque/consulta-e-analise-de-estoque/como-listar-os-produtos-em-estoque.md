@@ -13,7 +13,7 @@ tags:
 🔧 **Nota interna (D16) – remover antes de publicar:** conteúdo repetido com [Como listar seus produtos no estoque](como-listar-seus-produtos-no-estoque.md). Juntar os dois e manter só um.
 {% endhint %}
 
-Para listar seus produtos em estoque vá na aba de COMPRAS > GESTÃO DE ESTOQUE > LISTAR PRODUTOS
+Para listar seus produtos em estoque vá na aba de **COMPRAS > GESTÃO DE ESTOQUE > LISTAR PRODUTOS**
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FVXbMyIyrN1oOmwM27n2L%2Fimage.png?alt=media&amp;token=836cfaea-ea8d-4e7b-beea-81f584345242" alt=""><figcaption></figcaption></figure>
 

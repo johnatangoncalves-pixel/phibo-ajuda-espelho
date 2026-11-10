@@ -8,8 +8,8 @@ tags:
 
 # Como corrigir dados de uma nota já emitida (carta de correção)
 
-{% hint style="success" %}
-**Artigo unificado:** substitui “Como emitir carta de correção para NF-e de Devolução” (https://ajuda.phibo.site/sobre-o-sitema/fiscal/como-fazer-uma-nota-de-devolucao-no-phibo-2).
+{% hint style="warning" %}
+🔧 **Nota interna – remover antes de publicar. Artigo unificado:** substitui “Como emitir carta de correção para NF-e de Devolução” (https://ajuda.phibo.site/sobre-o-sitema/fiscal/como-fazer-uma-nota-de-devolucao-no-phibo-2).
 {% endhint %}
 
 {% hint style="info" %}

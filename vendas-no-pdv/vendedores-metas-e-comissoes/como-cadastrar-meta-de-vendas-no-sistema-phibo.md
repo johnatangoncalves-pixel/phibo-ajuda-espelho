@@ -1,12 +1,11 @@
 ---
-description: "Assista o vídeo passo a passo abaixo:"
 tags:
   - tag: vendedores
     primary: true
   - vendas
 ---
 
-# Como cadastrar meta de vendas no Sistema Phibo
+# Como cadastrar a meta de vendas
 
 {% hint style="info" %}
 📝 **Passo a passo em texto em breve.** Enquanto isso, acompanhe o tutorial em vídeo abaixo.

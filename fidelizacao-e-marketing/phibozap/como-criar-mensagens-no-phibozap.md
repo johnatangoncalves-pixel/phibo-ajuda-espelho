@@ -1,5 +1,4 @@
 ---
-description: "Assista o vídeo abaixo para aprender a criar mensagens no Phibozap:"
 tags:
   - tag: phibozap
     primary: true

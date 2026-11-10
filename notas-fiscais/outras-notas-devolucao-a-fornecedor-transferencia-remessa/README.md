@@ -11,7 +11,7 @@ tags:
 Notas de devolução ao fornecedor, transferência entre lojas, remessa para feiras e brindes.
 
 {% content-ref url="como-emitir-nf-e-de-devolucao-ao-fornecedor-troca-ou-remessa-para-conserto.md" %}
-[Como emitir NF-e de devolução ao fornecedor, troca ou remessa para conserto](como-emitir-nf-e-de-devolucao-ao-fornecedor-troca-ou-remessa-para-conserto.md)
+[Como emitir nota de devolução ao fornecedor, troca ou remessa para conserto (NF-e)](como-emitir-nf-e-de-devolucao-ao-fornecedor-troca-ou-remessa-para-conserto.md)
 {% endcontent-ref %}
 
 {% content-ref url="como-emitir-nota-de-transferencia-matriz-e-filial.md" %}

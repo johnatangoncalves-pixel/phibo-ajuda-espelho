@@ -21,14 +21,14 @@ O PhiboZap é o nosso mais novo produto de automação de mensagens no WhatsApp.
 
 {% embed url="<https://www.loom.com/share/f92425f8d64a4363902b9ecf515f3c22?sid=2ed50669-5f85-471f-b683-751f4fb06c50>" %}
 
-## Explore abaixo outros recursos do PhiboZap:
+Explore abaixo outros recursos do PhiboZap:
 
 {% content-ref url="como-criar-campanha-de-cobranca-automatica-no-phibozap.md" %}
 [Como criar campanha de cobrança automática no PhiboZap](como-criar-campanha-de-cobranca-automatica-no-phibozap.md)
 {% endcontent-ref %}
 
 {% content-ref url="envio-automatico-da-nota-fiscal-e-cupom-de-venda-apos-a-conclusao-da-venda.md" %}
-[Envio automático da nota fiscal e Cupom de Venda após a conclusão da venda](envio-automatico-da-nota-fiscal-e-cupom-de-venda-apos-a-conclusao-da-venda.md)
+[Envio automático da nota fiscal e do cupom depois da venda](envio-automatico-da-nota-fiscal-e-cupom-de-venda-apos-a-conclusao-da-venda.md)
 {% endcontent-ref %}
 
 {% content-ref url="envio-do-cartao-fidelidade-automaticamente-pelo-phibozap.md" %}
