@@ -4,7 +4,7 @@ site:
   structure:
     - type: space
       key: space-1
-      title: Documentation
+      title: Central de Ajuda
       path: documentation
       default: true
       content:
