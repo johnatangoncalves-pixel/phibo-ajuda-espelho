@@ -10,6 +10,10 @@ tags:
 
 # Como ver os produtos mais e menos vendidos (giro de estoque)
 
+{% hint style="warning" %}
+🔧 **Nota interna – remover antes de publicar. Artigo unificado:** substitui “Como saber os produtos mais e menos vendidos no Phibo? (análise de giro de estoque)” (https://ajuda.phibo.site/sobre-o-sitema/estoque/como-saber-os-produtos-mais-e-menos-vendidos-no-phibo-analise-de-giro-de-estoque).
+{% endhint %}
+
 Segue o vídeo PASSO A PASSO de como analisar o giro de estoque no sistema Phibo:
 
 {% embed url="<https://www.youtube.com/watch?v=JNDORoV1l4g>" %}

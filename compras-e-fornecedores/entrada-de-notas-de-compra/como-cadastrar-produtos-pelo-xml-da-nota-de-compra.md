@@ -30,7 +30,7 @@ Para cadastrar os produtos através da nota fiscal, precisaremos realizar 2 pass
 
 Segue descrito abaixo, a orientação detalhada dos passos :
 
-**1 - Primeiramente, vá em **COMPRAS > NOTA FISCAL > LER ARQUIVO XML**:** 
+**1 - Primeiramente, vá em COMPRAS > NOTA FISCAL > LER ARQUIVO XML:** 
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2F8n9bi3KOdNVimUTBefsv%2Fimage.png?alt=media&amp;token=798f1cbe-f66d-4cd6-878a-fdda68a1b6aa" alt=""><figcaption></figcaption></figure>
 
@@ -55,7 +55,7 @@ Caso tenha apenas o **PDF** e não o **XML**, solicite o Fornecedor para enviá-
 **IMPORTANTE:** Caso você trabalhe com margens diferentes para cada produto, será possível definir o valor de venda à cada um deles no momento da validação.
 {% endhint %}
 
-**5 - Após isso, será necessário fazer a**<mark style="background-color:red;">**validação (conferência)**</mark>**de cada peça, para confirmar a entrada desses produtos em seu estoque. Para isso, vá em **COMPRAS > NOTA FISCAL > VALIDAR PRODUTOS**:**
+**5 - Após isso, será necessário fazer a**<mark style="background-color:red;">**validação (conferência)**</mark>**de cada peça, para confirmar a entrada desses produtos em seu estoque. Para isso, vá em COMPRAS > NOTA FISCAL > VALIDAR PRODUTOS:**
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FXcoMqxlpBHHzLZYt33Ky%2Fimage.png?alt=media&amp;token=b016ede5-878c-4cf2-a0eb-877eb87d3714" alt=""><figcaption></figcaption></figure>
 
@@ -120,7 +120,7 @@ Nessa tela, a última coluna, **STATUS,** demonstra a situação atual do produt
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FvQtOSxevQ4NhmfP8LEJX%2Fimage.png?alt=media&amp;token=d352f51f-ca5d-42eb-8e39-651a1b0bb3c5" alt=""><figcaption></figcaption></figure>
 
-## Vídeo
+## Vídeo complementar
 
 {% embed url="https://www.loom.com/share/bf6c79d6348241f4ae2e69ce5f2ae485?sid=760f03a0-e8bb-41e6-9950-18efbb7512a6" %}
 

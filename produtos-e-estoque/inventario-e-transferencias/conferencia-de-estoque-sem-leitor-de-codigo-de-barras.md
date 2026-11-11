@@ -7,9 +7,25 @@ tags:
 
 # Conferência de estoque sem leitor de código de barras
 
+Sem leitor de código de barras, você ainda pode conferir o estoque. Basta usar duas abas da Phibo: uma para achar o produto e outra para a conferência.
+
 {% hint style="info" %}
-📝 **Passo a passo em texto em breve.** Enquanto isso, acompanhe o tutorial em vídeo abaixo.
+A tela de conferência só aceita o código de barras (EAN), que normalmente tem 13 dígitos. Por isso, em vez de digitar, você copia o código em outra aba.
 {% endhint %}
+
+## Passo a passo
+
+1. Entre na Phibo e abra o sistema em uma segunda aba.
+2. Na primeira aba, acesse **COMPRAS > GESTÃO DE ESTOQUE > CADASTRAR PRODUTO NOVO**.
+3. Na segunda aba, acesse **COMPRAS > GESTÃO DE ESTOQUE > CONFERÊNCIA**.
+4. Com a peça em mãos, busque o produto na primeira aba pela descrição, pelo código do produto ou pelo código de barras.
+5. Copie o código de barras da variação correta.
+6. Na aba de conferência, cole o código e aperte **Enter**. O produto entra na lista.
+7. Se tiver mais de uma unidade, cole o código e aperte **Enter** de novo para cada peça.
+8. Repita para todas as peças, incluindo outras cores e tamanhos.
+9. Confira a lista e conclua a conferência.
+
+## 🎬 Vídeo
 
 Segue o passo a passo de como fazer uma conferência de estoque sem precisar utilizar o leitor de código de barras.
 

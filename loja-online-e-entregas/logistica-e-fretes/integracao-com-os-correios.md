@@ -14,7 +14,7 @@ Veja o tutorial passo a passo em imagens:
 
 Para realizar a integração logística com a plataforma dos Correios, o primeiro passo é definir os parâmetros.
 
-Acesse a tela **INICIO > **CONFIGURAR MÓDULOS > INTEGRAÇÃO** LOGÍSTICA**, conforme imagem abaixo:
+Acesse a tela **INICIO > CONFIGURAR MÓDULOS > INTEGRAÇÃO LOGÍSTICA**, conforme imagem abaixo:
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeESdRGNy4UStzzpgk5H-ga-bkIOhh7o_ey4MK5lBSnwcOvbrF_con3mZiPDLjdp5RCp99jNMKcqj6oHyXnIAwsx0xMXjgPm7EKx3l4aCwpsShDW6uaQzzAtQl-igrZgODyWTPw?key=8Zm3bv4ihKRBFzk9_tLEsA)
 

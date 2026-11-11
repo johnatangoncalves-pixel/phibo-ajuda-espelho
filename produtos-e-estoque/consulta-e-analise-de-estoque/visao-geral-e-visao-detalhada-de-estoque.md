@@ -6,6 +6,10 @@ tags:
 
 # Visão geral e visão detalhada de estoque
 
+{% hint style="warning" %}
+🔧 **Nota interna – remover antes de publicar. Artigo unificado:** substitui “Visão Geral de Estoque” (https://ajuda.phibo.site/primeiros-passos/untitled/visao-geral-de-estoque).
+{% endhint %}
+
 Assista o vídeo abaixo para ver o passo a passo completo:
 
 {% embed url="<https://www.loom.com/share/0e19aeefca064d7cae3f9e6123104337>" %}

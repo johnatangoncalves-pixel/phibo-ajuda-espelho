@@ -74,7 +74,52 @@ Com tudo devidamente cadastrado, é só clicar em salvar.
 
  
 
-## Vídeo
+## Mais detalhes
+
+Cadastre suas maquininhas de cartão e as taxas de cada uma para lançar corretamente as vendas no crédito e no débito.
+
+{% hint style="info" %}
+**Antes de começar:** cadastre a conta bancária onde você recebe o dinheiro da maquininha. Se o Pix cai em outra conta, cadastre as duas.
+{% endhint %}
+
+## Passo a passo
+
+### Parte 1: Cadastrar a conta bancária
+
+1. Acesse **FINANÇAS > CONTAS BANCÁRIAS > CADASTRAR CONTA CORRENTE**.
+2. Informe o **banco**, a **agência** e a **conta**. Os campos **saldo** e **data** não são obrigatórios.
+3. Marque **emitir boleto** apenas se você emite boletos e quer saber em qual conta cada boleto será recebido.
+4. Clique em **Salvar**.
+
+### Parte 2: Cadastrar a maquininha
+
+1. Acesse **VENDAS > CONTAS A RECEBER > CARTÕES > CADASTRAR MAQUININHA**.
+2. Informe a maquininha, a conta bancária e, se você paga aluguel pelo equipamento, o valor do **aluguel**.
+3. Em **dias para crédito**, informe em quantos dias você recebe da administradora (0 se recebe no mesmo dia, 1, 2, 3...).
+4. Indique se faz **antecipação** das parcelas.
+5. Ao definir o prazo em dia útil, aparecem as opções abaixo [confirmar na tela]:
+   * **Cálculo dias úteis:** marque **sim** só se a administradora conta o prazo da primeira parcela em dias úteis (ex.: 30 dias úteis, sem sábados, domingos e feriados). Na grande maioria dos casos, deixe **não**.
+   * **Vencimento dias não úteis:** marque **sim** se você recebe em qualquer dia, inclusive fins de semana e feriados. Marque **não** se recebe só em dias úteis: o vencimento passa para o próximo dia útil.
+6. Clique na **estrela** da maquininha que você mais usa para deixá-la como principal.
+7. Clique em **Salvar**.
+
+{% hint style="warning" %}
+Não informe a porcentagem de antecipação no campo **taxa de antecipação** da maquininha. Ela entra no cadastro de taxas, explicado a seguir.
+{% endhint %}
+
+### Parte 3: Cadastrar as taxas
+
+1. Acesse **VENDAS > CONTAS A RECEBER > CARTÕES > CADASTRAR TAXAS**.
+2. Pesquise a maquininha que deseja editar.
+3. Para remover parcelas que você não usa (ex.: acima de 5x), desative e depois exclua cada uma.
+4. Clique em **editar** (ícone de lápis com folha) e informe a taxa de cada parcela. Se a maquininha cobra taxa de antecipação à parte, some as duas (ex.: 5% + 4% = 9%). Se ela já informa uma taxa única, use essa.
+5. Repita para todas as bandeiras e também para o cartão de débito.
+
+{% hint style="warning" %}
+As bandeiras disponíveis são Visa, Master e Elo. As demais entram em **outros**. Não é possível cadastrar novas bandeiras nem excluir várias parcelas de uma vez.
+{% endhint %}
+
+## Vídeo complementar
 
 {% embed url="https://www.loom.com/share/0c9a230fae644cdba5f18ebaede84af3?sid=b8d54c64-0c1a-4cd2-83cf-f94e6d5b848c" %}
 

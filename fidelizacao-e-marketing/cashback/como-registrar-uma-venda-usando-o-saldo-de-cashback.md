@@ -8,7 +8,7 @@ tags:
 
 # Como registrar uma venda usando o saldo de cashback
 
-Para usar essa ferramenta é imprescindível que o seu programa de fidelização “**cashback**” esteja habilitado. Você pode conferir na tela **INICIO > **CONFIGURAR MÓDULOS > PROGRAMA FIDELIZAÇÃO**.**
+Para usar essa ferramenta é imprescindível que o seu programa de fidelização “**cashback**” esteja habilitado. Você pode conferir na tela **INICIO > CONFIGURAR MÓDULOS > PROGRAMA FIDELIZAÇÃO.**
 
 **Assista abaixo, o vídeo completo de como registrar uma venda usando o saldo de cashback do cliente:**
 

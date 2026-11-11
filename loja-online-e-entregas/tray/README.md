@@ -13,10 +13,6 @@ Integre a Tray, migre e vincule produtos e receba os pedidos no Phibo.
 [Visão geral da integração Tray](visao-geral-da-integracao-tray.md)
 {% endcontent-ref %}
 
-{% content-ref url="como-integrar-o-phibo-com-a-tray-resumido.md" %}
-[Como integrar o Phibo com a Tray (resumido)](como-integrar-o-phibo-com-a-tray-resumido.md)
-{% endcontent-ref %}
-
 {% content-ref url="como-integrar-o-phibo-com-a-tray.md" %}
 [Como integrar o Phibo com a Tray](como-integrar-o-phibo-com-a-tray.md)
 {% endcontent-ref %}

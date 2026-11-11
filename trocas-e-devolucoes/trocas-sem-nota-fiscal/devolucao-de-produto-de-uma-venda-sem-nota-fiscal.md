@@ -9,10 +9,6 @@ tags:
 
 # Devolução de produto de uma venda sem nota fiscal
 
-{% hint style="info" %}
-🔧 **Nota interna (D15) – remover antes de publicar:** conteúdo repetido com [Devolução de produto de uma venda com nota fiscal](../trocas-e-devolucoes-com-nota-fiscal/devolucao-de-produto-de-uma-venda-com-nota-fiscal.md). Juntar os dois e manter só um.
-{% endhint %}
-
 Caso o seu cliente devolva um produto adquirido e não tenha nenhuma NFE ou Cupom Fiscal emitido para ele, existem 3 tratativas que podem ser  realizadas  para registrar a devolução dessa mercadoria. Veja a seguir:
 
 [#id-1a-situacao-o-cliente-esta-devolvendo-todos-os-produtos-da-compra](#id-1a-situacao-o-cliente-esta-devolvendo-todos-os-produtos-da-compra "mention")

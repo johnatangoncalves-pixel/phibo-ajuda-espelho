@@ -19,12 +19,12 @@ tags:
 [Como cadastrar produtos pelo arquivo da nota de compra (XML)](../../compras-e-fornecedores/entrada-de-notas-de-compra/como-cadastrar-produtos-pelo-xml-da-nota-de-compra.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../produtos-e-estoque/consulta-e-analise-de-estoque/como-listar-os-produtos-em-estoque.md" %}
-[Como listar os produtos em estoque](../../produtos-e-estoque/consulta-e-analise-de-estoque/como-listar-os-produtos-em-estoque.md)
+{% content-ref url="../../produtos-e-estoque/consulta-e-analise-de-estoque/como-listar-seus-produtos-no-estoque.md" %}
+[Como listar seus produtos no estoque](../../produtos-e-estoque/consulta-e-analise-de-estoque/como-listar-seus-produtos-no-estoque.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../produtos-e-estoque/consulta-e-analise-de-estoque/visao-geral-de-estoque.md" %}
-[Visão geral de estoque](../../produtos-e-estoque/consulta-e-analise-de-estoque/visao-geral-de-estoque.md)
+{% content-ref url="../../produtos-e-estoque/consulta-e-analise-de-estoque/visao-geral-e-visao-detalhada-de-estoque.md" %}
+[Visão geral e visão detalhada de estoque](../../produtos-e-estoque/consulta-e-analise-de-estoque/visao-geral-e-visao-detalhada-de-estoque.md)
 {% endcontent-ref %}
 
 ---

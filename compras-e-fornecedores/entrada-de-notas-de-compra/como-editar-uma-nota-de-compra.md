@@ -8,9 +8,30 @@ tags:
 
 # Como editar uma nota de compra
 
-{% hint style="info" %}
-📝 **Passo a passo em texto em breve.** Enquanto isso, acompanhe o tutorial em vídeo abaixo.
+Veja como editar uma nota de compra, cadastrada manualmente ou via XML, para ajustar duplicatas, coleção e margem de venda.
+
+## Passo a passo
+
+1. Acesse **COMPRAS > NOTA FISCAL > LISTAR NOTA FISCAL**.
+2. Encontre a nota. Se ela não aparecer no filtro do mês, pesquise pelo **número da nota** ou filtre pelo **fornecedor**.
+3. Clique no **ícone de edição** da nota.
+4. Para alterar uma duplicata, clique no ícone de edição dela e ajuste o **valor**, a **data de vencimento** e, se quiser, uma informação adicional (por exemplo, número do cheque).
+5. Se precisar dividir em mais parcelas, informe os novos valores e datas até fechar o total da nota.
+6. Clique em **Confirmar** e depois em **Salvar**. O **Contas a pagar** é atualizado automaticamente.
+
+{% hint style="warning" %}
+Ao pesquisar pelo número, digite com os zeros à esquerda e no formato exibido na nota, por exemplo **0.989.877**. Sem esse formato, o sistema não encontra a nota.
 {% endhint %}
+
+## Entendendo a tela
+
+* **Campos em cinza:** não podem ser alterados, como fornecedor, número e data de emissão.
+* **Margem de venda:** pode ser alterada. A mudança vale para os produtos que ainda não foram validados.
+* **Coleção:** pode ser corrigida se foi informada errada.
+
+## 🎬 Vídeo
+
+Veja abaixo o passo a passo completo para editar as duplicatas do fornecedor:
 
 {% embed url="<https://www.loom.com/share/b102aed4b6ea4cb2a2a3e86bb240c7ae>" %}
 

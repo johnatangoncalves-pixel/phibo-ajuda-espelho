@@ -23,7 +23,6 @@ description: "Cartão fidelidade, cashback, WhatsApp e PhiboZap"
 ### [E-mail e WhatsApp](e-mail-e-whatsapp/README.md)
 
 * [Como configurar o E-mail Marketing](e-mail-e-whatsapp/como-configurar-o-e-mail-marketing.md)
-* [Como usar a integração com o WhatsApp](e-mail-e-whatsapp/como-utilizar-a-integracao-com-o-whatsapp.md)
 * [Como personalizar as mensagens de WhatsApp](e-mail-e-whatsapp/como-personalizar-as-mensagens-de-whatsapp.md)
 * [Erro ao enviar mensagem no WhatsApp: o que fazer](e-mail-e-whatsapp/erro-ao-enviar-mensagem-no-whatsapp-o-que-fazer.md)
 

@@ -13,10 +13,6 @@ Mensagens automáticas por WhatsApp e e-mail marketing.
 [Como configurar o E-mail Marketing](como-configurar-o-e-mail-marketing.md)
 {% endcontent-ref %}
 
-{% content-ref url="como-utilizar-a-integracao-com-o-whatsapp.md" %}
-[Como usar a integração com o WhatsApp](como-utilizar-a-integracao-com-o-whatsapp.md)
-{% endcontent-ref %}
-
 {% content-ref url="como-personalizar-as-mensagens-de-whatsapp.md" %}
 [Como personalizar as mensagens de WhatsApp](como-personalizar-as-mensagens-de-whatsapp.md)
 {% endcontent-ref %}

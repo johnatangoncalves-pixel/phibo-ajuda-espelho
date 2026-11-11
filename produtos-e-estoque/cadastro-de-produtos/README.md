@@ -13,10 +13,6 @@ Como cadastrar produtos manualmente, com fotos ou com código de barras próprio
 [Como cadastrar seu primeiro produto](como-cadastrar-seu-primeiro-produto.md)
 {% endcontent-ref %}
 
-{% content-ref url="como-cadastrar-os-produtos-manualmente.md" %}
-[Como cadastrar os produtos manualmente](como-cadastrar-os-produtos-manualmente.md)
-{% endcontent-ref %}
-
 {% content-ref url="cadastro-de-produtos-com-fotos.md" %}
 [Cadastro de produtos com fotos](cadastro-de-produtos-com-fotos.md)
 {% endcontent-ref %}

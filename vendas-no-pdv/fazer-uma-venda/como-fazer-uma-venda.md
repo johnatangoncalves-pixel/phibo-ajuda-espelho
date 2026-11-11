@@ -74,7 +74,7 @@ E depois selecione qual das formas que deseja encaminhar o cupom ao cliente clic
 
 ## Pronto! Venda finalizada!! 😁💙🎉
 
-## Vídeo
+## Vídeo complementar
 
 {% embed url="https://www.loom.com/share/034b43aeb8fe44419ed625523c619828" %}
 

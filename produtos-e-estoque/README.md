@@ -18,7 +18,6 @@ description: "Cadastro de produtos, grades, variações e análise de estoque"
 ### [Cadastro de produtos](cadastro-de-produtos/README.md)
 
 * [Como cadastrar seu primeiro produto](cadastro-de-produtos/como-cadastrar-seu-primeiro-produto.md)
-* [Como cadastrar os produtos manualmente](cadastro-de-produtos/como-cadastrar-os-produtos-manualmente.md)
 * [Cadastro de produtos com fotos](cadastro-de-produtos/cadastro-de-produtos-com-fotos.md)
 * [Como cadastrar o mesmo produto com códigos de barras (EAN) diferentes por tamanho](cadastro-de-produtos/como-cadastrar-o-mesmo-produto-com-codigos-de-barras-ean-diferentes-por-tamanho.md)
 
@@ -38,14 +37,10 @@ description: "Cadastro de produtos, grades, variações e análise de estoque"
 
 [Consultar e analisar o estoque](consulta-e-analise-de-estoque/README.md)
 
-* [Como listar os produtos em estoque](consulta-e-analise-de-estoque/como-listar-os-produtos-em-estoque.md)
-* [Visão geral de estoque](consulta-e-analise-de-estoque/visao-geral-de-estoque.md)
 * [Como listar seus produtos no estoque](consulta-e-analise-de-estoque/como-listar-seus-produtos-no-estoque.md)
 * [Visão geral e visão detalhada de estoque](consulta-e-analise-de-estoque/visao-geral-e-visao-detalhada-de-estoque.md)
 * [Como ver os produtos mais e menos vendidos (giro de estoque)](consulta-e-analise-de-estoque/como-analisar-giro-de-estoque.md)
 * [Como ver os produtos que mais faturam (Curva ABC)](consulta-e-analise-de-estoque/como-analisar-a-curva-abc.md)
-* [Produtos mais e menos vendidos (vídeo)](consulta-e-analise-de-estoque/produtos-mais-e-menos-vendidos-giro-de-estoque.md)
-* [Como visualizar os produtos já cadastrados em seu estoque](consulta-e-analise-de-estoque/como-visualizar-os-produtos-ja-cadastrados-em-seu-estoque.md)
 * [Como consultar as marcas mais vendidas por período](consulta-e-analise-de-estoque/como-consultar-as-marcas-mais-vendidas-por-periodo.md)
 * [Como visualizar o histórico de um produto](consulta-e-analise-de-estoque/como-visualizar-o-historico-de-um-produto.md)
 

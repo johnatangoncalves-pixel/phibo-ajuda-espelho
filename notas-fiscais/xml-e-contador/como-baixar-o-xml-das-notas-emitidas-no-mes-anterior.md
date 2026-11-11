@@ -12,7 +12,7 @@ tags:
 
 **Veja abaixo o passo a passo detalhado:**
 
-**1 – Acesse **INICIO > CONFIGURAR MODULOS > NOTA FISCAL ELETRÔNICA > REENVIAR XML NOTA FISCAL**:**
+**1 – Acesse INICIO > CONFIGURAR MODULOS > NOTA FISCAL ELETRÔNICA > REENVIAR XML NOTA FISCAL:**
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2FRAXfqwlAYoAS7M3q5TEd%2Fimage.png?alt=media&amp;token=87914ac1-841c-4287-aa99-4ed9ffb31371" alt=""><figcaption></figcaption></figure>
 

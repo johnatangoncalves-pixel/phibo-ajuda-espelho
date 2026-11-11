@@ -9,14 +9,6 @@ tags:
 
 Encontre produtos no estoque e descubra o que vende mais (e menos) na sua loja.
 
-{% content-ref url="como-listar-os-produtos-em-estoque.md" %}
-[Como listar os produtos em estoque](como-listar-os-produtos-em-estoque.md)
-{% endcontent-ref %}
-
-{% content-ref url="visao-geral-de-estoque.md" %}
-[Visão geral de estoque](visao-geral-de-estoque.md)
-{% endcontent-ref %}
-
 {% content-ref url="como-listar-seus-produtos-no-estoque.md" %}
 [Como listar seus produtos no estoque](como-listar-seus-produtos-no-estoque.md)
 {% endcontent-ref %}
@@ -31,14 +23,6 @@ Encontre produtos no estoque e descubra o que vende mais (e menos) na sua loja.
 
 {% content-ref url="como-analisar-a-curva-abc.md" %}
 [Como ver os produtos que mais faturam (Curva ABC)](como-analisar-a-curva-abc.md)
-{% endcontent-ref %}
-
-{% content-ref url="produtos-mais-e-menos-vendidos-giro-de-estoque.md" %}
-[Produtos mais e menos vendidos (vídeo)](produtos-mais-e-menos-vendidos-giro-de-estoque.md)
-{% endcontent-ref %}
-
-{% content-ref url="como-visualizar-os-produtos-ja-cadastrados-em-seu-estoque.md" %}
-[Como visualizar os produtos já cadastrados em seu estoque](como-visualizar-os-produtos-ja-cadastrados-em-seu-estoque.md)
 {% endcontent-ref %}
 
 {% content-ref url="como-consultar-as-marcas-mais-vendidas-por-periodo.md" %}

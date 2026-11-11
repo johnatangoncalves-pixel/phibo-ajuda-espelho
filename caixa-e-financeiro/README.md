@@ -14,14 +14,12 @@ description: "Caixa, despesas, contas a receber e relatórios financeiros"
 * [Como abrir o caixa, colocar troco e retirar dinheiro (sangria)](caixa-diario/como-fazer-abertura-suprimento-e-sangria-de-caixa.md)
 * [Como analisar o caixa do mês](caixa-diario/como-analisar-o-caixa-mensal.md)
 * [Como usar mais de um caixa na loja](caixa-diario/como-usar-multiplos-caixas.md)
-* [Fechamento de caixa na tela nova (vídeo)](caixa-diario/atualizacao-do-fechamento-de-caixa-para-as-telas-novas-do-sistema.md)
 
 [Despesas e contas a pagar](despesas-e-contas-a-pagar/README.md)
 
-* [Como lançar uma despesa (passo a passo com imagens)](despesas-e-contas-a-pagar/como-cadastrar-uma-despesa.md)
 * [Como editar ou excluir uma despesa](despesas-e-contas-a-pagar/como-editar-ou-excluir-uma-despesa.md)
 * [Contas a pagar](despesas-e-contas-a-pagar/contas-a-pagar.md)
-* [Como cadastrar uma despesa](despesas-e-contas-a-pagar/como-cadastrar-uma-despesa-2.md)
+* [Como cadastrar uma despesa](despesas-e-contas-a-pagar/como-cadastrar-uma-despesa.md)
 * [Como efetuar o pagamento de uma despesa](despesas-e-contas-a-pagar/como-efetuar-o-pagamento-de-uma-despesa.md)
 * [Diferença entre despesas e compras](despesas-e-contas-a-pagar/diferenca-entre-despesas-e-compras.md)
 

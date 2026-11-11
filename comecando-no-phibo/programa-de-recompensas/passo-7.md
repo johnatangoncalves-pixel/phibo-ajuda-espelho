@@ -9,8 +9,8 @@ tags:
 
 # Passo 7 – Despesas e notas de compra
 
-{% content-ref url="../../caixa-e-financeiro/despesas-e-contas-a-pagar/como-cadastrar-uma-despesa-2.md" %}
-[Como cadastrar uma despesa](../../caixa-e-financeiro/despesas-e-contas-a-pagar/como-cadastrar-uma-despesa-2.md)
+{% content-ref url="../../caixa-e-financeiro/despesas-e-contas-a-pagar/como-cadastrar-uma-despesa.md" %}
+[Como cadastrar uma despesa](../../caixa-e-financeiro/despesas-e-contas-a-pagar/como-cadastrar-uma-despesa.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../compras-e-fornecedores/entrada-de-notas-de-compra/como-cadastrar-uma-nota-de-compra-manualmente.md" %}

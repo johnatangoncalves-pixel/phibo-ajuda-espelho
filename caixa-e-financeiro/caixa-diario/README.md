@@ -26,7 +26,3 @@ Abrir, fazer sangria e suprimento e fechar o caixa do dia.
 [Como usar mais de um caixa na loja](como-usar-multiplos-caixas.md)
 {% endcontent-ref %}
 
-{% content-ref url="atualizacao-do-fechamento-de-caixa-para-as-telas-novas-do-sistema.md" %}
-[Fechamento de caixa na tela nova (vídeo)](atualizacao-do-fechamento-de-caixa-para-as-telas-novas-do-sistema.md)
-{% endcontent-ref %}
-

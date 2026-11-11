@@ -29,7 +29,3 @@ Cadastre vendedores, defina metas e acompanhe as comissões.
 [Como consultar o valor da comissão do vendedor](como-consultar-o-valor-da-comissao-do-vendedor.md)
 {% endcontent-ref %}
 
-{% content-ref url="como-cadastrar-meta-de-vendas-no-sistema-phibo.md" %}
-[Como cadastrar a meta de vendas](como-cadastrar-meta-de-vendas-no-sistema-phibo.md)
-{% endcontent-ref %}
-

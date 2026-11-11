@@ -22,7 +22,7 @@ Ou veja abaixo detalhadamente como solicitar:
 
 3- Informe o modelo ( NFCE modelo 65 ou NFE modelo 55 ) , o número de série da nota, número inicial e final clique no botão SALVAR.
 
-Obs: para consultar o modelo, série e o primeiro e último número do período desejado, acesse <mark style="background-color:yellow;">**VENDAS > **CONSULTA VENDAS > GESTAO DE** NF**</mark>, filtre o período e clique no botão verde (EXPORTAR TODAS AS NOTAS FISCAIS). Será gerada uma planilha com todas as informações necessárias para essa solicitação:
+Obs: para consultar o modelo, série e o primeiro e último número do período desejado, acesse <mark style="background-color:yellow;">**VENDAS > CONSULTA VENDAS > GESTAO DE NF**</mark>, filtre o período e clique no botão verde (EXPORTAR TODAS AS NOTAS FISCAIS). Será gerada uma planilha com todas as informações necessárias para essa solicitação:
 
 {% embed url="<https://prnt.sc/JWR5v2gPZgjq>" %}
 

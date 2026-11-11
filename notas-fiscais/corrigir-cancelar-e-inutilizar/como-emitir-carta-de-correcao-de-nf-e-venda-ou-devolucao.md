@@ -28,7 +28,7 @@ Assista ao vídeo abaixo para ver o passo a passo da emissão da carta de corre�
 
 {% embed url="<https://www.loom.com/share/22ce047982a44a5c94761b8027a5c8e5?sid=2c0259bc-4901-4698-8e15-f5fd6090693b>" %}
 
-## Vídeo
+## Vídeo complementar
 
 {% embed url="https://www.loom.com/share/ef27296ce9994de39abd031697c0bcbd" %}
 

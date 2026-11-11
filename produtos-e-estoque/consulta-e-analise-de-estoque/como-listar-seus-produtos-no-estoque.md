@@ -7,6 +7,10 @@ tags:
 
 # Como listar seus produtos no estoque
 
+{% hint style="warning" %}
+🔧 **Nota interna – remover antes de publicar. Artigo unificado:** substitui “Listando seus produtos em estoque” (https://ajuda.phibo.site/primeiros-passos/untitled/listar-produtos-em-estoque); “Como visualizar os produtos já cadastrados em seu estoque” (https://ajuda.phibo.site/sobre-o-sitema/estoque/como-visualizar-os-produtos-ja-cadastrados-em-seu-estoque).
+{% endhint %}
+
 {% embed url="<https://www.loom.com/share/14b25c60a39a475186f6d59eb3e1698c>" %}
 
 Para listar seus produtos em estoque vá na aba de **COMPRAS > GESTÃO DE ESTOQUE > CADASTRAR PRODUTO**

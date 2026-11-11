@@ -8,7 +8,7 @@ tags:
 
 {% embed url="<https://www.loom.com/share/de1fc42e911542bb92ad8a2feaa131ce>" %}
 
-1- Para criar um evento promocional e reduzir o valor de peças selecionadas, acesse **INICIO > **CONFIGURAR MÓDULOS > PROMOÇÃO**:**
+1- Para criar um evento promocional e reduzir o valor de peças selecionadas, acesse **INICIO > CONFIGURAR MÓDULOS > PROMOÇÃO:**
 
 <figure><img src="https://1136259996-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MbXdm46cDzB-VCuUzq9%2Fuploads%2Fs4Z6OxRUuFM8RuHXMIrc%2FPROMO.jpg?alt=media&amp;token=964b4c85-960c-4de2-9ec3-ca91d95b09f2" alt=""><figcaption><p>Se essas opções não aparecem para você, acesse com o usuário administrador.</p></figcaption></figure>
 

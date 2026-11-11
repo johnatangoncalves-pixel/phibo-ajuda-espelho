@@ -35,7 +35,6 @@ description: "Nuvemshop, Bagy, Tray, TikTok Shop e logística"
 ### [Tray](tray/README.md)
 
 * [Visão geral da integração Tray](tray/visao-geral-da-integracao-tray.md)
-* [Como integrar o Phibo com a Tray (resumido)](tray/como-integrar-o-phibo-com-a-tray-resumido.md)
 * [Como integrar o Phibo com a Tray](tray/como-integrar-o-phibo-com-a-tray.md)
 * [Como realizar a migração de produtos da Tray](tray/como-realizar-a-migracao-de-produtos-da-tray.md)
 * [Como cadastrar produto no e-commerce Tray](tray/como-cadastrar-produto-no-e-commerce-tray.md)

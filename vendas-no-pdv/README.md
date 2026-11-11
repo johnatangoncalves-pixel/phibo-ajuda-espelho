@@ -38,12 +38,10 @@ description: "PDV, formas de pagamento, descontos, metas e relatórios"
 * [Como definir as metas para os vendedores](vendedores-metas-e-comissoes/como-definir-as-metas-para-os-vendedores.md)
 * [Como listar as vendas de cada vendedor por período](vendedores-metas-e-comissoes/como-listar-as-vendas-de-cada-vendedor-por-periodo.md)
 * [Como consultar o valor da comissão do vendedor](vendedores-metas-e-comissoes/como-consultar-o-valor-da-comissao-do-vendedor.md)
-* [Como cadastrar a meta de vendas](vendedores-metas-e-comissoes/como-cadastrar-meta-de-vendas-no-sistema-phibo.md)
 
 ### [Relatórios de vendas](relatorios-de-vendas/README.md)
 
 * [Painel de vendas](relatorios-de-vendas/painel-de-vendas.md)
-* [Como usar as funcionalidades relação de vendas e painel de vendas](relatorios-de-vendas/como-utilizar-as-funcionalidades-relacao-de-vendas-e-painel-de-vendas.md)
 
 ### [Phibo Live](phibo-live/README.md)
 

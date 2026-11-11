@@ -18,8 +18,8 @@ tags:
 [Como abrir o caixa, colocar troco e retirar dinheiro (sangria)](../../caixa-e-financeiro/caixa-diario/como-fazer-abertura-suprimento-e-sangria-de-caixa.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../caixa-e-financeiro/despesas-e-contas-a-pagar/como-cadastrar-uma-despesa-2.md" %}
-[Como cadastrar uma despesa](../../caixa-e-financeiro/despesas-e-contas-a-pagar/como-cadastrar-uma-despesa-2.md)
+{% content-ref url="../../caixa-e-financeiro/despesas-e-contas-a-pagar/como-cadastrar-uma-despesa.md" %}
+[Como cadastrar uma despesa](../../caixa-e-financeiro/despesas-e-contas-a-pagar/como-cadastrar-uma-despesa.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../caixa-e-financeiro/despesas-e-contas-a-pagar/como-efetuar-o-pagamento-de-uma-despesa.md" %}

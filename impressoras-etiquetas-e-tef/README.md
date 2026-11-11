@@ -14,7 +14,6 @@ Não sabe por onde começar? [🛟 Problemas frequentes](../ajuda-rapida/problem
 
 ### [Etiquetas](etiquetas/README.md)
 
-* [Como imprimir etiquetas na Phibo (Usando a fila de impressão)](etiquetas/como-imprimir-etiquetas-na-phibo-usando-a-fila-de-impressao.md)
 * [Como imprimir etiquetas em folhas A4](etiquetas/como-imprimir-etiquetas-em-folhas-a4.md)
 * [Modelos de etiquetas disponíveis](etiquetas/modelos-de-etiquetas-disponiveis.md)
 * [Como instalar a impressora de etiquetas Elgin L42 Pro / L42 Pro Full](etiquetas/como-instalar-a-impressora-de-etiquetas-elgin-l42-pro-l42-pro-full.md)

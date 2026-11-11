@@ -10,10 +10,6 @@ tags:
 
 Modelos de etiqueta, fila de impressão e impressão em A4 ou impressora térmica.
 
-{% content-ref url="como-imprimir-etiquetas-na-phibo-usando-a-fila-de-impressao.md" %}
-[Como imprimir etiquetas na Phibo (Usando a fila de impressão)](como-imprimir-etiquetas-na-phibo-usando-a-fila-de-impressao.md)
-{% endcontent-ref %}
-
 {% content-ref url="como-imprimir-etiquetas-em-folhas-a4.md" %}
 [Como imprimir etiquetas em folhas A4](como-imprimir-etiquetas-em-folhas-a4.md)
 {% endcontent-ref %}

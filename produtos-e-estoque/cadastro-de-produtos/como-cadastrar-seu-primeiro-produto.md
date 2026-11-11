@@ -8,6 +8,10 @@ tags:
 
 # Como cadastrar seu primeiro produto
 
+{% hint style="warning" %}
+🔧 **Nota interna – remover antes de publicar. Artigo unificado:** substitui “Como cadastrar os produtos manualmente” (https://ajuda.phibo.site/sobre-o-sitema/cadastros-2/produtos/como-cadastrar-os-produtos-manualmente).
+{% endhint %}
+
 {% embed url="<https://www.loom.com/share/c05c8283ddba4b3db2f367faf8201948>" %}
 
 {% content-ref url="../../compras-e-fornecedores/entrada-de-notas-de-compra/como-cadastrar-produtos-pelo-xml-da-nota-de-compra.md" %}
